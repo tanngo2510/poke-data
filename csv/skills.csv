@@ -1,0 +1,938 @@
+id,name_en,name_hans,name_hant,name_jp
+1,Pound,拍击,拍擊,はたく
+2,Karate Chop,空手劈,空手劈,からてチョップ
+3,Double Slap,连环巴掌,連環巴掌,おうふくビンタ
+4,Comet Punch,连续拳,連續拳,れんぞくパンチ
+5,Mega Punch,百万吨重拳,百萬噸重拳,メガトンパンチ
+6,Pay Day,聚宝功,聚寶功,ネコにこばん
+7,Fire Punch,火焰拳,火焰拳,ほのおのパンチ
+8,Ice Punch,冰冻拳,冰凍拳,れいとうパンチ
+9,Thunder Punch,雷电拳,雷電拳,かみなりパンチ
+10,Scratch,抓,抓,ひっかく
+11,Vise Grip,夹住,夾住,はさむ
+12,Guillotine,断头钳,斷頭鉗,ハサミギロチン
+13,Razor Wind,旋风刀,旋風刀,かまいたち
+14,Swords Dance,剑舞,劍舞,つるぎのまい
+15,Cut,居合斩,居合斬,いあいぎり
+16,Gust,起风,起風,かぜおこし
+17,Wing Attack,翅膀攻击,翅膀攻擊,つばさでうつ
+18,Whirlwind,吹飞,吹飛,ふきとばし
+19,Fly,飞翔,飛翔,そらをとぶ
+20,Bind,绑紧,綁緊,しめつける
+21,Slam,摔打,摔打,たたきつける
+22,Vine Whip,藤鞭,藤鞭,つるのムチ
+23,Stomp,踩踏,踩踏,ふみつけ
+24,Double Kick,二连踢,二連踢,にどげり
+25,Mega Kick,百万吨重踢,百萬噸重踢,メガトンキック
+26,Jump Kick,飞踢,飛踢,とびげり
+27,Rolling Kick,回旋踢,迴旋踢,まわしげり
+28,Sand Attack,泼沙,潑沙,すなかけ
+29,Headbutt,头锤,頭錘,ずつき
+30,Horn Attack,角撞,角撞,つのでつく
+31,Fury Attack,乱击,亂擊,みだれづき
+32,Horn Drill,角钻,角鑽,つのドリル
+33,Tackle,撞击,撞擊,たいあたり
+34,Body Slam,泰山压顶,泰山壓頂,のしかかり
+35,Wrap,紧束,緊束,まきつく
+36,Take Down,猛撞,猛撞,とっしん
+37,Thrash,大闹一番,大鬧一番,あばれる
+38,Double-Edge,舍身冲撞,捨身衝撞,すてみタックル
+39,Tail Whip,摇尾巴,搖尾巴,しっぽをふる
+40,Poison Sting,毒针,毒針,どくばり
+41,Twineedle,双针,雙針,ダブルニードル
+42,Pin Missile,飞弹针,飛彈針,ミサイルばり
+43,Leer,瞪眼,瞪眼,にらみつける
+44,Bite,咬住,咬住,かみつく
+45,Growl,叫声,叫聲,なきごえ
+46,Roar,吼叫,吼叫,ほえる
+47,Sing,唱歌,唱歌,うたう
+48,Supersonic,超音波,超音波,ちょうおんぱ
+49,Sonic Boom,音爆,音爆,ソニックブーム
+50,Disable,定身法,定身法,かなしばり
+51,Acid,溶解液,溶解液,ようかいえき
+52,Ember,火花,火花,ひのこ
+53,Flamethrower,喷射火焰,噴射火焰,かえんほうしゃ
+54,Mist,白雾,白霧,しろいきり
+55,Water Gun,水枪,水槍,みずでっぽう
+56,Hydro Pump,水炮,水炮,ハイドロポンプ
+57,Surf,冲浪,衝浪,なみのり
+58,Ice Beam,冰冻光束,冰凍光束,れいとうビーム
+59,Blizzard,暴风雪,暴風雪,ふぶき
+60,Psybeam,幻象光线,幻象光線,サイケこうせん
+61,Bubble Beam,泡沫光线,泡沫光線,バブルこうせん
+62,Aurora Beam,极光束,極光束,オーロラビーム
+63,Hyper Beam,破坏光线,破壞光線,はかいこうせん
+64,Peck,啄,啄,つつく
+65,Drill Peck,啄钻,啄鑽,ドリルくちばし
+66,Submission,地狱翻滚,地獄翻滾,じごくぐるま
+67,Low Kick,踢倒,踢倒,けたぐり
+68,Counter,双倍奉还,雙倍奉還,カウンター
+69,Seismic Toss,地球上投,地球上投,ちきゅうなげ
+70,Strength,怪力,怪力,かいりき
+71,Absorb,吸取,吸取,すいとる
+72,Mega Drain,超级吸取,超級吸取,メガドレイン
+73,Leech Seed,寄生种子,寄生種子,やどりぎのタネ
+74,Growth,生长,生長,せいちょう
+75,Razor Leaf,飞叶快刀,飛葉快刀,はっぱカッター
+76,Solar Beam,日光束,日光束,ソーラービーム
+77,Poison Powder,毒粉,毒粉,どくのこな
+78,Stun Spore,麻痹粉,麻痺粉,しびれごな
+79,Sleep Powder,催眠粉,催眠粉,ねむりごな
+80,Petal Dance,花瓣舞,花瓣舞,はなびらのまい
+81,String Shot,吐丝,吐絲,いとをはく
+82,Dragon Rage,龙之怒,龍之怒,りゅうのいかり
+83,Fire Spin,火焰旋涡,火焰旋渦,ほのおのうず
+84,Thunder Shock,电击,電擊,でんきショック
+85,Thunderbolt,十万伏特,十萬伏特,１０まんボルト
+86,Thunder Wave,电磁波,電磁波,でんじは
+87,Thunder,打雷,打雷,かみなり
+88,Rock Throw,落石,落石,いわおとし
+89,Earthquake,地震,地震,じしん
+90,Fissure,地裂,地裂,じわれ
+91,Dig,挖洞,挖洞,あなをほる
+92,Toxic,剧毒,劇毒,どくどく
+93,Confusion,念力,念力,ねんりき
+94,Psychic,精神强念,精神強念,サイコキネシス
+95,Hypnosis,催眠术,催眠術,さいみんじゅつ
+96,Meditate,瑜伽姿势,瑜伽姿勢,ヨガのポーズ
+97,Agility,高速移动,高速移動,こうそくいどう
+98,Quick Attack,电光一闪,電光一閃,でんこうせっか
+99,Rage,愤怒,憤怒,いかり
+100,Teleport,瞬间移动,瞬間移動,テレポート
+101,Night Shade,黑夜魔影,黑夜魔影,ナイトヘッド
+102,Mimic,模仿,模仿,ものまね
+103,Screech,刺耳声,刺耳聲,いやなおと
+104,Double Team,影子分身,影子分身,かげぶんしん
+105,Recover,自我再生,自我再生,じこさいせい
+106,Harden,变硬,變硬,かたくなる
+107,Minimize,变小,變小,ちいさくなる
+108,Smokescreen,烟幕,煙幕,えんまく
+109,Confuse Ray,奇异之光,奇異之光,あやしいひかり
+110,Withdraw,缩入壳中,縮入殼中,からにこもる
+111,Defense Curl,变圆,變圓,まるくなる
+112,Barrier,屏障,屏障,バリアー
+113,Light Screen,光墙,光牆,ひかりのかべ
+114,Haze,黑雾,黑霧,くろいきり
+115,Reflect,反射壁,反射壁,リフレクター
+116,Focus Energy,聚气,聚氣,きあいだめ
+117,Bide,忍耐,忍耐,がまん
+118,Metronome,挥指,揮指,ゆびをふる
+119,Mirror Move,鹦鹉学舌,鸚鵡學舌,オウムがえし
+120,Self-Destruct,自爆,自爆,じばく
+121,Egg Bomb,炸蛋,炸蛋,タマゴばくだん
+122,Lick,舌舔,舌舔,したでなめる
+123,Smog,浊雾,濁霧,スモッグ
+124,Sludge,污泥攻击,污泥攻擊,ヘドロこうげき
+125,Bone Club,骨棒,骨棒,ホネこんぼう
+126,Fire Blast,大字爆炎,大字爆炎,だいもんじ
+127,Waterfall,攀瀑,攀瀑,たきのぼり
+128,Clamp,贝壳夹击,貝殼夾擊,からではさむ
+129,Swift,高速星星,高速星星,スピードスター
+130,Skull Bash,火箭头锤,火箭頭錘,ロケットずつき
+131,Spike Cannon,尖刺加农炮,尖刺加農炮,とげキャノン
+132,Constrict,缠绕,纏繞,からみつく
+133,Amnesia,瞬间失忆,瞬間失憶,ドわすれ
+134,Kinesis,折弯汤匙,折彎湯匙,スプーンまげ
+135,Soft-Boiled,生蛋,生蛋,タマゴうみ
+136,High Jump Kick,飞膝踢,飛膝踢,とびひざげり
+137,Glare,大蛇瞪眼,大蛇瞪眼,へびにらみ
+138,Dream Eater,食梦,食夢,ゆめくい
+139,Poison Gas,毒瓦斯,毒瓦斯,どくガス
+140,Barrage,投球,投球,たまなげ
+141,Leech Life,吸血,吸血,きゅうけつ
+142,Lovely Kiss,恶魔之吻,惡魔之吻,あくまのキッス
+143,Sky Attack,神鸟猛击,神鳥猛擊,ゴッドバード
+144,Transform,变身,變身,へんしん
+145,Bubble,泡沫,泡沫,あわ
+146,Dizzy Punch,迷昏拳,迷昏拳,ピヨピヨパンチ
+147,Spore,蘑菇孢子,蘑菇孢子,キノコのほうし
+148,Flash,闪光,閃光,フラッシュ
+149,Psywave,精神波,精神波,サイコウェーブ
+150,Splash,跃起,躍起,はねる
+151,Acid Armor,溶化,溶化,とける
+152,Crabhammer,蟹钳锤,蟹鉗錘,クラブハンマー
+153,Explosion,大爆炸,大爆炸,だいばくはつ
+154,Fury Swipes,乱抓,亂抓,みだれひっかき
+155,Bonemerang,骨头回力镖,骨頭回力鏢,ホネブーメラン
+156,Rest,睡觉,睡覺,ねむる
+157,Rock Slide,岩崩,岩崩,いわなだれ
+158,Hyper Fang,必杀门牙,必殺門牙,ひっさつまえば
+159,Sharpen,棱角化,稜角化,かくばる
+160,Conversion,纹理,紋理,テクスチャー
+161,Tri Attack,三重攻击,三重攻擊,トライアタック
+162,Super Fang,愤怒门牙,憤怒門牙,いかりのまえば
+163,Slash,劈开,劈開,きりさく
+164,Substitute,替身,替身,みがわり
+165,Struggle,挣扎,掙扎,わるあがき
+166,Sketch,写生,寫生,スケッチ
+167,Triple Kick,三连踢,三連踢,トリプルキック
+168,Thief,小偷,小偷,どろぼう
+169,Spider Web,蛛网,蛛網,クモのす
+170,Mind Reader,心之眼,心之眼,こころのめ
+171,Nightmare,恶梦,惡夢,あくむ
+172,Flame Wheel,火焰轮,火焰輪,かえんぐるま
+173,Snore,打鼾,打鼾,いびき
+174,Curse,诅咒,詛咒,のろい
+175,Flail,抓狂,抓狂,じたばた
+176,Conversion 2,纹理２,紋理２,テクスチャー２
+177,Aeroblast,气旋攻击,氣旋攻擊,エアロブラスト
+178,Cotton Spore,棉孢子,棉孢子,わたほうし
+179,Reversal,起死回生,起死回生,きしかいせい
+180,Spite,怨恨,怨恨,うらみ
+181,Powder Snow,细雪,細雪,こなゆき
+182,Protect,守住,守住,まもる
+183,Mach Punch,音速拳,音速拳,マッハパンチ
+184,Scary Face,鬼面,鬼面,こわいかお
+185,Feint Attack,出奇一击,出奇一擊,だましうち
+186,Sweet Kiss,天使之吻,天使之吻,てんしのキッス
+187,Belly Drum,腹鼓,腹鼓,はらだいこ
+188,Sludge Bomb,污泥炸弹,污泥炸彈,ヘドロばくだん
+189,Mud-Slap,掷泥,擲泥,どろかけ
+190,Octazooka,章鱼桶炮,章魚桶炮,オクタンほう
+191,Spikes,撒菱,撒菱,まきびし
+192,Zap Cannon,电磁炮,電磁炮,でんじほう
+193,Foresight,识破,識破,みやぶる
+194,Destiny Bond,同命,同命,みちづれ
+195,Perish Song,灭亡之歌,滅亡之歌,ほろびのうた
+196,Icy Wind,冰冻之风,冰凍之風,こごえるかぜ
+197,Detect,看穿,看穿,みきり
+198,Bone Rush,骨棒乱打,骨棒亂打,ボーンラッシュ
+199,Lock-On,锁定,鎖定,ロックオン
+200,Outrage,逆鳞,逆鱗,げきりん
+201,Sandstorm,沙暴,沙暴,すなあらし
+202,Giga Drain,终极吸取,終極吸取,ギガドレイン
+203,Endure,挺住,挺住,こらえる
+204,Charm,撒娇,撒嬌,あまえる
+205,Rollout,滚动,滾動,ころがる
+206,False Swipe,点到为止,點到為止,みねうち
+207,Swagger,虚张声势,虛張聲勢,いばる
+208,Milk Drink,喝牛奶,喝牛奶,ミルクのみ
+209,Spark,电光,電光,スパーク
+210,Fury Cutter,连斩,連斬,れんぞくぎり
+211,Steel Wing,钢翼,鋼翼,はがねのつばさ
+212,Mean Look,黑色目光,黑色目光,くろいまなざし
+213,Attract,迷人,迷人,メロメロ
+214,Sleep Talk,梦话,夢話,ねごと
+215,Heal Bell,治愈铃声,治癒鈴聲,いやしのすず
+216,Return,报恩,報恩,おんがえし
+217,Present,礼物,禮物,プレゼント
+218,Frustration,迁怒,遷怒,やつあたり
+219,Safeguard,神秘守护,神秘守護,しんぴのまもり
+220,Pain Split,分担痛楚,分擔痛楚,いたみわけ
+221,Sacred Fire,神圣之火,神聖之火,せいなるほのお
+222,Magnitude,震级,震級,マグニチュード
+223,Dynamic Punch,爆裂拳,爆裂拳,ばくれつパンチ
+224,Megahorn,超级角击,超級角擊,メガホーン
+225,Dragon Breath,龙息,龍息,りゅうのいぶき
+226,Baton Pass,接棒,接棒,バトンタッチ
+227,Encore,再来一次,再來一次,アンコール
+228,Pursuit,追打,追打,おいうち
+229,Rapid Spin,高速旋转,高速旋轉,こうそくスピン
+230,Sweet Scent,甜甜香气,甜甜香氣,あまいかおり
+231,Iron Tail,铁尾,鐵尾,アイアンテール
+232,Metal Claw,金属爪,金屬爪,メタルクロー
+233,Vital Throw,借力摔,借力摔,あてみなげ
+234,Morning Sun,晨光,晨光,あさのひざし
+235,Synthesis,光合作用,光合作用,こうごうせい
+236,Moonlight,月光,月光,つきのひかり
+237,Hidden Power,觉醒力量,覺醒力量,めざめるパワー
+238,Cross Chop,十字劈,十字劈,クロスチョップ
+239,Twister,龙卷风,龍捲風,たつまき
+240,Rain Dance,求雨,求雨,あまごい
+241,Sunny Day,大晴天,大晴天,にほんばれ
+242,Crunch,咬碎,咬碎,かみくだく
+243,Mirror Coat,镜面反射,鏡面反射,ミラーコート
+244,Psych Up,自我暗示,自我暗示,じこあんじ
+245,Extreme Speed,神速,神速,しんそく
+246,Ancient Power,原始之力,原始之力,げんしのちから
+247,Shadow Ball,暗影球,暗影球,シャドーボール
+248,Future Sight,预知未来,預知未來,みらいよち
+249,Rock Smash,碎岩,碎岩,いわくだき
+250,Whirlpool,潮旋,潮旋,うずしお
+251,Beat Up,围攻,圍攻,ふくろだたき
+252,Fake Out,击掌奇袭,擊掌奇襲,ねこだまし
+253,Uproar,吵闹,吵鬧,さわぐ
+254,Stockpile,蓄力,蓄力,たくわえる
+255,Spit Up,喷出,噴出,はきだす
+256,Swallow,吞下,吞下,のみこむ
+257,Heat Wave,热风,熱風,ねっぷう
+258,Hail,冰雹,冰雹,あられ
+259,Torment,无理取闹,無理取鬧,いちゃもん
+260,Flatter,吹捧,吹捧,おだてる
+261,Will-O-Wisp,鬼火,鬼火,おにび
+262,Memento,临别礼物,臨別禮物,おきみやげ
+263,Facade,硬撑,硬撐,からげんき
+264,Focus Punch,真气拳,真氣拳,きあいパンチ
+265,Smelling Salts,清醒,清醒,きつけ
+266,Follow Me,看我嘛,看我嘛,このゆびとまれ
+267,Nature Power,自然之力,自然之力,しぜんのちから
+268,Charge,充电,充電,じゅうでん
+269,Taunt,挑衅,挑釁,ちょうはつ
+270,Helping Hand,帮助,幫助,てだすけ
+271,Trick,戏法,戲法,トリック
+272,Role Play,扮演,扮演,なりきり
+273,Wish,祈愿,祈願,ねがいごと
+274,Assist,借助,借助,ねこのて
+275,Ingrain,扎根,扎根,ねをはる
+276,Superpower,蛮力,蠻力,ばかぢから
+277,Magic Coat,魔法反射,魔法反射,マジックコート
+278,Recycle,回收利用,回收利用,リサイクル
+279,Revenge,报复,報復,リベンジ
+280,Brick Break,劈瓦,劈瓦,かわらわり
+281,Yawn,哈欠,哈欠,あくび
+282,Knock Off,拍落,拍落,はたきおとす
+283,Endeavor,蛮干,蠻幹,がむしゃら
+284,Eruption,喷火,噴火,ふんか
+285,Skill Swap,特性互换,特性互換,スキルスワップ
+286,Imprison,封印,封印,ふういん
+287,Refresh,焕然一新,煥然一新,リフレッシュ
+288,Grudge,怨念,怨念,おんねん
+289,Snatch,抢夺,搶奪,よこどり
+290,Secret Power,秘密之力,秘密之力,ひみつのちから
+291,Dive,潜水,潛水,ダイビング
+292,Arm Thrust,猛推,猛推,つっぱり
+293,Camouflage,保护色,保護色,ほごしょく
+294,Tail Glow,萤火,螢火,ほたるび
+295,Luster Purge,洁净光芒,潔淨光芒,ラスターパージ
+296,Mist Ball,薄雾球,薄霧球,ミストボール
+297,Feather Dance,羽毛舞,羽毛舞,フェザーダンス
+298,Teeter Dance,摇晃舞,搖晃舞,フラフラダンス
+299,Blaze Kick,火焰踢,火焰踢,ブレイズキック
+300,Mud Sport,玩泥巴,玩泥巴,どろあそび
+301,Ice Ball,冰球,冰球,アイスボール
+302,Needle Arm,尖刺臂,尖刺臂,ニードルアーム
+303,Slack Off,偷懒,偷懶,なまける
+304,Hyper Voice,巨声,巨聲,ハイパーボイス
+305,Poison Fang,剧毒牙,劇毒牙,どくどくのキバ
+306,Crush Claw,撕裂爪,撕裂爪,ブレイククロー
+307,Blast Burn,爆炸烈焰,爆炸烈焰,ブラストバーン
+308,Hydro Cannon,加农水炮,加農水炮,ハイドロカノン
+309,Meteor Mash,彗星拳,彗星拳,コメットパンチ
+310,Astonish,惊吓,驚嚇,おどろかす
+311,Weather Ball,气象球,氣象球,ウェザーボール
+312,Aromatherapy,芳香治疗,芳香治療,アロマセラピー
+313,Fake Tears,假哭,假哭,うそなき
+314,Air Cutter,空气利刃,空氣利刃,エアカッター
+315,Overheat,过热,過熱,オーバーヒート
+316,Odor Sleuth,气味侦测,氣味偵測,かぎわける
+317,Rock Tomb,岩石封锁,岩石封鎖,がんせきふうじ
+318,Silver Wind,银色旋风,銀色旋風,ぎんいろのかぜ
+319,Metal Sound,金属音,金屬音,きんぞくおん
+320,Grass Whistle,草笛,草笛,くさぶえ
+321,Tickle,挠痒,搔癢,くすぐる
+322,Cosmic Power,宇宙力量,宇宙力量,コスモパワー
+323,Water Spout,喷水,噴水,しおふき
+324,Signal Beam,信号光束,信號光束,シグナルビーム
+325,Shadow Punch,暗影拳,暗影拳,シャドーパンチ
+326,Extrasensory,神通力,神通力,じんつうりき
+327,Sky Uppercut,冲天拳,衝天拳,スカイアッパー
+328,Sand Tomb,流沙地狱,流沙地獄,すなじごく
+329,Sheer Cold,绝对零度,絕對零度,ぜったいれいど
+330,Muddy Water,浊流,濁流,だくりゅう
+331,Bullet Seed,种子机关枪,種子機關槍,タネマシンガン
+332,Aerial Ace,燕返,燕返,つばめがえし
+333,Icicle Spear,冰锥,冰錐,つららばり
+334,Iron Defense,铁壁,鐵壁,てっぺき
+335,Block,挡路,擋路,とおせんぼう
+336,Howl,长嚎,長嚎,とおぼえ
+337,Dragon Claw,龙爪,龍爪,ドラゴンクロー
+338,Frenzy Plant,疯狂植物,瘋狂植物,ハードプラント
+339,Bulk Up,健美,健美,ビルドアップ
+340,Bounce,弹跳,彈跳,とびはねる
+341,Mud Shot,泥巴射击,泥巴射擊,マッドショット
+342,Poison Tail,毒尾,毒尾,ポイズンテール
+343,Covet,渴望,渴望,ほしがる
+344,Volt Tackle,伏特攻击,伏特攻擊,ボルテッカー
+345,Magical Leaf,魔法叶,魔法葉,マジカルリーフ
+346,Water Sport,玩水,玩水,みずあそび
+347,Calm Mind,冥想,冥想,めいそう
+348,Leaf Blade,叶刃,葉刃,リーフブレード
+349,Dragon Dance,龙之舞,龍之舞,りゅうのまい
+350,Rock Blast,岩石爆击,岩石爆擊,ロックブラスト
+351,Shock Wave,电击波,電擊波,でんげきは
+352,Water Pulse,水之波动,水之波動,みずのはどう
+353,Doom Desire,破灭之愿,破滅之願,はめつのねがい
+354,Psycho Boost,精神突进,精神突進,サイコブースト
+355,Roost,羽栖,羽棲,はねやすめ
+356,Gravity,重力,重力,じゅうりょく
+357,Miracle Eye,奇迹之眼,奇跡之眼,ミラクルアイ
+358,Wake-Up Slap,唤醒巴掌,喚醒巴掌,めざましビンタ
+359,Hammer Arm,臂锤,臂錘,アームハンマー
+360,Gyro Ball,陀螺球,陀螺球,ジャイロボール
+361,Healing Wish,治愈之愿,治癒之願,いやしのねがい
+362,Brine,盐水,鹽水,しおみず
+363,Natural Gift,自然之恩,自然之恩,しぜんのめぐみ
+364,Feint,佯攻,佯攻,フェイント
+365,Pluck,啄食,啄食,ついばむ
+366,Tailwind,顺风,順風,おいかぜ
+367,Acupressure,点穴,點穴,つぼをつく
+368,Metal Burst,金属爆炸,金屬爆炸,メタルバースト
+369,U-turn,急速折返,急速折返,とんぼがえり
+370,Close Combat,近身战,近身戰,インファイト
+371,Payback,以牙还牙,以牙還牙,しっぺがえし
+372,Assurance,恶意追击,惡意追擊,ダメおし
+373,Embargo,查封,查封,さしおさえ
+374,Fling,投掷,投擲,なげつける
+375,Psycho Shift,精神转移,精神轉移,サイコシフト
+376,Trump Card,王牌,王牌,きりふだ
+377,Heal Block,回复封锁,回復封鎖,かいふくふうじ
+378,Wring Out,绞紧,絞緊,しぼりとる
+379,Power Trick,力量戏法,力量戲法,パワートリック
+380,Gastro Acid,胃液,胃液,いえき
+381,Lucky Chant,幸运咒语,幸運咒語,おまじない
+382,Me First,抢先一步,搶先一步,さきどり
+383,Copycat,仿效,仿效,まねっこ
+384,Power Swap,力量互换,力量互換,パワースワップ
+385,Guard Swap,防守互换,防守互換,ガードスワップ
+386,Punishment,惩罚,懲罰,おしおき
+387,Last Resort,珍藏,珍藏,とっておき
+388,Worry Seed,烦恼种子,煩惱種子,なやみのタネ
+389,Sucker Punch,突袭,突襲,ふいうち
+390,Toxic Spikes,毒菱,毒菱,どくびし
+391,Heart Swap,心灵互换,心靈互換,ハートスワップ
+392,Aqua Ring,水流环,水流環,アクアリング
+393,Magnet Rise,电磁飘浮,電磁飄浮,でんじふゆう
+394,Flare Blitz,闪焰冲锋,閃焰衝鋒,フレアドライブ
+395,Force Palm,发劲,發勁,はっけい
+396,Aura Sphere,波导弹,波導彈,はどうだん
+397,Rock Polish,岩石打磨,岩石打磨,ロックカット
+398,Poison Jab,毒击,毒擊,どくづき
+399,Dark Pulse,恶之波动,惡之波動,あくのはどう
+400,Night Slash,暗袭要害,暗襲要害,つじぎり
+401,Aqua Tail,水流尾,水流尾,アクアテール
+402,Seed Bomb,种子炸弹,種子炸彈,タネばくだん
+403,Air Slash,空气斩,空氣斬,エアスラッシュ
+404,X-Scissor,十字剪,十字剪,シザークロス
+405,Bug Buzz,虫鸣,蟲鳴,むしのさざめき
+406,Dragon Pulse,龙之波动,龍之波動,りゅうのはどう
+407,Dragon Rush,龙之俯冲,龍之俯衝,ドラゴンダイブ
+408,Power Gem,力量宝石,力量寶石,パワージェム
+409,Drain Punch,吸取拳,吸取拳,ドレインパンチ
+410,Vacuum Wave,真空波,真空波,しんくうは
+411,Focus Blast,真气弹,真氣彈,きあいだま
+412,Energy Ball,能量球,能量球,エナジーボール
+413,Brave Bird,勇鸟猛攻,勇鳥猛攻,ブレイブバード
+414,Earth Power,大地之力,大地之力,だいちのちから
+415,Switcheroo,掉包,掉包,すりかえ
+416,Giga Impact,终极冲击,終極衝擊,ギガインパクト
+417,Nasty Plot,诡计,詭計,わるだくみ
+418,Bullet Punch,子弹拳,子彈拳,バレットパンチ
+419,Avalanche,雪崩,雪崩,ゆきなだれ
+420,Ice Shard,冰砾,冰礫,こおりのつぶて
+421,Shadow Claw,暗影爪,暗影爪,シャドークロー
+422,Thunder Fang,雷电牙,雷電牙,かみなりのキバ
+423,Ice Fang,冰冻牙,冰凍牙,こおりのキバ
+424,Fire Fang,火焰牙,火焰牙,ほのおのキバ
+425,Shadow Sneak,影子偷袭,影子偷襲,かげうち
+426,Mud Bomb,泥巴炸弹,泥巴炸彈,どろばくだん
+427,Psycho Cut,精神利刃,精神利刃,サイコカッター
+428,Zen Headbutt,意念头锤,意念頭錘,しねんのずつき
+429,Mirror Shot,镜光射击,鏡光射擊,ミラーショット
+430,Flash Cannon,加农光炮,加農光炮,ラスターカノン
+431,Rock Climb,攀岩,攀岩,ロッククライム
+432,Defog,清除浓雾,清除濃霧,きりばらい
+433,Trick Room,戏法空间,戲法空間,トリックルーム
+434,Draco Meteor,流星群,流星群,りゅうせいぐん
+435,Discharge,放电,放電,ほうでん
+436,Lava Plume,喷烟,噴煙,ふんえん
+437,Leaf Storm,飞叶风暴,飛葉風暴,リーフストーム
+438,Power Whip,强力鞭打,強力鞭打,パワーウィップ
+439,Rock Wrecker,岩石炮,岩石炮,がんせきほう
+440,Cross Poison,十字毒刃,十字毒刃,クロスポイズン
+441,Gunk Shot,垃圾射击,垃圾射擊,ダストシュート
+442,Iron Head,铁头,鐵頭,アイアンヘッド
+443,Magnet Bomb,磁铁炸弹,磁鐵炸彈,マグネットボム
+444,Stone Edge,尖石攻击,尖石攻擊,ストーンエッジ
+445,Captivate,诱惑,誘惑,ゆうわく
+446,Stealth Rock,隐形岩,隱形岩,ステルスロック
+447,Grass Knot,打草结,打草結,くさむすび
+448,Chatter,喋喋不休,喋喋不休,おしゃべり
+449,Judgment,制裁光砾,制裁光礫,さばきのつぶて
+450,Bug Bite,虫咬,蟲咬,むしくい
+451,Charge Beam,充电光束,充電光束,チャージビーム
+452,Wood Hammer,木槌,木槌,ウッドハンマー
+453,Aqua Jet,水流喷射,水流噴射,アクアジェット
+454,Attack Order,攻击指令,攻擊指令,こうげきしれい
+455,Defend Order,防御指令,防禦指令,ぼうぎょしれい
+456,Heal Order,回复指令,回復指令,かいふくしれい
+457,Head Smash,双刃头锤,雙刃頭錘,もろはのずつき
+458,Double Hit,二连击,二連擊,ダブルアタック
+459,Roar of Time,时光咆哮,時光咆哮,ときのほうこう
+460,Spacial Rend,亚空裂斩,亞空裂斬,あくうせつだん
+461,Lunar Dance,新月舞,新月舞,みかづきのまい
+462,Crush Grip,捏碎,捏碎,にぎりつぶす
+463,Magma Storm,熔岩风暴,熔岩風暴,マグマストーム
+464,Dark Void,暗黑洞,暗黑洞,ダークホール
+465,Seed Flare,种子闪光,種子閃光,シードフレア
+466,Ominous Wind,奇异之风,奇異之風,あやしいかぜ
+467,Shadow Force,暗影潜袭,暗影潛襲,シャドーダイブ
+468,Hone Claws,磨爪,磨爪,つめとぎ
+469,Wide Guard,广域防守,廣域防守,ワイドガード
+470,Guard Split,防守平分,防守平分,ガードシェア
+471,Power Split,力量平分,力量平分,パワーシェア
+472,Wonder Room,奇妙空间,奇妙空間,ワンダールーム
+473,Psyshock,精神冲击,精神衝擊,サイコショック
+474,Venoshock,毒液冲击,毒液衝擊,ベノムショック
+475,Autotomize,身体轻量化,身體輕量化,ボディパージ
+476,Rage Powder,愤怒粉,憤怒粉,いかりのこな
+477,Telekinesis,意念移物,意念移物,テレキネシス
+478,Magic Room,魔法空间,魔法空間,マジックルーム
+479,Smack Down,击落,擊落,うちおとす
+480,Storm Throw,山岚摔,山嵐摔,やまあらし
+481,Flame Burst,烈焰溅射,烈焰濺射,はじけるほのお
+482,Sludge Wave,污泥波,污泥波,ヘドロウェーブ
+483,Quiver Dance,蝶舞,蝶舞,ちょうのまい
+484,Heavy Slam,重磅冲撞,重磅衝撞,ヘビーボンバー
+485,Synchronoise,同步干扰,同步干擾,シンクロノイズ
+486,Electro Ball,电球,電球,エレキボール
+487,Soak,浸水,浸水,みずびたし
+488,Flame Charge,蓄能焰袭,蓄能焰襲,ニトロチャージ
+489,Coil,盘蜷,盤蜷,とぐろをまく
+490,Low Sweep,下盘踢,下盤踢,ローキック
+491,Acid Spray,酸液炸弹,酸液炸彈,アシッドボム
+492,Foul Play,欺诈,欺詐,イカサマ
+493,Simple Beam,单纯光束,單純光束,シンプルビーム
+494,Entrainment,找伙伴,找夥伴,なかまづくり
+495,After You,您先请,您先請,おさきにどうぞ
+496,Round,轮唱,輪唱,りんしょう
+497,Echoed Voice,回声,回聲,エコーボイス
+498,Chip Away,逐步击破,逐步擊破,なしくずし
+499,Clear Smog,清除之烟,清除之煙,クリアスモッグ
+500,Stored Power,辅助力量,輔助力量,アシストパワー
+501,Quick Guard,快速防守,快速防守,ファストガード
+502,Ally Switch,交换场地,交換場地,サイドチェンジ
+503,Scald,热水,熱水,ねっとう
+504,Shell Smash,破壳,破殼,からをやぶる
+505,Heal Pulse,治愈波动,治癒波動,いやしのはどう
+506,Hex,祸不单行,禍不單行,たたりめ
+507,Sky Drop,自由落体,自由落體,フリーフォール
+508,Shift Gear,换档,換檔,ギアチェンジ
+509,Circle Throw,巴投,巴投,ともえなげ
+510,Incinerate,烧尽,燒盡,やきつくす
+511,Quash,延后,延後,さきおくり
+512,Acrobatics,杂技,雜技,アクロバット
+513,Reflect Type,镜面属性,鏡面屬性,ミラータイプ
+514,Retaliate,报仇,報仇,かたきうち
+515,Final Gambit,搏命,搏命,いのちがけ
+516,Bestow,传递礼物,傳遞禮物,ギフトパス
+517,Inferno,炼狱,煉獄,れんごく
+518,Water Pledge,水之誓约,水之誓約,みずのちかい
+519,Fire Pledge,火之誓约,火之誓約,ほのおのちかい
+520,Grass Pledge,草之誓约,草之誓約,くさのちかい
+521,Volt Switch,伏特替换,伏特替換,ボルトチェンジ
+522,Struggle Bug,虫之抵抗,蟲之抵抗,むしのていこう
+523,Bulldoze,重踏,重踏,じならし
+524,Frost Breath,冰息,冰息,こおりのいぶき
+525,Dragon Tail,龙尾,龍尾,ドラゴンテール
+526,Work Up,自我激励,自我激勵,ふるいたてる
+527,Electroweb,电网,電網,エレキネット
+528,Wild Charge,疯狂伏特,瘋狂伏特,ワイルドボルト
+529,Drill Run,直冲钻,直衝鑽,ドリルライナー
+530,Dual Chop,二连劈,二連劈,ダブルチョップ
+531,Heart Stamp,爱心印章,愛心印章,ハートスタンプ
+532,Horn Leech,木角,木角,ウッドホーン
+533,Sacred Sword,圣剑,聖劍,せいなるつるぎ
+534,Razor Shell,贝壳刃,貝殼刃,シェルブレード
+535,Heat Crash,高温重压,高溫重壓,ヒートスタンプ
+536,Leaf Tornado,青草搅拌器,青草攪拌器,グラスミキサー
+537,Steamroller,疯狂滚压,瘋狂滾壓,ハードローラー
+538,Cotton Guard,棉花防守,棉花防守,コットンガード
+539,Night Daze,暗黑爆破,暗黑爆破,ナイトバースト
+540,Psystrike,精神击破,精神擊破,サイコブレイク
+541,Tail Slap,扫尾拍打,掃尾拍打,スイープビンタ
+542,Hurricane,暴风,暴風,ぼうふう
+543,Head Charge,爆炸头突击,爆炸頭突擊,アフロブレイク
+544,Gear Grind,齿轮飞盘,齒輪飛盤,ギアソーサー
+545,Searing Shot,火焰弹,火焰彈,かえんだん
+546,Techno Blast,高科技光炮,高科技光炮,テクノバスター
+547,Relic Song,古老之歌,古老之歌,いにしえのうた
+548,Secret Sword,神秘之剑,神秘之劍,しんぴのつるぎ
+549,Glaciate,冰封世界,冰封世界,こごえるせかい
+550,Bolt Strike,雷击,雷擊,らいげき
+551,Blue Flare,青焰,青焰,あおいほのお
+552,Fiery Dance,火之舞,火之舞,ほのおのまい
+553,Freeze Shock,冰冻伏特,冰凍伏特,フリーズボルト
+554,Ice Burn,极寒冷焰,極寒冷焰,コールドフレア
+555,Snarl,大声咆哮,大聲咆哮,バークアウト
+556,Icicle Crash,冰柱坠击,冰柱墜擊,つららおとし
+557,V-create,Ｖ热焰,Ｖ熱焰,Ｖジェネレート
+558,Fusion Flare,交错火焰,交錯火焰,クロスフレイム
+559,Fusion Bolt,交错闪电,交錯閃電,クロスサンダー
+560,Flying Press,飞身重压,飛身重壓,フライングプレス
+561,Mat Block,掀榻榻米,掀榻榻米,たたみがえし
+562,Belch,打嗝,打嗝,ゲップ
+563,Rototiller,耕地,耕地,たがやす
+564,Sticky Web,黏黏网,黏黏網,ねばねばネット
+565,Fell Stinger,致命针刺,致命針刺,とどめばり
+566,Phantom Force,潜灵奇袭,潛靈奇襲,ゴーストダイブ
+567,Trick-or-Treat,万圣夜,萬聖夜,ハロウィン
+568,Noble Roar,战吼,戰吼,おたけび
+569,Ion Deluge,等离子浴,等離子浴,プラズマシャワー
+570,Parabolic Charge,抛物面充电,拋物面充電,パラボラチャージ
+571,Forest’s Curse,森林诅咒,森林詛咒,もりののろい
+572,Petal Blizzard,落英缤纷,落英繽紛,はなふぶき
+573,Freeze-Dry,冷冻干燥,冷凍乾燥,フリーズドライ
+574,Disarming Voice,魅惑之声,魅惑之聲,チャームボイス
+575,Parting Shot,抛下狠话,拋下狠話,すてゼリフ
+576,Topsy-Turvy,颠倒,顛倒,ひっくりかえす
+577,Draining Kiss,吸取之吻,吸取之吻,ドレインキッス
+578,Crafty Shield,戏法防守,戲法防守,トリックガード
+579,Flower Shield,鲜花防守,鮮花防守,フラワーガード
+580,Grassy Terrain,青草场地,青草場地,グラスフィールド
+581,Misty Terrain,薄雾场地,薄霧場地,ミストフィールド
+582,Electrify,输电,輸電,そうでん
+583,Play Rough,嬉闹,嬉鬧,じゃれつく
+584,Fairy Wind,妖精之风,妖精之風,ようせいのかぜ
+585,Moonblast,月亮之力,月亮之力,ムーンフォース
+586,Boomburst,爆音波,爆音波,ばくおんぱ
+587,Fairy Lock,妖精之锁,妖精之鎖,フェアリーロック
+588,King’s Shield,王者盾牌,王者盾牌,キングシールド
+589,Play Nice,和睦相处,和睦相處,なかよくする
+590,Confide,密语,密語,ないしょばなし
+591,Diamond Storm,钻石风暴,鑽石風暴,ダイヤストーム
+592,Steam Eruption,蒸汽爆炸,蒸汽爆炸,スチームバースト
+593,Hyperspace Hole,异次元洞,異次元洞,いじげんホール
+594,Water Shuriken,飞水手里剑,飛水手裡劍,みずしゅりけん
+595,Mystical Fire,魔法火焰,魔法火焰,マジカルフレイム
+596,Spiky Shield,尖刺防守,尖刺防守,ニードルガード
+597,Aromatic Mist,芳香薄雾,芳香薄霧,アロマミスト
+598,Eerie Impulse,怪异电波,怪異電波,かいでんぱ
+599,Venom Drench,毒液陷阱,毒液陷阱,ベノムトラップ
+600,Powder,粉尘,粉塵,ふんじん
+601,Geomancy,大地掌控,大地掌控,ジオコントロール
+602,Magnetic Flux,磁场操控,磁場操控,じばそうさ
+603,Happy Hour,欢乐时光,歡樂時光,ハッピータイム
+604,Electric Terrain,电气场地,電氣場地,エレキフィールド
+605,Dazzling Gleam,魔法闪耀,魔法閃耀,マジカルシャイン
+606,Celebrate,庆祝,慶祝,おいわい
+607,Hold Hands,牵手,牽手,てをつなぐ
+608,Baby-Doll Eyes,圆瞳,圓瞳,つぶらなひとみ
+609,Nuzzle,蹭蹭脸颊,蹭蹭臉頰,ほっぺすりすり
+610,Hold Back,手下留情,手下留情,てかげん
+611,Infestation,死缠烂打,死纏爛打,まとわりつく
+612,Power-Up Punch,增强拳,增強拳,グロウパンチ
+613,Oblivion Wing,死亡之翼,死亡之翼,デスウイング
+614,Thousand Arrows,千箭齐发,千箭齊發,サウザンアロー
+615,Thousand Waves,千波激荡,千波激盪,サウザンウェーブ
+616,Land’s Wrath,大地神力,大地神力,グランドフォース
+617,Light of Ruin,破灭之光,破滅之光,はめつのひかり
+618,Origin Pulse,根源波动,根源波動,こんげんのはどう
+619,Precipice Blades,断崖之剑,斷崖之劍,だんがいのつるぎ
+620,Dragon Ascent,画龙点睛,畫龍點睛,ガリョウテンセイ
+621,Hyperspace Fury,异次元猛攻,異次元猛攻,いじげんラッシュ
+622,Breakneck Blitz,究极无敌大冲撞,究極無敵大衝撞,ウルトラダッシュアタック
+623,Breakneck Blitz,究极无敌大冲撞,究極無敵大衝撞,ウルトラダッシュアタック
+624,All-Out Pummeling,全力无双激烈拳,全力無雙激烈拳,ぜんりょくむそうげきれつけん
+625,All-Out Pummeling,全力无双激烈拳,全力無雙激烈拳,ぜんりょくむそうげきれつけん
+626,Supersonic Skystrike,极速俯冲轰烈撞,極速俯衝轟烈撞,ファイナルダイブクラッシュ
+627,Supersonic Skystrike,极速俯冲轰烈撞,極速俯衝轟烈撞,ファイナルダイブクラッシュ
+628,Acid Downpour,强酸剧毒灭绝雨,強酸劇毒滅絕雨,アシッドポイズンデリート
+629,Acid Downpour,强酸剧毒灭绝雨,強酸劇毒滅絕雨,アシッドポイズンデリート
+630,Tectonic Rage,地隆啸天大终结,地隆嘯天大終結,ライジングランドオーバー
+631,Tectonic Rage,地隆啸天大终结,地隆嘯天大終結,ライジングランドオーバー
+632,Continental Crush,毁天灭地巨岩坠,毀天滅地巨岩墜,ワールズエンドフォール
+633,Continental Crush,毁天灭地巨岩坠,毀天滅地巨岩墜,ワールズエンドフォール
+634,Savage Spin-Out,绝对捕食回旋斩,絕對捕食迴旋斬,ぜったいほしょくかいてんざん
+635,Savage Spin-Out,绝对捕食回旋斩,絕對捕食迴旋斬,ぜったいほしょくかいてんざん
+636,Never-Ending Nightmare,无尽暗夜之诱惑,無盡暗夜之誘惑,むげんあんやへのいざない
+637,Never-Ending Nightmare,无尽暗夜之诱惑,無盡暗夜之誘惑,むげんあんやへのいざない
+638,Corkscrew Crash,超绝螺旋连击,超絕螺旋連擊,ちょうぜつらせんれんげき
+639,Corkscrew Crash,超绝螺旋连击,超絕螺旋連擊,ちょうぜつらせんれんげき
+640,Inferno Overdrive,超强极限爆焰弹,超強極限爆焰彈,ダイナミックフルフレイム
+641,Inferno Overdrive,超强极限爆焰弹,超強極限爆焰彈,ダイナミックフルフレイム
+642,Hydro Vortex,超级水流大漩涡,超級水流大漩渦,スーパーアクアトルネード
+643,Hydro Vortex,超级水流大漩涡,超級水流大漩渦,スーパーアクアトルネード
+644,Bloom Doom,绚烂缤纷花怒放,絢爛繽紛花怒放,ブルームシャインエクストラ
+645,Bloom Doom,绚烂缤纷花怒放,絢爛繽紛花怒放,ブルームシャインエクストラ
+646,Gigavolt Havoc,终极伏特狂雷闪,終極伏特狂雷閃,スパーキングギガボルト
+647,Gigavolt Havoc,终极伏特狂雷闪,終極伏特狂雷閃,スパーキングギガボルト
+648,Shattered Psyche,至高精神破坏波,至高精神破壞波,マキシマムサイブレイカー
+649,Shattered Psyche,至高精神破坏波,至高精神破壞波,マキシマムサイブレイカー
+650,Subzero Slammer,激狂大地万里冰,激狂大地萬里冰,レイジングジオフリーズ
+651,Subzero Slammer,激狂大地万里冰,激狂大地萬里冰,レイジングジオフリーズ
+652,Devastating Drake,究极巨龙震天地,究極巨龍震天地,アルティメットドラゴンバーン
+653,Devastating Drake,究极巨龙震天地,究極巨龍震天地,アルティメットドラゴンバーン
+654,Black Hole Eclipse,黑洞吞噬万物灭,黑洞吞噬萬物滅,ブラックホールイクリプス
+655,Black Hole Eclipse,黑洞吞噬万物灭,黑洞吞噬萬物滅,ブラックホールイクリプス
+656,Twinkle Tackle,可爱星星飞天撞,可愛星星飛天撞,ラブリースターインパクト
+657,Twinkle Tackle,可爱星星飞天撞,可愛星星飛天撞,ラブリースターインパクト
+658,Catastropika,皮卡皮卡必杀击,皮卡皮卡必殺擊,ひっさつのピカチュート
+659,Shore Up,集沙,集沙,すなあつめ
+660,First Impression,迎头一击,迎頭一擊,であいがしら
+661,Baneful Bunker,碉堡,碉堡,トーチカ
+662,Spirit Shackle,缝影,縫影,かげぬい
+663,Darkest Lariat,ＤＤ金勾臂,ＤＤ金勾臂,ＤＤラリアット
+664,Sparkling Aria,泡影的咏叹调,泡影的詠歎調,うたかたのアリア
+665,Ice Hammer,冰锤,冰錘,アイスハンマー
+666,Floral Healing,花疗,花療,フラワーヒール
+667,High Horsepower,十万马力,十萬馬力,１０まんばりき
+668,Strength Sap,吸取力量,吸取力量,ちからをすいとる
+669,Solar Blade,日光刃,日光刃,ソーラーブレード
+670,Leafage,树叶,樹葉,このは
+671,Spotlight,聚光灯,聚光燈,スポットライト
+672,Toxic Thread,毒丝,毒絲,どくのいと
+673,Laser Focus,磨砺,磨礪,とぎすます
+674,Gear Up,辅助齿轮,輔助齒輪,アシストギア
+675,Throat Chop,地狱突刺,地獄突刺,じごくづき
+676,Pollen Puff,花粉团,花粉團,かふんだんご
+677,Anchor Shot,掷锚,擲錨,アンカーショット
+678,Psychic Terrain,精神场地,精神場地,サイコフィールド
+679,Lunge,猛扑,猛撲,とびかかる
+680,Fire Lash,火焰鞭,火焰鞭,ほのおのムチ
+681,Power Trip,嚣张,囂張,つけあがる
+682,Burn Up,燃尽,燃盡,もえつきる
+683,Speed Swap,速度互换,速度互換,スピードスワップ
+684,Smart Strike,修长之角,修長之角,スマートホーン
+685,Purify,净化,淨化,じょうか
+686,Revelation Dance,觉醒之舞,覺醒之舞,めざめるダンス
+687,Core Enforcer,核心惩罚者,核心懲罰者,コアパニッシャー
+688,Trop Kick,热带踢,熱帶踢,トロピカルキック
+689,Instruct,号令,號令,さいはい
+690,Beak Blast,鸟嘴加农炮,鳥嘴加農炮,くちばしキャノン
+691,Clanging Scales,鳞片噪音,鱗片噪音,スケイルノイズ
+692,Dragon Hammer,龙锤,龍錘,ドラゴンハンマー
+693,Brutal Swing,狂舞挥打,狂舞揮打,ぶんまわす
+694,Aurora Veil,极光幕,極光幕,オーロラベール
+695,Sinister Arrow Raid,遮天蔽日暗影箭,遮天蔽日暗影箭,シャドーアローズストライク
+696,Malicious Moonsault,极恶飞跃粉碎击,極惡飛躍粉碎擊,ハイパーダーククラッシャー
+697,Oceanic Operetta,海神庄严交响乐,海神莊嚴交響樂,わだつみのシンフォニア
+698,Guardian of Alola,巨人卫士・阿罗拉,巨人衛士・阿羅拉,ガーディアン・デ・アローラ
+699,Soul-Stealing 7-Star Strike,七星夺魂腿,七星奪魂腿,しちせいだっこんたい
+700,Stoked Sparksurfer,驾雷驭电戏冲浪,駕雷馭電戲衝浪,ライトニングサーフライド
+701,Pulverizing Pancake,认真起来大爆击,認真起來大爆擊,ほんきをだす　こうげき
+702,Extreme Evoboost,九彩升华齐聚顶,九彩昇華齊聚頂,ナインエボルブースト
+703,Genesis Supernova,起源超新星大爆炸,起源超新星大爆炸,オリジンズスーパーノヴァ
+704,Shell Trap,陷阱甲壳,陷阱甲殼,トラップシェル
+705,Fleur Cannon,花朵加农炮,花朵加農炮,フルールカノン
+706,Psychic Fangs,精神之牙,精神之牙,サイコファング
+707,Stomping Tantrum,跺脚,跺腳,じだんだ
+708,Shadow Bone,暗影之骨,暗影之骨,シャドーボーン
+709,Accelerock,冲岩,衝岩,アクセルロック
+710,Liquidation,水流裂破,水流裂破,アクアブレイク
+711,Prismatic Laser,棱镜镭射,稜鏡鐳射,プリズムレーザー
+712,Spectral Thief,暗影偷盗,暗影偷盜,シャドースチール
+713,Sunsteel Strike,流星闪冲,流星閃衝,メテオドライブ
+714,Moongeist Beam,暗影之光,暗影之光,シャドーレイ
+715,Tearful Look,泪眼汪汪,淚眼汪汪,なみだめ
+716,Zing Zap,麻麻刺刺,麻麻刺刺,びりびりちくちく
+717,Nature’s Madness,自然之怒,自然之怒,しぜんのいかり
+718,Multi-Attack,多属性攻击,多屬性攻擊,マルチアタック
+719,"10,000,000 Volt Thunderbolt",千万伏特,千萬伏特,１０００まんボルト
+720,Mind Blown,惊爆大头,驚爆大頭,ビックリヘッド
+721,Plasma Fists,等离子闪电拳,等離子閃電拳,プラズマフィスト
+722,Photon Geyser,光子喷涌,光子噴湧,フォトンゲイザー
+723,Light That Burns the Sky,焚天灭世炽光爆,焚天滅世熾光爆,てんこがすめつぼうのひかり
+724,Searing Sunraze Smash,日光回旋下苍穹,日光迴旋下蒼穹,サンシャインスマッシャー
+725,Menacing Moonraze Maelstrom,月华飞溅落灵霄,月華飛濺落靈霄,ムーンライトブラスター
+726,Let’s Snuggle Forever,亲密无间大乱揍,親密無間大亂揍,ぽかぼかフレンドタイム
+727,Splintered Stormshards,狼啸石牙飓风暴,狼嘯石牙颶風暴,ラジアルエッジストーム
+728,Clangorous Soulblaze,炽魂热舞烈音爆,熾魂熱舞烈音爆,ブレイジングソウルビート
+729,Zippy Zap,电电加速,電電加速,ばちばちアクセル
+730,Splishy Splash,滔滔冲浪,滔滔衝浪,ざぶざぶサーフ
+731,Floaty Fall,飘飘坠落,飄飄墜落,ふわふわフォール
+732,Pika Papow,闪闪雷光,閃閃雷光,ピカピカサンダー
+733,Bouncy Bubble,活活气泡,活活氣泡,いきいきバブル
+734,Buzzy Buzz,麻麻电击,麻麻電擊,びりびりエレキ
+735,Sizzly Slide,熊熊火爆,熊熊火爆,めらめらバーン
+736,Glitzy Glow,哗哗气场,嘩嘩氣場,どばどばオーラ
+737,Baddy Bad,坏坏领域,壞壞領域,わるわるゾーン
+738,Sappy Seed,茁茁轰炸,茁茁轟炸,すくすくボンバー
+739,Freezy Frost,冰冰霜冻,冰冰霜凍,こちこちフロスト
+740,Sparkly Swirl,亮亮风暴,亮亮風暴,きらきらストーム
+741,Veevee Volley,砰砰击破,砰砰擊破,ブイブイブレイク
+742,Double Iron Bash,钢拳双击,鋼拳雙擊,ダブルパンツァー
+743,Max Guard,极巨防壁,極巨防壁,ダイウォール
+744,Dynamax Cannon,极巨炮,極巨炮,ダイマックスほう
+745,Snipe Shot,狙击,狙擊,ねらいうち
+746,Jaw Lock,紧咬不放,緊咬不放,くらいつく
+747,Stuff Cheeks,大快朵颐,大快朵頤,ほおばる
+748,No Retreat,背水一战,背水一戰,はいすいのじん
+749,Tar Shot,沥青射击,瀝青射擊,タールショット
+750,Magic Powder,魔法粉,魔法粉,まほうのこな
+751,Dragon Darts,龙箭,龍箭,ドラゴンアロー
+752,Teatime,茶会,茶會,おちゃかい
+753,Octolock,蛸固,蛸固,たこがため
+754,Bolt Beak,电喙,電喙,でんげきくちばし
+755,Fishious Rend,鳃咬,鰓咬,エラがみ
+756,Court Change,换场,換場,コートチェンジ
+757,Max Flare,极巨火爆,極巨火爆,ダイバーン
+758,Max Flutterby,极巨虫蛊,極巨蟲蠱,ダイワーム
+759,Max Lightning,极巨闪电,極巨閃電,ダイサンダー
+760,Max Strike,极巨攻击,極巨攻擊,ダイアタック
+761,Max Knuckle,极巨拳斗,極巨拳鬥,ダイナックル
+762,Max Phantasm,极巨幽魂,極巨幽魂,ダイホロウ
+763,Max Hailstorm,极巨寒冰,極巨寒冰,ダイアイス
+764,Max Ooze,极巨酸毒,極巨酸毒,ダイアシッド
+765,Max Geyser,极巨水流,極巨水流,ダイストリーム
+766,Max Airstream,极巨飞冲,極巨飛衝,ダイジェット
+767,Max Starfall,极巨妖精,極巨妖精,ダイフェアリー
+768,Max Wyrmwind,极巨龙骑,極巨龍騎,ダイドラグーン
+769,Max Mindstorm,极巨超能,極巨超能,ダイサイコ
+770,Max Rockfall,极巨岩石,極巨岩石,ダイロック
+771,Max Quake,极巨大地,極巨大地,ダイアース
+772,Max Darkness,极巨恶霸,極巨惡霸,ダイアーク
+773,Max Overgrowth,极巨草原,極巨草原,ダイソウゲン
+774,Max Steelspike,极巨钢铁,極巨鋼鐵,ダイスチル
+775,Clangorous Soul,魂舞烈音爆,魂舞烈音爆,ソウルビート
+776,Body Press,扑击,撲擊,ボディプレス
+777,Decorate,装饰,裝飾,デコレーション
+778,Drum Beating,鼓击,鼓擊,ドラムアタック
+779,Snap Trap,捕兽夹,捕獸夾,トラバサミ
+780,Pyro Ball,火焰球,火焰球,かえんボール
+781,Behemoth Blade,巨兽斩,巨獸斬,きょじゅうざん
+782,Behemoth Bash,巨兽弹,巨獸彈,きょじゅうだん
+783,Aura Wheel,气场轮,氣場輪,オーラぐるま
+784,Breaking Swipe,广域破坏,廣域破壞,ワイドブレイカー
+785,Branch Poke,木枝突刺,木枝突刺,えだづき
+786,Overdrive,破音,破音,オーバードライブ
+787,Apple Acid,苹果酸,蘋果酸,りんごさん
+788,Grav Apple,万有引力,萬有引力,Ｇのちから
+789,Spirit Break,灵魂冲击,靈魂衝擊,ソウルクラッシュ
+790,Strange Steam,神奇蒸汽,神奇蒸汽,ワンダースチーム
+791,Life Dew,生命水滴,生命水滴,いのちのしずく
+792,Obstruct,拦堵,攔堵,ブロッキング
+793,False Surrender,假跪真撞,假跪真撞,どげざつき
+794,Meteor Assault,流星突击,流星突擊,スターアサルト
+795,Eternabeam,无极光束,無極光束,ムゲンダイビーム
+796,Steel Beam,铁蹄光线,鐵蹄光線,てっていこうせん
+797,Expanding Force,广域战力,廣域戰力,ワイドフォース
+798,Steel Roller,铁滚轮,鐵滾輪,アイアンローラー
+799,Scale Shot,鳞射,鱗射,スケイルショット
+800,Meteor Beam,流星光束,流星光束,メテオビーム
+801,Shell Side Arm,臂贝武器,臂貝武器,シェルアームズ
+802,Misty Explosion,薄雾炸裂,薄霧炸裂,ミストバースト
+803,Grassy Glide,青草滑梯,青草滑梯,グラススライダー
+804,Rising Voltage,电力上升,電力上升,ライジングボルト
+805,Terrain Pulse,大地波动,大地波動,だいちのはどう
+806,Skitter Smack,爬击,爬擊,はいよるいちげき
+807,Burning Jealousy,妒火,妒火,しっとのほのお
+808,Lash Out,泄愤,洩憤,うっぷんばらし
+809,Poltergeist,灵骚,靈騷,ポルターガイスト
+810,Corrosive Gas,腐蚀气体,腐蝕氣體,ふしょくガス
+811,Coaching,指导,指導,コーチング
+812,Flip Turn,快速折返,快速折返,クイックターン
+813,Triple Axel,三旋击,三旋擊,トリプルアクセル
+814,Dual Wingbeat,双翼,雙翼,ダブルウイング
+815,Scorching Sands,热沙大地,熱沙大地,ねっさのだいち
+816,Jungle Healing,丛林治疗,叢林治療,ジャングルヒール
+817,Wicked Blow,暗冥强击,暗冥強擊,あんこくきょうだ
+818,Surging Strikes,水流连打,水流連打,すいりゅうれんだ
+819,Thunder Cage,雷电囚笼,雷電囚籠,サンダープリズン
+820,Dragon Energy,巨龙威能,巨龍威能,ドラゴンエナジー
+821,Freezing Glare,冰冷视线,冰冷視線,いてつくしせん
+822,Fiery Wrath,怒火中烧,怒火中燒,もえあがるいかり
+823,Thunderous Kick,雷鸣蹴击,雷鳴蹴擊,らいめいげり
+824,Glacial Lance,雪矛,雪矛,ブリザードランス
+825,Astral Barrage,星碎,星碎,アストラルビット
+826,Eerie Spell,诡异咒语,詭異咒語,ぶきみなじゅもん
+827,Dire Claw,诡异咒语,克命爪,フェイタルクロー
+828,Psyshield Bash,诡异咒语,屏障猛攻,バリアーラッシュ
+829,Power Shift,诡异咒语,力量转换,パワーシフト
+830,Stone Axe,诡异咒语,岩斧,がんせきアックス
+831,Springtide Storm,诡异咒语,阳春风暴,はるのあらし
+832,Mystical Power,诡异咒语,神秘之力,しんぴのちから
+833,Raging Fury,诡异咒语,大愤慨,だいふんげき
+834,Wave Crash,诡异咒语,波动冲,ウェーブタックル
+835,Chloroblast,诡异咒语,叶绿爆震,クロロブラスト
+836,Mountain Gale,诡异咒语,冰山风,ひょうざんおろし
+837,Victory Dance,诡异咒语,胜利之舞,しょうりのまい
+838,Headlong Rush,诡异咒语,突飞猛扑,ぶちかまし
+839,Barb Barrage,诡异咒语,毒千针,どくばりセンボン
+840,Esper Wing,诡异咒语,气场之翼,オーラウイング
+841,Bitter Malice,诡异咒语,冤冤相报,うらみつらみ
+842,Shelter,诡异咒语,闭关,たてこもる
+843,Triple Arrows,诡异咒语,三连箭,３ぼんのや
+844,Infernal Parade,诡异咒语,群魔乱舞,ひゃっきやこう
+845,Ceaseless Edge,诡异咒语,秘剑・千重涛,ひけん・ちえなみ
+846,Bleakwind Storm,诡异咒语,枯叶风暴,こがらしあらし
+847,Wildbolt Storm,诡异咒语,鸣雷风暴,かみなりあらし
+848,Sandsear Storm,诡异咒语,热沙风暴,ねっさのあらし
+849,Lunar Blessing,诡异咒语,新月祈祷,みかづきのいのり
+850,Take Heart,诡异咒语,勇气填充,ブレイブチャージ
+851,Tera Blast,诡异咒语,太晶爆发,テラバースト
+852,Silk Trap,诡异咒语,线阱,スレッドトラップ
+853,Axe Kick,诡异咒语,下压踢,かかとおとし
+854,Last Respects,诡异咒语,扫墓,おはかまいり
+855,Lumina Crash,诡异咒语,琉光冲激,ルミナコリジョン
+856,Order Up,诡异咒语,上菜,いっちょうあがり
+857,Jet Punch,诡异咒语,喷射拳,ジェットパンチ
+858,Spicy Extract,诡异咒语,辣椒精华,ハバネロエキス
+859,Spin Out,诡异咒语,疾速转轮,ホイールスピン
+860,Population Bomb,诡异咒语,鼠数儿,ネズミざん
+861,Ice Spinner,诡异咒语,冰旋,アイススピナー
+862,Glaive Rush,诡异咒语,巨剑突击,きょけんとつげき
+863,Revival Blessing,诡异咒语,复生祈祷,さいきのいのり
+864,Salt Cure,诡异咒语,盐腌,しおづけ
+865,Triple Dive,诡异咒语,三连钻,トリプルダイブ
+866,Mortal Spin,诡异咒语,晶光转转,キラースピン
+867,Doodle,诡异咒语,描绘,うつしえ
+868,Fillet Away,诡异咒语,甩肉,みをけずる
+869,Kowtow Cleave,诡异咒语,仆刀,ドゲザン
+870,Flower Trick,诡异咒语,千变万花,トリックフラワー
+871,Torch Song,诡异咒语,闪焰高歌,フレアソング
+872,Aqua Step,诡异咒语,流水旋舞,アクアステップ
+873,Raging Bull,诡异咒语,怒牛,レイジングブル
+874,Make It Rain,诡异咒语,淘金潮,ゴールドラッシュ
+875,Psyblade,诡异咒语,淘金潮,ゴールドラッシュ
+876,Hydro Steam,诡异咒语,淘金潮,ゴールドラッシュ
+877,Ruination,诡异咒语,大灾难,カタストロフィ
+878,Collision Course,诡异咒语,全开猛撞,アクセルブレイク
+879,Electro Drift,诡异咒语,闪电猛冲,イナズマドライブ
+880,Shed Tail,诡异咒语,断尾,しっぽきり
+881,Chilly Reception,诡异咒语,冷笑话,さむいギャグ
+882,Tidy Up,诡异咒语,大扫除,おかたづけ
+883,Snowscape,诡异咒语,雪景,ゆきげしき
+884,Pounce,诡异咒语,虫扑,とびつく
+885,Trailblaze,诡异咒语,起草,くさわけ
+886,Chilling Water,诡异咒语,泼冷水,ひやみず
+887,Hyper Drill,诡异咒语,强力钻,ハイパードリル
+888,Twin Beam,诡异咒语,双光束,ツインビーム
+889,Rage Fist,诡异咒语,愤怒之拳,ふんどのこぶし
+890,Armor Cannon,诡异咒语,铠农炮,アーマーキャノン
+891,Bitter Blade,诡异咒语,悔念剑,むねんのつるぎ
+892,Double Shock,诡异咒语,电光双击,でんこうそうげき
+893,Gigaton Hammer,诡异咒语,巨力锤,デカハンマー
+894,Comeuppance,诡异咒语,复仇,ほうふく
+895,Aqua Cutter,诡异咒语,水波刀,アクアカッター
+896,Blazing Torque,诡异咒语,灼热暴冲,バーンアクセル
+897,Wicked Torque,诡异咒语,黑暗暴冲,ダークアクセル
+898,Noxious Torque,诡异咒语,剧毒暴冲,ポイズンアクセル
+899,Combat Torque,诡异咒语,格斗暴冲,ファイトアクセル
+900,Magical Torque,诡异咒语,魔法暴冲,マジカルアクセル
+901,Blood Moon,诡异咒语,魔法暴冲,ブラッドムーン
+902,Matcha Gotcha,诡异咒语,魔法暴冲,シャカシャカほう
+903,Syrup Bomb,诡异咒语,魔法暴冲,みずあめボム
+904,Ivy Cudgel,诡异咒语,魔法暴冲,ツタこんぼう
+905,Electro Shot,电光束,電光束,エレクトロビーム
+906,Tera Starstorm,晶光星群,晶光星群,テラクラスター
+907,Fickle Beam,随机光,隨機光,きまぐレーザー
+908,Burning Bulwark,火焰守护,火焰守護,かえんのまもり
+909,Thunderclap,迅雷,迅雷,じんらい
+910,Mighty Cleave,强刃攻击,強刃攻擊,パワフルエッジ
+911,Tachyon Cutter,迅子利刃,迅子利刃,タキオンカッター
+912,Hard Press,硬压,硬壓,ハードプレス
+913,Dragon Cheer,龙声鼓舞,龍聲鼓舞,ドラゴンエール
+914,Alluring Voice,魅诱之声,魅誘之聲,みわくのボイス
+915,Temper Flare,豁出去,豁出去,やけっぱち
+916,Supercell Slam,闪电强袭,閃電強襲,サンダーダイブ
+917,Psychic Noise,精神噪音,精神噪音,サイコノイズ
+918,Upper Hand,快手还击,快手還擊,はやてがえし
+919,Malignant Chain,邪毒锁链,邪毒鎖鏈,じゃどくのくさり
+10001,Shadow Rush,邪毒锁链,邪毒鎖鏈,ダークラッシュ
+10002,Shadow Blast,邪毒锁链,邪毒鎖鏈,ダークブラスト
+10003,Shadow Blitz,邪毒锁链,邪毒鎖鏈,ダークアタック
+10004,Shadow Bolt,邪毒锁链,邪毒鎖鏈,ダークサンダー
+10005,Shadow Break,邪毒锁链,邪毒鎖鏈,ダークブレイク
+10006,Shadow Chill,邪毒锁链,邪毒鎖鏈,ダークフリーズ
+10007,Shadow End,邪毒锁链,邪毒鎖鏈,ダークエンド
+10008,Shadow Fire,邪毒锁链,邪毒鎖鏈,ダークファイア
+10009,Shadow Rave,邪毒锁链,邪毒鎖鏈,ダークレイブ
+10010,Shadow Storm,邪毒锁链,邪毒鎖鏈,ダークストーム
+10011,Shadow Wave,邪毒锁链,邪毒鎖鏈,ダークウェーブ
+10012,Shadow Down,邪毒锁链,邪毒鎖鏈,ダークダウン
+10013,Shadow Half,邪毒锁链,邪毒鎖鏈,ダークハーフ
+10014,Shadow Hold,邪毒锁链,邪毒鎖鏈,ダークホールド
+10015,Shadow Mist,邪毒锁链,邪毒鎖鏈,ダークミスト
+10016,Shadow Panic,邪毒锁链,邪毒鎖鏈,ダークパニック
+10017,Shadow Shed,邪毒锁链,邪毒鎖鏈,ダークリムーブ
+10018,Shadow Sky,邪毒锁链,邪毒鎖鏈,ダークウェザー
