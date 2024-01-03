@@ -2,6 +2,7 @@ import os
 from modules.pokemon import Pokemon
 from modules.item import Item
 from modules.skill import Skill
+from modules.region import Region
 
 COLOR = {
     "RED": "\x1b[38;5;1m",
@@ -22,7 +23,13 @@ def export_pokemon(list_pkm, have_dollar=False, have_img=False, have_hant=False)
     for pokemon in list_pkm:
         img = f'<img src="{BASE_SPRITE}/pokemon/default/{
             pokemon.id}.png" style="width:80px;height:80px;display:inline;"/> ' if have_img else ""
-        result.append(f"{dollar}{pokemon.name_hans}={img}{pokemon.name_en}")
+
+        if pokemon.name_hans:
+            result.append(f"{dollar}{pokemon.name_hans}={
+                          img}{pokemon.name_en}")
+        elif (not have_hant) and pokemon.name_hant:
+            result.append(f"{dollar}{pokemon.name_hant}={
+                          img}{pokemon.name_en}")
         if have_hant:
             result.append(f"{dollar}{pokemon.name_hant}={
                           img}{pokemon.name_en}")
@@ -34,9 +41,25 @@ def export_skills(skills, have_dollar=False, have_hant=False):
     result = []
     dollar = "$" if have_dollar else ""
     for skill in skills:
-        result.append(f"{dollar}{skill.name_hans}={skill.name_en}")
+        if skill.name_hans:
+            result.append(f"{dollar}{skill.name_hans}={skill.name_en}")
+        elif (not have_hant) and skill.name_hant:
+            result.append(f"{dollar}{skill.name_hant}={skill.name_en}")
         if have_hant:
             result.append(f"{dollar}{skill.name_hant}={skill.name_en}")
+    return result
+
+
+def export_regions(regions, have_dollar=False, have_hant=False):
+    result = []
+    dollar = "$" if have_dollar else ""
+    for region in regions:
+        if region.name_hans:
+            result.append(f"{dollar}{region.name_hans}={region.name_en}")
+        elif (not have_hant) and region.name_hant:
+            result.append(f"{dollar}{region.name_hant}={region.name_en}")
+        if have_hant:
+            result.append(f"{dollar}{region.name_hant}={region.name_en}")
     return result
 
 
@@ -46,7 +69,13 @@ def export_items(items, have_dollar=False, have_img=False, have_hant=False):
     for item in items:
         img = f'<img src="{BASE_SPRITE}/pokemon/default/{
             item.id}.png" style="width:50px;height:50px;display:inline;"/> ' if have_img else ""
-        result.append(f"{dollar}{item.name_hans}={img}{item.name_en}")
+
+        if item.name_hans:
+            result.append(f"{dollar}{item.name_hans}={
+                          img}{item.name_en}")
+        elif (not have_hant) and item.name_hant:
+            result.append(f"{dollar}{item.name_hant}={
+                          img}{item.name_en}")
         if have_hant:
             result.append(f"{dollar}{item.name_hant}={img}{item.name_en}")
 
@@ -63,6 +92,7 @@ def menu():
     HAVE_LOCATIONS_NAME = False
     HAVE_SKILLS_NAME = False
     HAVE_VILLAIN_TEAM = False
+    HAVE_REGIONS_NAME = False
     list_pokemon = []
     list_locations = []
     list_skills = []
@@ -82,11 +112,11 @@ def menu():
         print(
             f"│  4 - Xuất tên các pokemon - {f"{COLOR["GREEN"]}Active  " if HAVE_PKM_NAME else f"{COLOR["RED"]}Deactive"}{COLOR["RESET"]}        │")
         print(
-            f"│  5 - Xuất tên các địa danh - {COLOR["YELLOW"]}WIP{COLOR["RESET"]}            │")
+            f"│  5 - Xuất tên các địa khu - {f"{COLOR["GREEN"]}Active  " if HAVE_REGIONS_NAME else f"{COLOR["RED"]}Deactive"}{COLOR["RESET"]}        │")
         print(
-            f"│  6 - Xuất tên các kỹ năng - {COLOR["YELLOW"]}WIP{COLOR["RESET"]}             │")
+            f"│  6 - Xuất tên các kỹ năng - {f"{COLOR["GREEN"]}Active  " if HAVE_SKILLS_NAME else f"{COLOR["RED"]}Deactive"}{COLOR["RESET"]}        │")
         print(
-            f"│  7 - Xuất tên các vật phẩm - {COLOR["YELLOW"]}WIP{COLOR["RESET"]}            │")
+            f"│  7 - Xuất tên các vật phẩm - {f"{COLOR["GREEN"]}Active  " if HAVE_ITEMS_NAME else f"{COLOR["RED"]}Deactive"}{COLOR["RESET"]}       │")
         print(
             f"│  8 - Xuất tên các nhân vật - {COLOR["YELLOW"]}WIP{COLOR["RESET"]}            │")
         print(
@@ -117,10 +147,10 @@ def menu():
             else:
                 HAVE_PKM_NAME = True
         elif choice == "5":
-            if HAVE_LOCATIONS_NAME:
-                HAVE_LOCATIONS_NAME = False
+            if HAVE_REGIONS_NAME:
+                HAVE_REGIONS_NAME = False
             else:
-                HAVE_LOCATIONS_NAME = True
+                HAVE_REGIONS_NAME = True
         elif choice == "6":
             if HAVE_SKILLS_NAME:
                 HAVE_SKILLS_NAME = False
@@ -166,16 +196,29 @@ def menu():
             └──────────────┘
             '''
             skills = Skill.read_from_csv(os.path.join(
-                PATH_CSV, "skills.csv")) if HAVE_ITEMS_NAME else []
+                PATH_CSV, "skills.csv")) if HAVE_SKILLS_NAME else []
             skills_result = export_items(
                 skills, HAVE_DOLLAR, HAVE_HANT_NAME)
+            '''
+            ┌───────────────┐
+            │    REGIONS    │
+            └───────────────┘
+            '''
+            regions = Region.read_from_csv(os.path.join(
+                PATH_CSV, "regions.csv")) if HAVE_REGIONS_NAME else []
+            regions_result = export_regions(
+                regions, HAVE_DOLLAR, HAVE_HANT_NAME)
             with open("output.txt", "w", encoding="utf-8") as file:
                 for pkm in pokemon_result:
                     file.write(pkm + "\n")
                 for item in items_result:
-                    file.wirte(item + "\n")
+                    file.write(item + "\n")
                 for skill in skills_result:
-                    file.wirte(skill + "\n")
+                    file.write(skill + "\n")
+                for region in regions_result:
+                    file.write(region + "\n")
+
+            print("DONE...")
             input("Press Enter to continue...")
         elif choice == "0":
             exit()
