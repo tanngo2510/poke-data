@@ -93,12 +93,6 @@ def menu():
     HAVE_SKILLS_NAME = False
     HAVE_VILLAIN_TEAM = False
     HAVE_REGIONS_NAME = False
-    list_pokemon = []
-    list_locations = []
-    list_skills = []
-    list_items = []
-    list_characters = []
-    list_villain_team = []
     while True:
         os.system("cls")
         print("┌─────────────────────────────────────────────┐")
