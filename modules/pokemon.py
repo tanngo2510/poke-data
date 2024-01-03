@@ -22,6 +22,7 @@ class Pokemon(Entity):
         pokemon = []
         with open(file_name, "r", newline="", encoding="utf-8") as csv_file:
             reader = csv.reader(csv_file)
+            next(reader, None)
             for row in reader:
                 pokemon.append(Pokemon.from_list(row))
         return pokemon

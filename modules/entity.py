@@ -25,6 +25,7 @@ class Entity(metaclass=abc.ABCMeta):
         entities = []
         with open(file_name, "r", newline="", encoding="utf-8") as csv_file:
             reader = csv.reader(csv_file)
+            next(reader, None)
             for row in reader:
                 entities.append(Entity.from_list(row))
         return entities
