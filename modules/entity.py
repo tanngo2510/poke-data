@@ -31,8 +31,9 @@ class Entity(metaclass=abc.ABCMeta):
         return entities
 
     @staticmethod
-    def write_to_csv(file_name, entities):
+    def write_to_csv(file_name, entities, header=["id", "name_en", "name_hans", "name_hant", "name_jp"]):
         with open(file_name, "w", newline="", encoding="utf-8") as csv_file:
             writer = csv.writer(csv_file)
+            writer.writerow(header)
             for entity in entities:
                 writer.writerow(entity.to_list())
