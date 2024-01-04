@@ -232,7 +232,7 @@ def menu():
             '''
             skills = Skill.read_from_csv(os.path.join(
                 PATH_CSV, "skills.csv")) if HAVE_SKILLS_NAME else []
-            skills_result = export_items(
+            skills_result = export_skills(
                 skills, HAVE_DOLLAR, HAVE_HANT_NAME)
             '''
             ┌───────────────┐
