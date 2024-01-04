@@ -3,6 +3,8 @@ from modules.pokemon import Pokemon
 from modules.item import Item
 from modules.skill import Skill
 from modules.region import Region
+from modules.team import Team
+from modules.location import Location
 
 COLOR = {
     "RED": "\x1b[38;5;1m",
@@ -15,6 +17,27 @@ COLOR = {
 
 PATH_CSV = os.path.join(os.path.dirname(__file__), "csv")
 BASE_SPRITE = "https://raw.githubusercontent.com/tanngo2510/poke-data/master/sprites"
+
+
+def export_team(teams, have_dollar=False, have_img=False, have_hant=False):
+    result = []
+    dollar = "$" if have_dollar else ""
+    for team in teams:
+        name = team.name_en.lower().replace(" ", "_")
+        img = f'<img src="{BASE_SPRITE}/team/{
+            name}.png" style="width:80px;height:80px;display:inline;"/> ' if have_img else ""
+
+        if team.name_hans:
+            result.append(f"{dollar}{team.name_hans}={
+                          img}{team.name_en}")
+        elif (not have_hant) and team.name_hant:
+            result.append(f"{dollar}{team.name_hant}={
+                          img}{team.name_en}")
+        if have_hant:
+            result.append(f"{dollar}{team.name_hant}={
+                          img}{team.name_en}")
+
+    return result
 
 
 def export_pokemon(list_pkm, have_dollar=False, have_img=False, have_hant=False):
@@ -63,12 +86,26 @@ def export_regions(regions, have_dollar=False, have_hant=False):
     return result
 
 
+def export_locations(locations, have_dollar=False, have_hant=False):
+    result = []
+    dollar = "$" if have_dollar else ""
+    for location in locations:
+        if location.name_hans:
+            result.append(f"{dollar}{location.name_hans}={location.name_en}")
+        elif (not have_hant) and location.name_hant:
+            result.append(f"{dollar}{location.name_hant}={location.name_en}")
+        if have_hant:
+            result.append(f"{dollar}{location.name_hant}={location.name_en}")
+    return result
+
+
 def export_items(items, have_dollar=False, have_img=False, have_hant=False):
     result = []
     dollar = "$" if have_dollar else ""
     for item in items:
-        img = f'<img src="{BASE_SPRITE}/pokemon/default/{
-            item.id}.png" style="width:50px;height:50px;display:inline;"/> ' if have_img else ""
+        name = item.name_en.lower().replace(" ", "-")
+        img = f'<img src="{BASE_SPRITE}/item/{
+            name}.png" style="width:50px;height:50px;display:inline;"/> ' if have_img else ""
 
         if item.name_hans:
             result.append(f"{dollar}{item.name_hans}={
@@ -141,10 +178,14 @@ def menu():
             else:
                 HAVE_PKM_NAME = True
         elif choice == "5":
-            if HAVE_REGIONS_NAME:
-                HAVE_REGIONS_NAME = False
+            # if HAVE_REGIONS_NAME:
+            #     HAVE_REGIONS_NAME = False
+            # else:
+            #     HAVE_REGIONS_NAME = True
+            if HAVE_LOCATIONS_NAME:
+                HAVE_LOCATIONS_NAME = False
             else:
-                HAVE_REGIONS_NAME = True
+                HAVE_LOCATIONS_NAME = True
         elif choice == "6":
             if HAVE_SKILLS_NAME:
                 HAVE_SKILLS_NAME = False
@@ -202,6 +243,24 @@ def menu():
                 PATH_CSV, "regions.csv")) if HAVE_REGIONS_NAME else []
             regions_result = export_regions(
                 regions, HAVE_DOLLAR, HAVE_HANT_NAME)
+            '''
+            ┌───────────────┐
+            │   LOCATIONS   │
+            └───────────────┘
+            '''
+            locations = Location.read_from_csv(os.path.join(
+                PATH_CSV, "locations.csv")) if HAVE_LOCATIONS_NAME else []
+            locations_result = export_locations(
+                locations, HAVE_DOLLAR, HAVE_HANT_NAME)
+            '''
+            ┌─────────────────┐
+            │  VILLAIN TEAMS  │
+            └─────────────────┘
+            '''
+            teams = Team.read_from_csv(os.path.join(
+                PATH_CSV, "villain_team.csv")) if HAVE_VILLAIN_TEAM else []
+            teams_result = export_team(
+                teams, HAVE_DOLLAR, HAVE_IMAGE, HAVE_HANT_NAME)
             with open("output.txt", "w", encoding="utf-8") as file:
                 for pkm in pokemon_result:
                     file.write(pkm + "\n")
@@ -211,6 +270,10 @@ def menu():
                     file.write(skill + "\n")
                 for region in regions_result:
                     file.write(region + "\n")
+                for location in locations_result:
+                    file.write(location + "\n")
+                for team in teams_result:
+                    file.write(team + "\n")
 
             print("DONE...")
             input("Press Enter to continue...")

@@ -27,10 +27,10 @@ id,species_id,name_en,name_hans,name_hant,name_jp
 26,26,Raichu,雷丘,雷丘,ライチュウ
 27,27,Sandshrew,穿山鼠,穿山鼠,サンド
 28,28,Sandslash,穿山王,穿山王,サンドパン
-29,29,Nidoran-F,尼多兰,尼多蘭,ニドラン♀
+29,29,Nidoran ♂,尼多兰,尼多蘭,ニドラン♀
 30,30,Nidorina,尼多娜,尼多娜,ニドリーナ
 31,31,Nidoqueen,尼多后,尼多后,ニドクイン
-32,32,Nidoran-M,尼多朗,尼多朗,ニドラン♂
+32,32,Nidoran ♀,尼多朗,尼多朗,ニドラン♂
 33,33,Nidorino,尼多力诺,尼多力諾,ニドリーノ
 34,34,Nidoking,尼多王,尼多王,ニドキング
 35,35,Clefairy,皮皮,皮皮,ピッピ
@@ -81,7 +81,7 @@ id,species_id,name_en,name_hans,name_hant,name_jp
 80,80,Slowbro,呆壳兽,呆殼獸,ヤドラン
 81,81,Magnemite,小磁怪,小磁怪,コイル
 82,82,Magneton,三合一磁怪,三合一磁怪,レアコイル
-83,83,Farfetchd,大葱鸭,大蔥鴨,カモネギ
+83,83,Farfetch’d,大葱鸭,大蔥鴨,カモネギ
 84,84,Doduo,嘟嘟,嘟嘟,ドードー
 85,85,Dodrio,嘟嘟利,嘟嘟利,ドードリオ
 86,86,Seel,小海狮,小海獅,パウワウ
@@ -120,7 +120,7 @@ id,species_id,name_en,name_hans,name_hant,name_jp
 119,119,Seaking,金鱼王,金魚王,アズマオウ
 120,120,Staryu,海星星,海星星,ヒトデマン
 121,121,Starmie,宝石海星,寶石海星,スターミー
-122,122,Mr-Mime,魔墙人偶,魔牆人偶,バリヤード
+122,122,Mr. Mime,魔墙人偶,魔牆人偶,バリヤード
 123,123,Scyther,飞天螳螂,飛天螳螂,ストライク
 124,124,Jynx,迷唇姐,迷唇姐,ルージュラ
 125,125,Electabuzz,电击兽,電擊獸,エレブー
@@ -437,7 +437,7 @@ id,species_id,name_en,name_hans,name_hant,name_jp
 436,436,Bronzor,铜镜怪,銅鏡怪,ドーミラー
 437,437,Bronzong,青铜钟,青銅鐘,ドータクン
 438,438,Bonsly,盆才怪,盆才怪,ウソハチ
-439,439,Mime-Jr,魔尼尼,魔尼尼,マネネ
+439,439,Mime Jr.,魔尼尼,魔尼尼,マネネ
 440,440,Happiny,小福蛋,小福蛋,ピンプク
 441,441,Chatot,聒噪鸟,聒噪鳥,ペラップ
 442,442,Spiritomb,花岩怪,花岩怪,ミカルゲ
@@ -770,7 +770,7 @@ id,species_id,name_en,name_hans,name_hant,name_jp
 769,769,Sandygast,沙丘娃,沙丘娃,スナバァ
 770,770,Palossand,噬沙堡爷,噬沙堡爺,シロデスナ
 771,771,Pyukumuku,拳海参,拳海參,ナマコブシ
-772,772,Type-Null,属性：空,屬性：空,タイプ：ヌル
+772,772,Type: Null,属性：空,屬性：空,タイプ：ヌル
 773,773,Silvally,银伴战兽,銀伴戰獸,シルヴァディ
 774,774,Minior,小陨星,小隕星,メテノ
 775,775,Komala,树枕尾熊,樹枕尾熊,ネッコアラ
@@ -783,10 +783,10 @@ id,species_id,name_en,name_hans,name_hant,name_jp
 782,782,Jangmo-O,心鳞宝,心鱗寶,ジャラコ
 783,783,Hakamo-O,鳞甲龙,鱗甲龍,ジャランゴ
 784,784,Kommo-O,杖尾鳞甲龙,杖尾鱗甲龍,ジャラランガ
-785,785,Tapu-Koko,卡璞・鸣鸣,卡璞・鳴鳴,カプ・コケコ
-786,786,Tapu-Lele,卡璞・蝶蝶,卡璞・蝶蝶,カプ・テテフ
-787,787,Tapu-Bulu,卡璞・哞哞,卡璞・哞哞,カプ・ブルル
-788,788,Tapu-Fini,卡璞・鳍鳍,卡璞・鰭鰭,カプ・レヒレ
+785,785,Tapu Koko,卡璞・鸣鸣,卡璞・鳴鳴,カプ・コケコ
+786,786,Tapu Lele,卡璞・蝶蝶,卡璞・蝶蝶,カプ・テテフ
+787,787,Tapu Bulu,卡璞・哞哞,卡璞・哞哞,カプ・ブルル
+788,788,Tapu Fini,卡璞・鳍鳍,卡璞・鰭鰭,カプ・レヒレ
 789,789,Cosmog,科斯莫古,科斯莫古,コスモッグ
 790,790,Cosmoem,科斯莫姆,科斯莫姆,コスモウム
 791,791,Solgaleo,索尔迦雷欧,索爾迦雷歐,ソルガレオ
@@ -863,8 +863,8 @@ id,species_id,name_en,name_hans,name_hant,name_jp
 862,862,Obstagoon,堵拦熊,堵攔熊,タチフサグマ
 863,863,Perrserker,喵头目,喵頭目,ニャイキング
 864,864,Cursola,魔灵珊瑚,魔靈珊瑚,サニゴーン
-865,865,Sirfetchd,葱游兵,蔥遊兵,ネギガナイト
-866,866,Mr-Rime,踏冰人偶,踏冰人偶,バリコオル
+865,865,Sirfetch’d,葱游兵,蔥遊兵,ネギガナイト
+866,866,Mr. Rime,踏冰人偶,踏冰人偶,バリコオル
 867,867,Runerigus,迭失板,死神板,デスバーン
 868,868,Milcery,小仙奶,小仙奶,マホミル
 869,869,Alcremie,霜奶仙,霜奶仙,マホイップ
@@ -982,18 +982,18 @@ id,species_id,name_en,name_hans,name_hant,name_jp
 981,981,Farigiraf,奇麒麟,奇麒麟,リキキリン
 982,982,Dudunsparce,土龙节节,土龍節節,ノココッチ
 983,983,Kingambit,仆刀将军,仆刀將軍,ドドゲザン
-984,984,Great-Tusk,雄伟牙,雄偉牙,イダイナキバ
-985,985,Scream-Tail,吼叫尾,吼叫尾,サケブシッポ
-986,986,Brute-Bonnet,猛恶菇,猛惡菇,アラブルタケ
-987,987,Flutter-Mane,振翼发,振翼髮,ハバタクカミ
-988,988,Slither-Wing,爬地翅,爬地翅,チヲハウハネ
-989,989,Sandy-Shocks,沙铁皮,沙鐵皮,スナノケガワ
-990,990,Iron-Treads,铁轍迹,鐵轍跡,テツノワダチ
-991,991,Iron-Bundle,铁包袱,鐵包袱,テツノツツミ
-992,992,Iron-Hands,铁臂膀,鐵臂膀,テツノカイナ
-993,993,Iron-Jugulis,铁脖颈,鐵脖頸,テツノコウベ
-994,994,Iron-Moth,铁毒蛾,鐵毒蛾,テツノドクガ
-995,995,Iron-Thorns,铁荆棘,鐵荊棘,テツノイバラ
+984,984,Great Tusk,雄伟牙,雄偉牙,イダイナキバ
+985,985,Scream Tail,吼叫尾,吼叫尾,サケブシッポ
+986,986,Brute Bonnet,猛恶菇,猛惡菇,アラブルタケ
+987,987,Flutter Mane,振翼发,振翼髮,ハバタクカミ
+988,988,Slither Wing,爬地翅,爬地翅,チヲハウハネ
+989,989,Sandy Shocks,沙铁皮,沙鐵皮,スナノケガワ
+990,990,Iron Treads,铁轍迹,鐵轍跡,テツノワダチ
+991,991,Iron Bundle,铁包袱,鐵包袱,テツノツツミ
+992,992,Iron Hands,铁臂膀,鐵臂膀,テツノカイナ
+993,993,Iron Jugulis,铁脖颈,鐵脖頸,テツノコウベ
+994,994,Iron Moth,铁毒蛾,鐵毒蛾,テツノドクガ
+995,995,Iron Thorns,铁荆棘,鐵荊棘,テツノイバラ
 996,996,Frigibax,凉脊龙,涼脊龍,セビエ
 997,997,Arctibax,冻脊龙,凍脊龍,セゴール
 998,998,Baxcalibur,戟脊龙,戟脊龍,セグレイブ
@@ -1003,12 +1003,12 @@ id,species_id,name_en,name_hans,name_hant,name_jp
 1002,1002,Chien-Pao,古剑豹,古劍豹,パオジアン
 1003,1003,Ting-Lu,古鼎鹿,古鼎鹿,ディンルー
 1004,1004,Chi-Yu,古玉鱼,古玉魚,イーユイ
-1005,1005,Roaring-Moon,轰鸣月,轟鳴月,トドロクツキ
-1006,1006,Iron-Valiant,铁武者,鐵武者,テツノブジン
+1005,1005,Roaring Moon,轰鸣月,轟鳴月,トドロクツキ
+1006,1006,Iron Valiant,铁武者,鐵武者,テツノブジン
 1007,1007,Koraidon,故勒顿,故勒頓,コライドン
 1008,1008,Miraidon,密勒顿,密勒頓,ミライドン
-1009,1009,Walking-Wake,波荡水,波盪水,ウネルミナモ
-1010,1010,Iron-Leaves,铁斑叶,鐵斑葉,テツノイサハ
+1009,1009,Walking Wake,波荡水,波盪水,ウネルミナモ
+1010,1010,Iron Leaves,铁斑叶,鐵斑葉,テツノイサハ
 1011,1011,Dipplin,裹蜜虫,裹蜜蟲,カミッチュ
 1012,1012,Poltchageist,斯魔茶,斯魔茶,チャデス
 1013,1013,Sinistcha,来悲粗茶,來悲粗茶,ヤバソチャ
@@ -1018,9 +1018,9 @@ id,species_id,name_en,name_hans,name_hant,name_jp
 1017,1017,Ogerpon,厄诡椪,厄鬼椪,オーガポン
 1018,1018,Archaludon,铝钢桥龙,鋁鋼橋龍,ブリジュラス
 1019,1019,Hydrapple,蜜集大蛇,蜜集大蛇,カミツオロチ
-1020,1020,Gouging-Fire,破空焰,破空焰,ウガツホムラ
-1021,1021,Raging-Bolt,猛雷鼓,猛雷鼓,タケルライコ
-1022,1022,Iron-Boulder,鐵磐岩,铁磐岩,テツノイワオ
-1023,1023,Iron-Crown,鐵頭殼,铁头壳,テツノカシラ
+1020,1020,Gouging Fire,破空焰,破空焰,ウガツホムラ
+1021,1021,Raging Bolt,猛雷鼓,猛雷鼓,タケルライコ
+1022,1022,Iron Boulder,鐵磐岩,铁磐岩,テツノイワオ
+1023,1023,Iron Crown,鐵頭殼,铁头壳,テツノカシラ
 1024,1024,Terapagos,太乐巴戈斯,太樂巴戈斯,テラパゴス
 1025,1025,Pecharunt,桃歹郎,桃歹郎,モモワロウ

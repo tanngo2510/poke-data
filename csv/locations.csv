@@ -1,0 +1,361 @@
+location_id,region_id,name_en,name_hans,name_hant,name_jp
+1,1,Celadon City,玉虹市,玉虹市,タマムシシティ
+2,1,Cerulean City,华蓝市,華藍市,ハナダシティ
+3,1,Cinnabar Island,红莲镇,紅蓮鎮,グレンタウン
+4,1,Fuchsia City,浅红市,淺紅市,セキチクシティ
+5,1,Lavender Town,紫苑镇,紫苑鎮,シオンタウン
+6,1,Pallet Town,真新镇,真新鎮,マサラタウン
+7,1,Pewter City,深灰市,深灰市,ニビシティ
+8,1,Saffron City,金黄市,金黃市,ヤマブキシティ
+9,1,Vermilion City,枯叶市,枯葉市,クチバシティ
+10,1,Viridian City,常青市,常青市,トキワシティ
+11,1,Cerulean Cave,华蓝洞窟,华蓝洞窟,ハナダの洞窟
+12,1,Celadon Department Store,玉虹百货公司,玉虹百貨公司,タマムシデパート
+13,1,Cycling Road,自行车道,自行車道,サイクリングロード
+14,1,Diglett's Cave,地鼠洞穴,地鼠洞穴,ディグダの穴
+15,1,Indigo Plateau,石英高原,石英高原,セキエイこうげん
+16,1,Mt. Moon,月见山,月見山,お月見山
+17,1,Mt. Moon Square,月見山廣場,月見山廣場,おつきみやまひろば
+18,1,Pokémon League Reception Gate,寶可夢聯盟大門,寶可夢聯盟大門,ポケモンリーグうけつけゲート
+19,1,Pokémon Mansion,宝可梦屋,寶可夢屋,ポケモン屋敷
+20,1,Pokémon Tower,宝可梦塔,寶可夢塔,ポケモンタワー
+21,1,Power Plant,发电厂,發電場,発電所
+22,1,Rock Tunnel,岩山隧道,岩山隧道,イワヤマトンネル
+23,1,Safari Zone,狩猎地带,狩獵地帶,サファリゾーン
+24,1,Sea Cottage,海角小屋,海角小屋,岬の小屋
+25,1,Seafoam Islands,双子岛,雙子島,ふたご島
+26,1,Silence Bridge,寂静桥,寂靜橋,サイレンズブリッジ
+27,1,Silph Co.,西尔佛公司,西爾佛公司,シルフカンパニー
+28,1,S.S. Anne,圣特安努号,聖特安努號,サント・アンヌ号
+29,1,Tohjo Falls,都城瀑布,都城瀑布,トージョウの滝
+30,1,Underground Path,地下通道,地下通道,地下通路
+31,1,Victory Road,冠军之路,冠軍之路,チャンピオンロード
+32,1,Viridian Forest,常青森林,常青森林,トキワの森
+33,2,Azalea Town,檜皮鎮,檜皮鎮,ヒワダタウン
+34,2,Blackthorn City,烟墨市,煙墨市,フスベシティ
+35,2,Cianwood City,湛蓝市,湛藍市,タンバシティ
+36,2,Ecruteak City,緣朱市,緣朱市,エンジュシティ
+37,2,Goldenrod City,满金市,滿金市,コガネシティ
+38,2,Mahogany Town,卡吉镇,卡吉鎮,チョウジタウン
+39,2,New Bark Town,若葉鎮,若葉鎮,ワカバタウン
+40,2,Olivine City,浅葱市,淺蔥市,アサギシティ
+41,2,Violet City,桔梗市,桔梗市,キキョウシティ
+42,2,Battle Frontier,對戰開拓區,對戰開拓區,バトルフロンティア
+43,2,Battle Tower,對戰塔,對戰塔,バトルタワー
+44,2,Burned Tower,燒焦塔,燒焦塔,やけたとう
+45,2,Cliff Cave,斷崖洞窟,斷崖洞窟,だんがいのどうくつ
+46,2,Dark Cave,黑暗穴,黑暗穴,くらやみのほらあな
+47,2,Dragon's Den,龍之洞窟,龍之洞窟,りゅうのあな
+48,2,Glitter Lighthouse,光輝燈塔,光輝燈塔,かがやきのとうだい
+49,2,Ice Path,冰雪通路,冰雪通路,こおりのぬけみち
+50,2,Ilex Forest,桐樹林,桐樹林,ウバメの森
+51,2,Lake of Rage,憤怒之湖,憤怒之湖,いかりのみずうみ
+52,2,Moomoo Farm,摩摩牧場,摩摩牧場,モーモーぼくじょう
+53,2,Mt. Mortar,研缽山,研缽山,スリバチ山
+54,2,Mt. Silver,白銀山,白銀山,シロガネ山
+55,2,National Park,自然公園,自然公園,しぜんこうえん
+56,2,Pokéathlon Dome,寶可夢全能競技賽巨蛋,寶可夢全能競技賽巨蛋,ポケスロンドーム
+57,2,Radio Tower,廣播電台,廣播電台,ラジオ塔
+58,2,Ruins of Alph,阿露福遺跡,阿露福遺跡,アルフの遺跡
+59,2,Sinjoh Ruins,神都遺跡,神都遺跡,シントいせき
+60,2,Slowpoke Well,呆呆獸之井,呆呆獸之井,ヤドンのいど
+61,2,Sprout Tower,喇叭芽之塔,喇叭芽之塔,マダツボミのとう
+62,2,Bell Tower,鈴鈴塔,鈴鈴塔,スズのとう
+63,2,Union Cave,互連洞,互連洞,つながりのどうくつ
+64,2,Whirl Islands,漩渦列島,漩渦列島,うずまきじま
+65,3,Dewford Town,武斗镇,武鬥鎮,ムロタウン
+66,3,Ever Grande City,彩悠市,彩悠市,サイユウシティ
+67,3,Fallarbor Town,秋叶镇,秋葉鎮,ハジツゲタウン
+68,3,Fortree City,茵郁市,茵鬱市,ヒワマキシティ
+69,3,Lavaridge Town,釜炎镇,釜炎鎮,フエンタウン
+70,3,Lilycove City,水静市,水靜市,ミナモシティ
+71,3,Littleroot Town,未白镇,未白鎮,ミシロタウン
+72,3,Mauville City,紫堇市,紫堇市,キンセツシティ
+73,3,Mossdeep City,绿岭市,綠嶺市,トクサネシティ
+74,3,Oldale Town,古玫镇,古玫鎮,コトキタウン
+75,3,Pacifidlog Town,暮水镇,暮水鎮,キナギタウン
+76,3,Petalburg City,橙华市,橙華市,トウカシティ
+77,3,Rustboro City,卡那兹市,卡那茲市,カナズミシティ
+78,3,Slateport City,凯那市,凱那市,カイナシティ
+79,3,Sootopolis City,琉璃市,琉璃市,ルネシティ
+80,3,Verdanturf Town,绿茵镇,綠茵鎮,シダケタウン
+81,3,Abandoned Ship,棄船,棄船,すてられ船
+82,3,Ancient Tomb,古代墳墓,古代墳墓,古代塚
+83,3,Artisan Cave,工匠之穴,工匠之穴,アトリエのあな
+84,3,Battle Frontier,對戰開拓區,對戰開拓區,バトルフロンティア
+85,3,Cave of Origin,醒吾祠堂,醒吾祠堂,目覚めのほこら
+86,3,Desert Ruins,沙漠遺跡,沙漠遺跡,砂漠遺跡
+87,3,Desert Underpass,沙漠的地下道,沙漠的地下道,さばくのちかどう
+88,3,Fiery Path,熱焰小徑,熱焰小徑,炎の抜け道
+89,3,Granite Cave,石之洞窟,石之洞窟,石の洞窟
+90,3,Jagged Pass,碎石山路,碎石山路,デコボコ山道
+91,3,Marine Cave,海之窟,海之窟,うみのどうくつ
+92,3,Meteor Falls,流星瀑布,流星瀑布,流星の滝
+93,3,Mirage Island,夢幻島,夢幻島,まぼろしじま
+94,3,Mirage Tower,幻影之塔,幻影之塔,げんえいのとう
+95,3,Mt. Chimney,煙突山,煙突山,えんとつ山
+96,3,Mt. Pyre,送火山,送火山,おくりび山
+97,3,New Mauville,新紫堇,新紫堇,ニューキンセツ
+98,3,Petalburg Woods,橙華森林,橙華森林,トウカの森
+99,3,Rusturf Tunnel,卡綠隧道,卡綠隧道,カナシダトンネル
+100,3,Scorched Slab,天旱焦岩,天旱焦岩,日照りの岩戸
+101,3,Seafloor Cavern,海底洞窟,海底洞窟,海底洞窟
+102,3,Sealed Chamber,布告石室,布告石室,おふれの石室
+103,3,Shoal Cave,淺灘洞穴,淺灘洞穴,浅瀬の洞穴
+104,3,Soaring in the sky,天空,天空,大空
+105,3,Sky Pillar,空中之柱,空中之柱,空の柱
+106,3,Southern Island,南方孤島,南方孤島,南の孤島
+107,3,Terra Cave,陸之窟,陸之窟,りくのどうくつ
+108,3,Trainer Hill,訓練家之丘,訓練家之丘,トレーナーヒル
+109,3,Weather Institute,天氣研究所,天氣研究所,天気研究所
+110,4,Canalave City,水脉市,水脈市,ミオシティ
+111,4,Celestic Town,神和镇,神和鎮,カンナギタウン
+112,4,Eterna City,百代市,百代市,ハクタイシティ
+113,4,Floaroma Town,花苑镇,花苑鎮,ソノオタウン
+114,4,Hearthome City,家缘市,家緣市,ヨスガシティ
+115,4,Jubilife City,祝庆市,祝慶市,コトブキシティ
+116,4,Oreburgh City,黑金市,黑金市,クロガネシティ
+117,4,Pastoria City,野原市,野原市,ノモセシティ
+118,4,Sandgem Town,真砂镇,真砂鎮,マサゴタウン
+119,4,Snowpoint City,雪峰市,雪峰市,キッサキシティ
+120,4,Solaceon Town,随意镇,隨意鎮,ズイタウン
+121,4,Sunyshore City,滨海市,濱海市,ナギサシティ
+122,4,Twinleaf Town,双叶镇,雙葉鎮,フタバタウン
+123,4,Veilstone City,帷幕市,帷幕市,トバリシティ
+124,4,Amity Square,互动广场,互動廣場,ふれあい広場
+125,4,Battle Frontier,對戰開拓區,對戰開拓區,バトルフロンティア
+126,4,Battle Park,对战公园,對戰公園,バトルパーク
+127,4,Battle Zone,对战特区,對戰特區,バトルゾーン
+128,4,Café Cabin,山间小屋咖啡馆,山間小屋咖啡館,カフェ山小屋
+129,4,Distortion World,破格的世界,破格的世界,やぶれたせかい
+130,4,Eterna Forest,百代森林,百代森林,ハクタイの森
+131,4,Fight Area,战斗区,戰鬥區,ファイトエリア
+132,4,Floaroma Meadow,花苑花田,花苑花田,ソノオの花畑
+133,4,Flower Paradise,花之乐园,花之樂園,花の楽園
+134,4,Foreign Building,异文化建筑,異文化建築,異文化の建物
+135,4,Fullmoon Island,满月岛,滿月島,満月島
+136,4,Fuego Ironworks,多多罗钢铁厂,多多羅鋼鐵廠,タタラ製鉄所
+137,4,Hotel Grand Lake,湖畔大饭店,湖畔大飯店,ホテルグランドレイク
+138,4,Great Marsh,大湿地,大濕地,大湿原
+139,4,Hall of Origin,起始之殿,起始之殿,はじまりの間
+140,4,Iron Island,钢铁岛,鋼鐵島,鋼鉄島
+141,4,Lake Acuity,睿智湖,睿智湖,エイチ湖
+142,4,Lake Valor,立志湖,立志湖,リッシ湖
+143,4,Lake Verity,心齐湖,心齊湖,シンジ湖
+144,4,Mining Museum,炭坑博物馆,炭坑博物館,炭坑博物館
+145,4,Mount Coronet,天冠山,天冠山,テンガン山
+146,4,Newmoon Island,新月岛,新月島,新月島
+147,4,Old Chateau,森之洋馆,森之洋館,森の洋館
+148,4,Pokétch Company,宝可表公司,寶可錶公司,ポケッチカンパニー
+149,4,Ramanas Park,玫瑰公园,玫瑰公園,ハマナスパーク
+150,4,Ravaged Path,荒芜小道,荒蕪小道,荒れた抜け道
+151,4,Resort Area,名胜区,名勝區,リゾートエリア
+152,4,Seabreak Path,破海之路,破海之路,海割れの道
+153,4,Sendoff Spring,送行之泉,送行之泉,送りの泉
+154,4,Seven Stars Restaurant,七星餐厅,七星餐廳,レストランななつぼし
+155,4,Spear Pillar,枪之柱,槍之柱,槍の柱
+156,4,Spring Path,隐泉之路,隱泉之路,隠れ泉への道
+157,4,Stark Mountain,严酷山,嚴酷山,ハードマウンテン
+158,4,Survival Area,生存区,生存區,サバイバルエリア
+159,4,Turnback Cave,归途洞窟,歸途洞窟,戻りの洞窟
+160,4,Trophy Garden,自豪的后院,自豪的後院,自慢の裏庭
+161,4,Valley Windworks,山谷发电厂,山谷發電廠,谷間の発電所
+162,4,Vista Lighthouse,导航灯塔,導航燈塔,シルベの灯台
+163,4,Wayward Cave,迷幻洞窟,迷幻洞窟,迷いの洞窟
+164,5,Accumula Town,唐草镇,唐草鎮,カラクサタウン
+165,5,Anville Town,金轮镇,金輪鎮,カナワタウン
+166,5,Aspertia City,桧扇市,檜扇市,ヒオウギシティ
+167,5,Black City,黑色市,黑色市,ブラックシティ
+168,5,Castelia City,飞云市,飛雲市,ヒウンシティ
+169,5,Driftveil City,帆巴市,帆巴市,ホドモエシティ
+170,5,Floccesy Town,算木镇,算木鎮,サンギタウン
+171,5,Humilau City,青海波市,青海波市,セイガイハシティ
+172,5,Icirrus City,雪花市,雪花市,セッカシティ
+173,5,Lacunosa Town,笼目镇,籠目鎮,カゴメタウン
+174,5,Lentimas Town,山路镇,山路鎮,ヤマジタウン
+175,5,Mistralton City,吹寄市,吹寄市,フキヨセシティ
+176,5,Nacrene City,七宝市,七寶市,シッポウシティ
+177,5,Nimbasa City,雷文市,雷文市,ライモンシティ
+178,5,Nuvema Town,鹿子镇,鹿子鎮,カノコタウン
+179,5,Opelucid City,双龙市,雙龍市,ソウリュウシティ
+180,5,Striaton City,三曜市,三曜市,サンヨウシティ
+181,5,Undella Town,涟漪镇,漣漪鎮,サザナミタウン
+182,5,Virbank City,立涌市,立湧市,タチワキシティ
+183,5,Battle Subway,對戰地下鐵,對戰地下鐵,バトルサブウェイ
+184,5,Chargestone Cave,電石洞穴,電石洞穴,電気石の洞穴
+185,5,Cold Storage,冷凍倉庫,冷凍倉庫,冷凍コンテナ
+186,5,Desert Resort,荒野名勝區,荒野名勝區,リゾートデザート
+187,5,Dragonspiral Tower,龍螺旋之塔,龍螺旋之塔,リュウラセンの塔
+188,5,Dreamyard,夢的遺址,夢的遺址,夢の跡地
+189,5,Driftveil Drawbridge,帆巴吊橋,帆巴吊橋,ホドモエの跳ね橋
+190,5,Pinwheel Forest,矢車森林,矢車森林,ヤグルマの森
+191,5,Pokémon World Tournament,神奇寶貝世界錦標賽,神奇寶貝世界錦標賽,ポケモンワールドトーナメント
+192,5,Pokéstar Studios,神奇寶貝好萊塢,神奇寶貝好萊塢,ポケウッド
+193,5,Relic Castle,古代城堡,古代城堡,古代の城
+194,5,Skyarrow Bridge,天之箭橋,天之箭橋,スカイアローブリッジ
+195,5,Twist Mountain,羅斯山,羅斯山,ネジ山
+196,6,Anistar City,百刻市,百刻市,ヒャッコクシティ
+197,6,Ambrette Town,古香镇,古香鎮,コウジンタウン
+198,6,Aquacorde Town,名水镇,名水鎮,メイスイタウン
+199,6,Camphrier Town,古木镇,古木鎮,コボクタウン
+200,6,Coumarine City,比翼市,比翼市,ヒヨクシティ
+201,6,Couriway Town,连理镇,連理鎮,レンリタウン
+202,6,Cyllage City,遥香市,遙香市,ショウヨウシティ
+203,6,Dendemille Town,风絮镇,風絮鎮,フウジョタウン
+204,6,Geosenge Town,石香镇,石香鎮,セキタイタウン
+205,6,Kiloude City,奇楠市,奇楠市,キナンシティ
+206,6,Laverre City,香薰市,香薰市,クノエシティ
+207,6,Lumiose City,密阿雷市,密阿雷市,ミアレシティ
+208,6,Santalune City,白檀市,白檀市,ハクダンシティ
+209,6,Shalour City,娑罗市,娑羅市,シャラシティ
+210,6,Snowbelle City,映雪市,映雪市,エイセツシティ
+211,6,Vaniville Town,朝香镇,朝香鎮,アサメタウン
+212,6,Battle Chateau,對戰城堡,對戰城堡,バトルシャトー
+213,6,Parfum Palace,巴爾法姆香殿,巴爾法姆香殿,パルファム宮殿
+214,7,Hau'oli City,好奥乐市,好奧樂市,ハウオリシティ
+215,7,Heahea City,慷待市,慷待市,カンタイシティ
+216,7,Iki Town,利利小镇,利利小鎮,リリィタウン
+217,7,Konikoni City,可霓可市,可霓可市,コニコシティ
+218,7,Malie City,马利埃静市,馬利埃靜市,マリエシティ
+219,7,Paniola Town,欧哈纳镇,歐哈納鎮,オハナタウン
+220,7,Po Town,魄镇,魄鎮,ポータウン
+221,7,Seafolk Village,海洋居民之村,海洋居民之村,海の民の村
+222,7,Tapu Village,卡璞村,卡璞村,カプの村
+223,7,Aether House,以太之家,以太之家,エーテルハウス
+224,7,Aether Paradise,以太乐园,以太樂園,エーテルパラダイス
+225,7,Akala Outskirts,阿卡拉岛郊外,阿卡拉島郊外,アーカラ島はずれ
+226,7,Altar of the Moone,月轮祭坛,月輪祭壇,月輪の祭壇
+227,7,Altar of the Sunne,日轮祭坛,日輪祭壇,日輪の祭壇
+228,7,Ancient Poni Path,波尼古道,波尼古道,ポニの古道
+229,7,Battle Tree,对战树,對戰樹,バトルツリー
+230,7,Berry fields,树果园,樹果園,きのみ畑
+231,7,Blush Mountain,火特力山,火特力山,ホテリ山
+232,7,Brooklet Hill,潺潺之丘,潺潺之丘,せせらぎの丘
+233,7,Diglett's Tunnel,地鼠隧道,地鼠隧道,ディグダトンネル
+234,7,Exeggutor Island,椰蛋树岛,椰蛋樹島,ナッシー・アイランド
+235,7,Festival Plaza,圆庆广场,圓慶廣場,フェスサークル
+236,7,Haina Desert,哈伊纳沙漠,哈伊納沙漠,ハイナ砂漠
+237,7,Hano Beach,豪诺豪诺海滩,豪諾豪諾海灘,ハノハノビーチ
+238,7,Hano Grand Resort,豪诺豪诺度假地,豪諾豪諾度假地,ハノハノリゾート
+239,7,Hau'oli Cemetery,好奥乐墓园,好奧樂墓園,ハウオリ霊園
+240,7,Hokulani Observatory,辉克拉尼天文台,輝克拉尼天文台,ホクラニ天文台
+241,7,Isle Abeens,悠悠度假地,悠悠度假地,のびのびリゾート
+242,7,Isle Aphun,怦怦度假地,怦怦度假地,どきどきリゾート
+243,7,Isle Aplenny,速速度假地,速速度假地,すくすくリゾート
+244,7,Isle Avue,暖暖度假地,暖暖度假地,ぽかぽかリゾート
+245,7,Isle Evelup,欢欢度假地,歡歡度假地,わいわいリゾート
+246,7,Kala'e Bay,卡拉蔚湾,卡拉蔚灣,カーラエ湾
+247,7,Lake of the Moone,月轮湖,月輪湖,月輪の湖
+248,7,Lake of the Sunne,日轮湖,日輪湖,日輪の湖
+249,7,Lush Jungle,树荫丛林,樹蔭叢林,シェードジャングル
+250,7,Mahalo Trail,马哈罗山路,馬哈羅山路,マハロ山道
+251,7,Malie Garden,马利埃庭园,馬利埃庭園,マリエ庭園
+252,7,Melemele Meadow,美乐美乐花园,美樂美樂花園,メレメレの花園
+253,7,Melemele Sea,美乐美乐海,美樂美樂海,メレメレ海
+254,7,Memorial Hill,回忆之丘,回憶之丘,メモリアルヒル
+255,7,Mount Hokulani,辉克拉尼山,輝克拉尼山,ホクラニ岳
+256,7,Mount Lanakila,拉纳基拉山,拉納基拉山,ラナキラマウンテン
+257,7,Paniola Ranch,欧哈纳牧场,歐哈納牧場,オハナ牧場
+258,7,Poké Pelago,宝可度假地,寶可度假地,ポケリゾート
+259,7,Poni Breaker Coast,波尼鼓浪岩岸,波尼鼓浪岩岸,ポニの荒磯
+260,7,Poni Coast,波尼海岸,波尼海岸,ポニの海岸
+261,7,Poni Gauntlet,波尼险路,波尼險路,ポニの険路
+262,7,Poni Grove,波尼树林,波尼樹林,ポニの樹林
+263,7,Poni Meadow,波尼花园,波尼花園,ポニの花園
+264,7,Poni Plains,波尼旷野,波尼曠野,ポニの広野
+265,7,Poni Wilds,波尼原野,波尼原野,ポニの原野
+266,7,Resolution Cave,终结洞窟,終結洞窟,エンドケイブ
+267,7,Royal Avenue,皇家大道,皇家大道,ロイヤルアベニュー
+268,7,Ruins of Abundance,丰收遗迹,豐收遺跡,実りの遺跡
+269,7,Ruins of Conflict,战争遗迹,戰爭遺跡,戦の遺跡
+270,7,Ruins of Hope,彼岸遗迹,彼岸遺跡,彼岸の遺跡
+271,7,Ruins of Life,生命遗迹,生命遺跡,命の遺跡
+272,7,Seaward Cave,通海洞穴,通海洞穴,海繋ぎの洞穴
+273,7,Secluded Shore,乌拉乌拉后海岸,烏拉烏拉後海岸,ウラウラ裏海岸
+274,7,Shady House,可疑宅邸,可疑宅邸,いかがわしき屋敷
+275,7,Ten Carat Hill,十克拉山丘,十克拉山丘,テンカラットヒル
+276,7,Thrifty Megamart (Abandoned Site),超值超市旧址,超值超市舊址,スーパー・メガやす 跡地
+277,7,Ula'ula Meadow,乌拉乌拉花园,烏拉烏拉花園,ウラウラの花園
+278,7,Vast Poni Canyon,波尼大峡谷,波尼大峡谷,ポニの大峡谷
+279,7,Verdant Cavern,蔥郁洞窟,蔥鬱洞窟,茂みの洞窟
+280,7,Wela Volcano Park,维拉火山公园,維拉火山公園,ヴェラ火山公園
+281,8,Ballonlea,舞姿镇,舞姿鎮,アラベスクタウン
+282,8,Circhester,战竞镇,戰競鎮,キルクスタウン
+283,8,Freezington,冻凝村,凍凝村,フリーズ村
+284,8,Hammerlocke,拳关市,拳關市,ナックルシティ
+285,8,Hulbury,水舟鎮,水舟镇,バウタウン
+286,8,Motostoke,机擎市,機擎市,エンジンシティ
+287,8,Postwick,化朗镇,化朗鎮,ハロンタウン
+288,8,Spikemuth,尖钉镇,尖釘鎮,スパイクタウン
+289,8,Stow-on-Side,溯传镇,溯傳鎮,ラテラルタウン
+290,8,Turffield,草路镇,草路鎮,ターフタウン
+291,8,Wedgehurst,木杆镇,木桿鎮,ブラッシータウン
+292,8,Wyndon,宫门市,宮門市,シュートシティ
+293,9,Jubilife Village,祝庆村,祝慶村,コトブキムラ
+294,10,Cabo Poco,小匙镇,小匙鎮,コサジタウン
+295,10,Los Platos,平碟镇,平碟鎮,プラトタウン
+296,10,Mesagoza,桌台市,桌台市,テーブルシティ
+297,10,Cortondo,圆模镇,圓模鎮,セルクルタウン
+298,10,Artazon,深钵镇,深缽鎮,ボウルタウン
+299,10,Levincia,酿光市,釀光市,ハッコウシティ
+300,10,Alfornada,焙固镇,焙固鎮,ベイクタウン
+301,10,Cascarrafa,玻瓶市,玻瓶市,カラフシティ
+302,10,Porto Marinada,渍沁镇,漬沁鎮,マリナードタウン
+303,10,Medali,锦汇镇,錦匯鎮,チャンプルタウン
+304,10,Zapapico,穴扎镇,穴扎鎮,ピケタウン
+305,10,Montenevera,冰柜镇,冰櫃鎮,フリッジタウン
+306,10,Asado Desert,烘烘沙漠,烘烘沙漠,ロースト砂漠
+307,10,Tagtree Thicket,印記樹林,印记树林,しるしの木立ち
+308,10,Glaseado Mountain,霜抹山,霜抹山,ナッペ山
+309,10,Casseroya Lake,大鍋湖,大锅湖,オージャの湖
+310,10,South Paldean Sea,南帕底亞海,南帕底亚海,南パルデア海
+311,10,West Paldean Sea,西帕底亞海,西帕底亚海,西パルデア海
+312,10,East Paldean Sea,東帕底亞海,东帕底亚海,東パルデア海
+313,10,North Paldean Sea,北帕底亞海,北帕底亚海,北パルデア海
+314,10,Inlet Grotto,海灣洞穴,海湾洞穴,入り江のほら穴
+315,10,Alfornada Cavern,焙固空洞,焙固空洞,ベイク空洞
+316,10,Dalizapa Passage,錦穴山道,锦穴山道,プルピケ山道
+317,10,Poco Path,小匙小徑,小匙小径,コサジの小道
+318,10,Caph Squad's Base,王良一小隊基地,王良一小队基地,チーム・カーフのアジト
+319,10,Segin Squad's Base,閣道二小隊基地,阁道二小队基地,チーム・セギンのアジト
+320,10,Ruchbah Squad's Base,閣道三小隊基地,阁道三小队基地,チーム・ルクバーのアジト
+321,10,Schedar Squad's Base,王良四小隊基地,王良四小队基地,チーム・シェダルのアジト
+322,10,Navi Squad's Base,策星小隊基地,策星小队基地,チーム・シーのアジト
+323,10,Socarrat Trail,鍋巴林道,锅巴林道,オコゲ林道
+324,10,Area Zero,第零區,第零区,エリアゼロ
+325,10,Zero Lab,零區研究所,零区研究所,ゼロラボ
+326,10,Naranja Academy,橘子學院,橘子学院,オレンジアカデミー
+327,10,Uva Academy,葡萄學院,葡萄学院,グレープアカデミー
+328,10,Area Zero Underdepths,零之大空洞,零之大空洞,ゼロの大空洞
+329,10,Blueberry Academy,藍莓學園,蓝莓学园,ブルーベリー学園
+330,10,Terarium,生態巨蛋,生态巨蛋,テラリウムドーム
+331,10,Savanna Biome,草原區,草原区,サバンナエリア
+332,10,Coastal Biome,海岸區,海岸区,コーストエリア
+333,10,Canyon Biome,峽谷區,峡谷区,キャニオンエリア
+334,10,Polar Biome,極地區,极地区,ポーラエリア
+335,10,Central Plaza,中心廣場,中心广场,センタースクエア
+336,10,Savanna Plaza,草原廣場,草原广场,サバンナスクエア
+337,10,Coastal Plaza,海岸廣場,海岸广场,コーストスクエア
+338,10,Canyon Plaza,峡谷广场,峽谷廣場,キャニオンスクエア
+339,10,Polar Plaza,極地廣場,极地广场,ポーラスクエア
+340,10,Chargestone Cavern,電氣石岩窟,电气石岩窟,電気石の岩窟
+341,10,Torchlit Labyrinth,火光迷宮,火光迷宫,ともしびの迷路
+342,11,Mossui Town,翠绿镇,翠綠鎮,スイリョクタウン
+343,11,Kitakami Road,北上街道,北上街道,キタカミ街道
+344,11,Apple Hills,蘋果之丘,苹果之丘,アップルヒルズ
+345,11,Loyalty Plaza,寶伴廣場,宝伴广场,ともっこプラザ
+346,11,Reveler's Road,起舞山道,起舞山道,舞出山道
+347,11,Kitakami Hall,北上中心,北上中心,キタカミセンター
+348,11,Dreaded Den,恐洞,恐洞,恐れ穴
+349,11,Oni Mountain,鬼山,鬼山,鬼が山
+350,11,Oni's Maw,鬼齒洞,鬼齿洞,鬼歯空洞
+351,11,Crystal Pool,晶光池,晶光池,てらす池
+352,11,Oni Mountain Summit,鬼山山頂,鬼山山顶,鬼が山 山頂
+353,11,Wistful Fields,藤花原,藤花原,フジが原
+354,11,Mossfell Confluence,匯流河灘,汇流河滩,落合川原
+355,11,Fellhorn Gorge,鬼角峽谷,鬼角峡谷,鬼角峡谷
+356,11,Paradise Barrens,樂土荒地,乐土荒地,楽土の荒地
+357,11,Kitakami Wilds,北上原生區,北上原生区,キタカミ原生地域
+358,11,Timeless Woods,永久森林,永久森林,とこしえの森
+359,11,Infernal Pass,地獄谷,地狱谷,地獄谷
+360,11,Chilling Waterhead,冷水洞,冷水洞,ひやみず洞

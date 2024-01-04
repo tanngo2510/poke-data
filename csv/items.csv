@@ -1,0 +1,1361 @@
+id,name_en,name_hans,name_hant,name_jp
+1,Master Ball,大师球,大師球,マスターボール
+2,Ultra Ball,高级球,高級球,ハイパーボール
+3,Great Ball,超级球,超級球,スーパーボール
+4,Poké Ball,精灵球,精靈球,モンスターボール
+5,Safari Ball,狩猎球,狩獵球,サファリボール
+6,Net Ball,捕网球,捕網球,ネットボール
+7,Dive Ball,潜水球,潛水球,ダイブボール
+8,Nest Ball,巢穴球,巢穴球,ネストボール
+9,Repeat Ball,重复球,重複球,リピートボール
+10,Timer Ball,计时球,計時球,タイマーボール
+11,Luxury Ball,豪华球,豪華球,ゴージャスボール
+12,Premier Ball,纪念球,紀念球,プレミアボール
+13,Dusk Ball,黑暗球,黑暗球,ダークボール
+14,Heal Ball,治愈球,治癒球,ヒールボール
+15,Quick Ball,先机球,先機球,クイックボール
+16,Cherish Ball,贵重球,貴重球,プレシャスボール
+17,Potion,伤药,傷藥,キズぐすり
+18,Antidote,解毒药,解毒藥,どくけし
+19,Burn Heal,灼伤药,灼傷藥,やけどなおし
+20,Ice Heal,解冻药,解凍藥,こおりなおし
+21,Awakening,解眠药,解眠藥,ねむけざまし
+22,Paralyze Heal,解麻药,解麻藥,まひなおし
+23,Full Restore,全复药,全復藥,かいふくのくすり
+24,Max Potion,全满药,全滿藥,まんたんのくすり
+25,Hyper Potion,厉害伤药,厲害傷藥,すごいキズぐすり
+26,Super Potion,好伤药,好傷藥,いいキズぐすり
+27,Full Heal,万灵药,萬靈藥,なんでもなおし
+28,Revive,活力碎片,活力碎片,げんきのかけら
+29,Max Revive,活力块,活力塊,げんきのかたまり
+30,Fresh Water,美味之水,美味之水,おいしいみず
+31,Soda Pop,劲爽汽水,勁爽汽水,サイコソーダ
+32,Lemonade,果汁牛奶,果汁牛奶,ミックスオレ
+33,Moomoo Milk,哞哞鲜奶,哞哞鮮奶,モーモーミルク
+34,Energy Powder,元气粉,元氣粉,ちからのこな
+35,Energy Root,元气根,元氣根,ちからのねっこ
+36,Heal Powder,万能粉,萬能粉,ばんのうごな
+37,Revival Herb,复活草,復活草,ふっかつそう
+38,Ether,ＰＰ单项小补剂,ＰＰ單項小補劑,ピーピーエイド
+39,Max Ether,ＰＰ单项全补剂,ＰＰ單項全補劑,ピーピーリカバー
+40,Elixir,ＰＰ多项小补剂,ＰＰ多項小補劑,ピーピーエイダー
+41,Max Elixir,ＰＰ多项全补剂,ＰＰ多項全補劑,ピーピーマックス
+42,Lava Cookie,釜炎仙贝,釜炎仙貝,フエンせんべい
+43,Berry Juice,树果汁,樹果汁,きのみジュース
+44,Sacred Ash,圣灰,聖灰,せいなるはい
+45,HP Up,ＨＰ增强剂,ＨＰ增強劑,マックスアップ
+46,Protein,攻击增强剂,攻擊增強劑,タウリン
+47,Iron,防御增强剂,防禦增強劑,ブロムヘキシン
+48,Carbos,速度增强剂,速度增強劑,インドメタシン
+49,Calcium,特攻增强剂,特攻增強劑,リゾチウム
+50,Rare Candy,神奇糖果,神奇糖果,ふしぎなアメ
+51,PP Up,ＰＰ提升剂,ＰＰ提升劑,ポイントアップ
+52,Zinc,特防增强剂,特防增強劑,キトサン
+53,PP Max,ＰＰ极限提升剂,ＰＰ極限提升劑,ポイントマックス
+54,Old Gateau,森之羊羹,森之羊羹,もりのヨウカン
+55,Guard Spec.,能力防守,能力防守,エフェクトガード
+56,Dire Hit,要害攻击,要害攻擊,クリティカット
+57,X Attack,力量强化,力量強化,プラスパワー
+58,X Defense,防御强化,防禦強化,ディフェンダー
+59,X Speed,速度强化,速度強化,スピーダー
+60,X Accuracy,命中强化,命中強化,ヨクアタール
+61,X Sp. Atk,特攻强化,特攻強化,スペシャルアップ
+62,X Sp. Def,特防强化,特防強化,スペシャルガード
+63,Poké Doll,皮皮玩偶,皮皮玩偶,ピッピにんぎょう
+64,Fluffy Tail,向尾喵的尾巴,向尾喵的尾巴,エネコのシッポ
+65,Blue Flute,蓝色玻璃哨,藍色玻璃哨,あおいビードロ
+66,Yellow Flute,黄色玻璃哨,黃色玻璃哨,きいろビードロ
+67,Red Flute,红色玻璃哨,紅色玻璃哨,あかいビードロ
+68,Black Flute,黑色玻璃哨,黑色玻璃哨,くろいビードロ
+69,White Flute,白色玻璃哨,白色玻璃哨,しろいビードロ
+70,Shoal Salt,浅滩海盐,淺灘海鹽,あさせのしお
+71,Shoal Shell,浅滩贝壳,淺灘貝殼,あさせのかいがら
+72,Red Shard,红色碎片,紅色碎片,あかいかけら
+73,Blue Shard,蓝色碎片,藍色碎片,あおいかけら
+74,Yellow Shard,黄色碎片,黃色碎片,きいろいかけら
+75,Green Shard,绿色碎片,綠色碎片,みどりのかけら
+76,Super Repel,白银喷雾,白銀噴霧,シルバースプレー
+77,Max Repel,黄金喷雾,黃金噴霧,ゴールドスプレー
+78,Escape Rope,离洞绳,離洞繩,あなぬけのヒモ
+79,Repel,除虫喷雾,除蟲噴霧,むしよけスプレー
+80,Sun Stone,日之石,日之石,たいようのいし
+81,Moon Stone,月之石,月之石,つきのいし
+82,Fire Stone,火之石,火之石,ほのおのいし
+83,Thunder Stone,雷之石,雷之石,かみなりのいし
+84,Water Stone,水之石,水之石,みずのいし
+85,Leaf Stone,叶之石,葉之石,リーフのいし
+86,Tiny Mushroom,小蘑菇,小蘑菇,ちいさなキノコ
+87,Big Mushroom,大蘑菇,大蘑菇,おおきなキノコ
+88,Pearl,珍珠,珍珠,しんじゅ
+89,Big Pearl,大珍珠,大珍珠,おおきなしんじゅ
+90,Stardust,星星沙子,星星沙子,ほしのすな
+91,Star Piece,星星碎片,星星碎片,ほしのかけら
+92,Nugget,金珠,金珠,きんのたま
+93,Heart Scale,心之鳞片,心之鱗片,ハートのウロコ
+94,Honey,甜甜蜜,甜甜蜜,あまいミツ
+95,Growth Mulch,速速肥,速速肥,すくすくこやし
+96,Damp Mulch,湿湿肥,濕濕肥,じめじめこやし
+97,Stable Mulch,久久肥,久久肥,ながながこやし
+98,Gooey Mulch,粘粘肥,黏黏肥,ねばねばこやし
+99,Root Fossil,根状化石,根狀化石,ねっこのカセキ
+100,Claw Fossil,爪子化石,爪子化石,ツメのカセキ
+101,Helix Fossil,贝壳化石,貝殼化石,かいのカセキ
+102,Dome Fossil,甲壳化石,甲殼化石,こうらのカセキ
+103,Old Amber,秘密琥珀,秘密琥珀,ひみつのコハク
+104,Armor Fossil,盾甲化石,盾甲化石,たてのカセキ
+105,Skull Fossil,头盖化石,頭蓋化石,ずがいのカセキ
+106,Rare Bone,贵重骨头,貴重骨頭,きちょうなホネ
+107,Shiny Stone,光之石,光之石,ひかりのいし
+108,Dusk Stone,暗之石,暗之石,やみのいし
+109,Dawn Stone,觉醒之石,覺醒之石,めざめいし
+110,Oval Stone,浑圆之石,渾圓之石,まんまるいし
+111,Odd Keystone,楔石,楔石,かなめいし
+112,Adamant Orb,金刚宝珠,金剛寶珠,こんごうだま
+113,Lustrous Orb,白玉宝珠,白玉寶珠,しらたま
+126,Cheri Berry,樱子果,櫻子果,クラボのみ
+127,Chesto Berry,零余果,零餘果,カゴのみ
+128,Pecha Berry,桃桃果,桃桃果,モモンのみ
+129,Rawst Berry,莓莓果,莓莓果,チーゴのみ
+130,Aspear Berry,利木果,利木果,ナナシのみ
+131,Leppa Berry,苹野果,蘋野果,ヒメリのみ
+132,Oran Berry,橙橙果,橙橙果,オレンのみ
+133,Persim Berry,柿仔果,柿仔果,キーのみ
+134,Lum Berry,木子果,木子果,ラムのみ
+135,Sitrus Berry,文柚果,文柚果,オボンのみ
+136,Figy Berry,勿花果,勿花果,フィラのみ
+137,Wiki Berry,异奇果,異奇果,ウイのみ
+138,Mago Berry,芒芒果,芒芒果,マゴのみ
+139,Aguav Berry,乐芭果,樂芭果,バンジのみ
+140,Iapapa Berry,芭亚果,芭亞果,イアのみ
+141,Razz Berry,蔓莓果,蔓莓果,ズリのみ
+142,Bluk Berry,墨莓果,墨莓果,ブリーのみ
+143,Nanab Berry,蕉香果,蕉香果,ナナのみ
+144,Wepear Berry,西梨果,西梨果,セシナのみ
+145,Pinap Berry,凰梨果,凰梨果,パイルのみ
+146,Pomeg Berry,榴石果,榴石果,ザロクのみ
+147,Kelpsy Berry,藻根果,藻根果,ネコブのみ
+148,Qualot Berry,比巴果,比巴果,タポルのみ
+149,Hondew Berry,哈密果,哈密果,ロメのみ
+150,Grepa Berry,萄葡果,萄葡果,ウブのみ
+151,Tamato Berry,茄番果,茄番果,マトマのみ
+152,Cornn Berry,玉黍果,玉黍果,モコシのみ
+153,Magost Berry,岳竹果,岳竹果,ゴスのみ
+154,Rabuta Berry,茸丹果,茸丹果,ラブタのみ
+155,Nomel Berry,檬柠果,檬檸果,ノメルのみ
+156,Spelon Berry,刺角果,刺角果,ノワキのみ
+157,Pamtre Berry,椰木果,椰木果,シーヤのみ
+158,Watmel Berry,瓜西果,瓜西果,カイスのみ
+159,Durin Berry,金枕果,金枕果,ドリのみ
+160,Belue Berry,靛莓果,靛莓果,ベリブのみ
+161,Occa Berry,巧可果,巧可果,オッカのみ
+162,Passho Berry,千香果,千香果,イトケのみ
+163,Wacan Berry,烛木果,燭木果,ソクノのみ
+164,Rindo Berry,罗子果,羅子果,リンドのみ
+165,Yache Berry,番荔果,番荔果,ヤチェのみ
+166,Chople Berry,莲蒲果,蓮蒲果,ヨプのみ
+167,Kebia Berry,通通果,通通果,ビアーのみ
+168,Shuca Berry,腰木果,腰木果,シュカのみ
+169,Coba Berry,棱瓜果,稜瓜果,バコウのみ
+170,Payapa Berry,福禄果,福祿果,ウタンのみ
+171,Tanga Berry,扁樱果,扁櫻果,タンガのみ
+172,Charti Berry,草蚕果,草蠶果,ヨロギのみ
+173,Kasib Berry,佛柑果,佛柑果,カシブのみ
+174,Haban Berry,莓榴果,莓榴果,ハバンのみ
+175,Colbur Berry,刺耳果,刺耳果,ナモのみ
+176,Babiri Berry,霹霹果,霹霹果,リリバのみ
+177,Chilan Berry,灯浆果,燈漿果,ホズのみ
+178,Liechi Berry,枝荔果,枝荔果,チイラのみ
+179,Ganlon Berry,龙睛果,龍睛果,リュガのみ
+180,Salac Berry,沙鳞果,沙鱗果,カムラのみ
+181,Petaya Berry,龙火果,龍火果,ヤタピのみ
+182,Apicot Berry,杏仔果,杏仔果,ズアのみ
+183,Lansat Berry,兰萨果,蘭薩果,サンのみ
+184,Starf Berry,星桃果,星桃果,スターのみ
+185,Enigma Berry,谜芝果,謎芝果,ナゾのみ
+186,Micle Berry,奇秘果,奇秘果,ミクルのみ
+187,Custap Berry,释陀果,釋陀果,イバンのみ
+188,Jaboca Berry,嘉珍果,嘉珍果,ジャポのみ
+189,Rowap Berry,雾莲果,霧蓮果,レンブのみ
+190,Bright Powder,光粉,光粉,ひかりのこな
+191,White Herb,白色香草,白色香草,しろいハーブ
+192,Macho Brace,强制锻炼器,強制鍛鍊器,きょうせいギプス
+193,Exp. Share,学习装置,學習裝置,がくしゅうそうち
+194,Quick Claw,先制之爪,先制之爪,せんせいのツメ
+195,Soothe Bell,安抚之铃,安撫之鈴,やすらぎのすず
+196,Mental Herb,心灵香草,心靈香草,メンタルハーブ
+197,Choice Band,讲究头带,講究頭帶,こだわりハチマキ
+198,King’s Rock,王者之证,王者之證,おうじゃのしるし
+199,Silver Powder,银粉,銀粉,ぎんのこな
+200,Amulet Coin,护符金币,護符金幣,おまもりこばん
+201,Cleanse Tag,洁净之符,潔淨之符,きよめのおふだ
+202,Soul Dew,心之水滴,心之水滴,こころのしずく
+203,Deep Sea Tooth,深海之牙,深海之牙,しんかいのキバ
+204,Deep Sea Scale,深海鳞片,深海鱗片,しんかいのウロコ
+205,Smoke Ball,烟雾球,煙霧球,けむりだま
+206,Everstone,不变之石,不變之石,かわらずのいし
+207,Focus Band,气势头带,氣勢頭帶,きあいのハチマキ
+208,Lucky Egg,幸运蛋,幸運蛋,しあわせタマゴ
+209,Scope Lens,焦点镜,焦點鏡,ピントレンズ
+210,Metal Coat,金属膜,金屬膜,メタルコート
+211,Leftovers,吃剩的东西,吃剩的東西,たべのこし
+212,Dragon Scale,龙之鳞片,龍之鱗片,りゅうのウロコ
+213,Light Ball,电气球,電氣球,でんきだま
+214,Soft Sand,柔软沙子,柔軟沙子,やわらかいすな
+215,Hard Stone,硬石头,硬石頭,かたいいし
+216,Miracle Seed,奇迹种子,奇跡種子,きせきのタネ
+217,Black Glasses,黑色眼镜,黑色眼鏡,くろいメガネ
+218,Black Belt,黑带,黑帶,くろおび
+219,Magnet,磁铁,磁鐵,じしゃく
+220,Mystic Water,神秘水滴,神秘水滴,しんぴのしずく
+221,Sharp Beak,锐利鸟嘴,銳利鳥嘴,するどいくちばし
+222,Poison Barb,毒针,毒針,どくバリ
+223,Never-Melt Ice,不融冰,不融冰,とけないこおり
+224,Spell Tag,诅咒之符,詛咒之符,のろいのおふだ
+225,Twisted Spoon,弯曲的汤匙,彎曲的湯匙,まがったスプーン
+226,Charcoal,木炭,木炭,もくたん
+227,Dragon Fang,龙之牙,龍之牙,りゅうのキバ
+228,Silk Scarf,丝绸围巾,絲綢圍巾,シルクのスカーフ
+229,Upgrade,升级数据,升級資料,アップグレード
+230,Shell Bell,贝壳之铃,貝殼之鈴,かいがらのすず
+231,Sea Incense,海潮薰香,海潮薰香,うしおのおこう
+232,Lax Incense,悠闲薰香,悠閒薰香,のんきのおこう
+233,Lucky Punch,吉利拳,吉利拳,ラッキーパンチ
+234,Metal Powder,金属粉,金屬粉,メタルパウダー
+235,Thick Club,粗骨头,粗骨頭,ふといホネ
+236,Leek,大葱,大蔥,ながねぎ
+237,Red Scarf,红色头巾,紅色頭巾,あかいバンダナ
+238,Blue Scarf,蓝色头巾,藍色頭巾,あおいバンダナ
+239,Pink Scarf,粉红头巾,粉紅頭巾,ピンクのバンダナ
+240,Green Scarf,绿色头巾,綠色頭巾,みどりのバンダナ
+241,Yellow Scarf,黄色头巾,黃色頭巾,きいろのバンダナ
+242,Wide Lens,广角镜,廣角鏡,こうかくレンズ
+243,Muscle Band,力量头带,力量頭帶,ちからのハチマキ
+244,Wise Glasses,博识眼镜,博識眼鏡,ものしりメガネ
+245,Expert Belt,达人带,達人帶,たつじんのおび
+246,Light Clay,光之黏土,光之黏土,ひかりのねんど
+247,Life Orb,生命宝珠,生命寶珠,いのちのたま
+248,Power Herb,强力香草,強力香草,パワフルハーブ
+249,Toxic Orb,剧毒宝珠,劇毒寶珠,どくどくだま
+250,Flame Orb,火焰宝珠,火焰寶珠,かえんだま
+251,Quick Powder,速度粉,速度粉,スピードパウダー
+252,Focus Sash,气势披带,氣勢披帶,きあいのタスキ
+253,Zoom Lens,对焦镜,對焦鏡,フォーカスレンズ
+254,Metronome,节拍器,節拍器,メトロノーム
+255,Iron Ball,黑色铁球,黑色鐵球,くろいてっきゅう
+256,Lagging Tail,后攻之尾,後攻之尾,こうこうのしっぽ
+257,Destiny Knot,红线,紅線,あかいいと
+258,Black Sludge,黑色污泥,黑色污泥,くろいヘドロ
+259,Icy Rock,冰冷岩石,冰冷岩石,つめたいいわ
+260,Smooth Rock,沙沙岩石,沙沙岩石,さらさらいわ
+261,Heat Rock,炽热岩石,熾熱岩石,あついいわ
+262,Damp Rock,潮湿岩石,潮濕岩石,しめったいわ
+263,Grip Claw,紧缠钩爪,緊纏鉤爪,ねばりのかぎづめ
+264,Choice Scarf,讲究围巾,講究圍巾,こだわりスカーフ
+265,Sticky Barb,附着针,附著針,くっつきバリ
+266,Power Bracer,力量护腕,力量護腕,パワーリスト
+267,Power Belt,力量腰带,力量腰帶,パワーベルト
+268,Power Lens,力量镜,力量鏡,パワーレンズ
+269,Power Band,力量束带,力量束帶,パワーバンド
+270,Power Anklet,力量护踝,力量護踝,パワーアンクル
+271,Power Weight,力量负重,力量負重,パワーウエイト
+272,Shed Shell,美丽空壳,美麗空殼,きれいなぬけがら
+273,Big Root,大根茎,大根莖,おおきなねっこ
+274,Choice Specs,讲究眼镜,講究眼鏡,こだわりメガネ
+275,Flame Plate,火球石板,火球石板,ひのたまプレート
+276,Splash Plate,水滴石板,水滴石板,しずくプレート
+277,Zap Plate,雷电石板,雷電石板,いかずちプレート
+278,Meadow Plate,碧绿石板,碧綠石板,みどりのプレート
+279,Icicle Plate,冰柱石板,冰柱石板,つららのプレート
+280,Fist Plate,拳头石板,拳頭石板,こぶしのプレート
+281,Toxic Plate,剧毒石板,劇毒石板,もうどくプレート
+282,Earth Plate,大地石板,大地石板,だいちのプレート
+283,Sky Plate,蓝天石板,藍天石板,あおぞらプレート
+284,Mind Plate,神奇石板,神奇石板,ふしぎのプレート
+285,Insect Plate,玉虫石板,玉蟲石板,たまむしプレート
+286,Stone Plate,岩石石板,岩石石板,がんせきプレート
+287,Spooky Plate,妖怪石板,妖怪石板,もののけプレート
+288,Draco Plate,龙之石板,龍之石板,りゅうのプレート
+289,Dread Plate,恶颜石板,惡顏石板,こわもてプレート
+290,Iron Plate,钢铁石板,鋼鐵石板,こうてつプレート
+291,Odd Incense,奇异薰香,奇異薰香,あやしいおこう
+292,Rock Incense,岩石薰香,岩石薰香,がんせきおこう
+293,Full Incense,饱腹薰香,飽腹薰香,まんぷくおこう
+294,Wave Incense,涟漪薰香,漣漪薰香,さざなみのおこう
+295,Rose Incense,花朵薰香,花朵薰香,おはなのおこう
+296,Luck Incense,幸运薰香,幸運薰香,こううんのおこう
+297,Pure Incense,洁净薰香,潔淨薰香,きよめのおこう
+298,Protector,护具,護具,プロテクター
+299,Electirizer,电力增幅器,電力增幅器,エレキブースター
+300,Magmarizer,熔岩增幅器,熔岩增幅器,マグマブースター
+301,Dubious Disc,可疑补丁,可疑修正檔,あやしいパッチ
+302,Reaper Cloth,灵界之布,靈界之布,れいかいのぬの
+303,Razor Claw,锐利之爪,銳利之爪,するどいツメ
+304,Razor Fang,锐利之牙,銳利之牙,するどいキバ
+405,Explorer Kit,探险套装,探險組合,たんけんセット
+406,Loot Sack,宝物袋,寶物袋,たからぶくろ
+407,Rule Book,规则书,規則書,ルールブック
+408,Poké Radar,宝可追踪,寶可追蹤,ポケトレ
+409,Point Card,点数卡,點數卡,ポイントカード
+410,Journal,冒险笔记,冒險筆記,ぼうけんノート
+411,Seal Case,贴纸盒,貼紙盒,シールいれ
+412,Fashion Case,饰品盒,飾品盒,アクセサリーいれ
+413,Seal Bag,贴纸袋,貼紙袋,シールぶくろ
+414,Pal Pad,朋友手册,朋友手冊,ともだちてちょう
+415,Works Key,发电厂钥匙,發電廠鑰匙,はつでんしょキー
+416,Old Charm,古代护符,古代護符,こだいのおまもり
+417,Galactic Key,银河队钥匙,銀河隊鑰匙,ギンガだんのカギ
+418,Red Chain,红色锁链,紅色鎖鏈,あかいくさり
+419,Town Map,城镇地图,城鎮地圖,タウンマップ
+420,Vs. Seeker,对战搜寻器,對戰搜尋器,バトルサーチャー
+421,Coin Case,代币盒,代幣盒,コインケース
+422,Old Rod,破旧钓竿,破舊釣竿,ボロのつりざお
+423,Good Rod,好钓竿,好釣竿,いいつりざお
+424,Super Rod,厉害钓竿,厲害釣竿,すごいつりざお
+425,Sprayduck,可达鸭喷壶,可達鴨噴壺,コダックじょうろ
+426,Poffin Case,宝芬盒,寶芬盒,ポフィンケース
+428,Suite Key,房间钥匙,房間鑰匙,ルームキー
+429,Oak’s Letter,大木的信,大木的信,オーキドのてがみ
+430,Lunar Wing,新月之羽,新月之羽,みかづきのはね
+431,Member Card,会员卡,會員卡,メンバーズカード
+432,Azure Flute,天界之笛,天界之笛,てんかいのふえ
+433,S.S. Ticket,船票,船票,ふねのチケット
+434,Contest Pass,华丽大赛参加证,華麗大賽參加證,コンテストパス
+435,Magma Stone,火山镇石,火山鎮石,かざんのおきいし
+436,Parcel,包裹,包裹,おとどけもの
+437,Coupon 1,兑换券１,兌換券１,ひきかえけん１
+438,Coupon 2,兑换券２,兌換券２,ひきかえけん２
+439,Coupon 3,兑换券３,兌換券３,ひきかえけん３
+440,Storage Key,仓库钥匙,倉庫鑰匙,そうこのカギ
+441,Secret Potion,秘传之药,秘傳之藥,ひでんのくすり
+442,Griseous Orb,白金宝珠,白金寶珠,はっきんだま
+443,Vs. Recorder,对战记录器,對戰記錄器,バトルレコーダー
+444,Gracidea,葛拉西蒂亚花,葛拉西蒂亞花,グラシデアのはな
+445,Secret Key,秘密钥匙,秘密鑰匙,ひみつのカギ
+446,Apricorn Box,球果盒,球果盒,ぼんぐりケース
+447,Berry Pots,树果种植盆,樹果種植盆,きのみプランター
+448,Squirt Bottle,杰尼龟喷壶,傑尼龜噴壺,ゼニガメじょうろ
+449,Lure Ball,诱饵球,誘餌球,ルアーボール
+450,Level Ball,等级球,等級球,レベルボール
+451,Moon Ball,月亮球,月亮球,ムーンボール
+452,Heavy Ball,沉重球,沉重球,ヘビーボール
+453,Fast Ball,速度球,速度球,スピードボール
+454,Friend Ball,友友球,友友球,フレンドボール
+455,Love Ball,甜蜜球,甜蜜球,ラブラブボール
+456,Park Ball,公园球,公園球,パークボール
+457,Sport Ball,竞赛球,競賽球,コンペボール
+458,Red Apricorn,红球果,紅球果,あかぼんぐり
+459,Blue Apricorn,蓝球果,藍球果,あおぼんぐり
+460,Yellow Apricorn,黄球果,黃球果,きぼんぐり
+461,Green Apricorn,绿球果,綠球果,みどぼんぐり
+462,Pink Apricorn,粉球果,粉球果,ももぼんぐり
+463,White Apricorn,白球果,白球果,しろぼんぐり
+464,Black Apricorn,黑球果,黑球果,くろぼんぐり
+465,Dowsing Machine,探宝器,探寶器,ダウジングマシン
+466,Rage Candy Bar,愤怒馒头,憤怒饅頭,いかりまんじゅう
+467,Red Orb,朱红色宝珠,朱紅色寶珠,べにいろのたま
+468,Blue Orb,靛蓝色宝珠,靛藍色寶珠,あいいろのたま
+469,Jade Orb,草绿色宝珠,草綠色寶珠,もえぎいろのたま
+470,Enigma Stone,谜之水晶,謎之水晶,なぞのすいしょう
+471,Unown Report,未知图腾笔记,未知圖騰筆記,アンノーンノート
+472,Blue Card,蓝卡,藍卡,ブルーカード
+473,Slowpoke Tail,美味尾巴,美味尾巴,おいしいシッポ
+474,Clear Bell,透明铃铛,透明鈴鐺,とうめいなスズ
+475,Card Key,钥匙卡,鑰匙卡,カードキー
+476,Basement Key,地下钥匙,地下鑰匙,ちかのかぎ
+477,Red Scale,红色鳞片,紅色鱗片,あかいウロコ
+478,Lost Item,遗失物,遺失物,おとしもの
+479,Pass,磁浮列车自由票,磁浮列車自由票,リニアパス
+480,Machine Part,机械零件,機械零件,きかいのぶひん
+481,Silver Wing,银色之羽,銀色之羽,ぎんいろのはね
+482,Rainbow Wing,虹色之羽,虹色之羽,にじいろのはね
+483,Mystery Egg,神奇蛋,神奇蛋,ふしぎなタマゴ
+485,Tidal Bell,海声铃铛,海聲鈴鐺,うみなりのスズ
+513,Lock Capsule,上锁的容器,上鎖的容器,ロックカプセル
+514,Photo Album,相册,相簿,フォトアルバム
+527,Mach Bike,音速自行车,音速自行車,マッハじてんしゃ
+528,Acro Bike,越野自行车,越野自行車,ダートじてんしゃ
+529,Wailmer Pail,吼吼鲸喷壶,吼吼鯨噴壺,ホエルコじょうろ
+531,Soot Sack,集灰袋,集灰袋,はいぶくろ
+533,Letter,给大吾的信,給大吾的信,ダイゴへのてがみ
+534,Eon Ticket,无限船票,無限船票,むげんのチケット
+535,Scanner,探测器,探測器,たんちき
+537,Meteorite,陨石,隕石,いんせき
+542,Devon Scope,得文侦测镜,得文偵測鏡,デボンスコープ
+544,Poké Flute,宝可梦之笛,寶可夢之笛,ポケモンのふえ
+546,Gold Teeth,金假牙,金假牙,きんのいれば
+547,Lift Key,电梯钥匙,電梯鑰匙,エレベータのカギ
+548,Silph Scope,西尔佛检视镜,西爾佛檢視鏡,シルフスコープ
+550,TM Case,招式学习器盒,招式學習器盒,わざマシンケース
+555,Tea,茶,茶,おちゃ
+563,Douse Drive,水流卡带,水流卡帶,アクアカセット
+564,Shock Drive,闪电卡带,閃電卡帶,イナズマカセット
+565,Burn Drive,火焰卡带,火焰卡帶,ブレイズカセット
+566,Chill Drive,冰冻卡带,冰凍卡帶,フリーズカセット
+567,Sweet Heart,心形甜点,心形甜點,ハートスイーツ
+568,Greet Mail,初次邮件,初次郵件,はじめてメール
+569,Favored Mail,喜爱邮件,喜愛郵件,だいすきメール
+570,RSVP Mail,邀请邮件,邀請郵件,おさそいメール
+571,Thanks Mail,感谢邮件,感謝郵件,かんしゃメール
+572,Inquiry Mail,询问邮件,詢問郵件,しつもんメール
+573,Like Mail,推荐邮件,推薦郵件,おすすめメール
+574,Reply Mail,回复邮件,回覆郵件,おかえしメール
+575,Bridge Mail S,桥梁邮件Ｓ,橋梁郵件Ｓ,ブリッジメールＳ
+576,Bridge Mail D,桥梁邮件Ｈ,橋梁郵件Ｈ,ブリッジメールＨ
+577,Bridge Mail T,桥梁邮件Ｃ,橋梁郵件Ｃ,ブリッジメールＣ
+578,Bridge Mail V,桥梁邮件Ｖ,橋梁郵件Ｖ,ブリッジメールＶ
+579,Bridge Mail M,桥梁邮件Ｗ,橋梁郵件Ｗ,ブリッジメールＷ
+580,Prism Scale,美丽鳞片,美麗鱗片,きれいなウロコ
+581,Eviolite,进化奇石,進化奇石,しんかのきせき
+582,Float Stone,轻石,輕石,かるいし
+583,Rocky Helmet,凸凸头盔,凸凸頭盔,ゴツゴツメット
+584,Air Balloon,气球,氣球,ふうせん
+585,Red Card,红牌,紅牌,レッドカード
+586,Ring Target,标靶,標靶,ねらいのまと
+587,Binding Band,紧绑束带,緊綁束帶,しめつけバンド
+588,Absorb Bulb,球根,球根,きゅうこん
+589,Cell Battery,充电电池,充電電池,じゅうでんち
+590,Eject Button,逃脱按键,逃脫按鍵,だっしゅつボタン
+591,Fire Gem,火之宝石,火之寶石,ほのおのジュエル
+592,Water Gem,水之宝石,水之寶石,みずのジュエル
+593,Electric Gem,电之宝石,電之寶石,でんきのジュエル
+594,Grass Gem,草之宝石,草之寶石,くさのジュエル
+595,Ice Gem,冰之宝石,冰之寶石,こおりのジュエル
+596,Fighting Gem,格斗宝石,格鬥寶石,かくとうジュエル
+597,Poison Gem,毒之宝石,毒之寶石,どくのジュエル
+598,Ground Gem,地面宝石,地面寶石,じめんのジュエル
+599,Flying Gem,飞行宝石,飛行寶石,ひこうのジュエル
+600,Psychic Gem,超能力宝石,超能力寶石,エスパージュエル
+601,Bug Gem,虫之宝石,蟲之寶石,むしのジュエル
+602,Rock Gem,岩石宝石,岩石寶石,いわのジュエル
+603,Ghost Gem,幽灵宝石,幽靈寶石,ゴーストジュエル
+604,Dark Gem,恶之宝石,惡之寶石,あくのジュエル
+605,Steel Gem,钢之宝石,鋼之寶石,はがねのジュエル
+606,Health Feather,体力之羽,體力之羽,たいりょくのハネ
+607,Muscle Feather,肌力之羽,肌力之羽,きんりょくのハネ
+608,Resist Feather,抵抗之羽,抵抗之羽,ていこうのハネ
+609,Genius Feather,智力之羽,智力之羽,ちりょくのハネ
+610,Clever Feather,精神之羽,精神之羽,せいしんのハネ
+611,Swift Feather,瞬发之羽,瞬發之羽,しゅんぱつのハネ
+612,Pretty Feather,美丽之羽,美麗之羽,きれいなハネ
+613,Cover Fossil,背盖化石,背蓋化石,ふたのカセキ
+614,Plume Fossil,羽毛化石,羽毛化石,はねのカセキ
+615,Liberty Pass,自由船票,自由船票,リバティチケット
+616,Pass Orb,释出之玉,釋出之玉,デルダマ
+617,Dream Ball,梦境球,夢境球,ドリームボール
+618,Poké Toy,宝可尾草,寶可尾草,ポケじゃらし
+619,Prop Case,物品箱,物品箱,グッズケース
+620,Dragon Skull,龙之骨,龍之骨,ドラゴンのホネ
+621,Balm Mushroom,芳香蘑菇,芳香蘑菇,かおるキノコ
+622,Big Nugget,巨大金珠,巨大金珠,でかいきんのたま
+623,Pearl String,丸子珍珠,丸子珍珠,おだんごしんじゅ
+624,Comet Shard,彗星碎片,彗星碎片,すいせいのかけら
+625,Relic Copper,古代铜币,古代銅幣,こだいのどうか
+626,Relic Silver,古代银币,古代銀幣,こだいのぎんか
+627,Relic Gold,古代金币,古代金幣,こだいのきんか
+628,Relic Vase,古代之壶,古代之壺,こだいのツボ
+629,Relic Band,古代手镯,古代手鐲,こだいのうでわ
+630,Relic Statue,古代石像,古代石像,こだいのせきぞう
+631,Relic Crown,古代王冠,古代王冠,こだいのおうかん
+632,Casteliacone,飞云冰淇淋,飛雲冰淇淋,ヒウンアイス
+657,Light Stone,光明石,光明石,ライトストーン
+658,Dark Stone,黑暗石,黑闇石,ダークストーン
+662,Xtransceiver,即时通讯器,即時通訊器,ライブキャスター
+668,Dragon Gem,龙之宝石,龍之寶石,ドラゴンジュエル
+669,Normal Gem,一般宝石,一般寶石,ノーマルジュエル
+670,Medal Box,奖牌盒,獎牌盒,メダルボックス
+671,DNA Splicers,基因之楔,基因之楔,いでんしのくさび
+673,Permit,许可证,許可證,きょかしょう
+674,Oval Charm,圆形护符,圓形護符,まるいおまもり
+675,Shiny Charm,闪耀护符,閃耀護符,ひかるおまもり
+676,Plasma Card,等离子卡,等離子卡,プラズマカード
+677,Grubby Hanky,脏手帕,髒手帕,よごれたハンカチ
+678,Colress Machine,阿克罗玛机器,阿克羅瑪機器,アクロママシーン
+679,Dropped Item,遗忘物,遺忘物,わすれもの
+681,Reveal Glass,现形镜,現形鏡,うつしかがみ
+682,Weakness Policy,弱点保险,弱點保險,じゃくてんほけん
+683,Assault Vest,突击背心,突擊背心,とつげきチョッキ
+684,Pixie Plate,妖精石板,妖精石板,せいれいプレート
+685,Ability Capsule,特性胶囊,特性膠囊,とくせいカプセル
+686,Whipped Dream,泡沫奶油,泡沫奶油,ホイップポップ
+687,Sachet,香袋,香袋,においぶくろ
+688,Luminous Moss,光苔,光苔,ひかりごけ
+689,Snowball,雪球,雪球,ゆきだま
+690,Safety Goggles,防尘护目镜,防塵護目鏡,ぼうじんゴーグル
+691,Rich Mulch,硕果肥,碩果肥,たわわこやし
+692,Surprise Mulch,吃惊肥,吃驚肥,びっくりこやし
+693,Boost Mulch,劲劲肥,勁勁肥,ぐんぐんこやし
+694,Amaze Mulch,超效肥,超效肥,とんでもこやし
+695,Gengarite,耿鬼进化石,耿鬼進化石,ゲンガナイト
+696,Gardevoirite,沙奈朵进化石,沙奈朵進化石,サーナイトナイト
+697,Ampharosite,电龙进化石,電龍進化石,デンリュウナイト
+698,Venusaurite,妙蛙花进化石,妙蛙花進化石,フシギバナイト
+699,Charizardite X,喷火龙进化石Ｘ,噴火龍進化石Ｘ,リザードナイトＸ
+700,Blastoisinite,水箭龟进化石,水箭龜進化石,カメックスナイト
+701,Mewtwonite X,超梦进化石Ｘ,超夢進化石Ｘ,ミュウツナイトＸ
+702,Mewtwonite Y,超梦进化石Ｙ,超夢進化石Ｙ,ミュウツナイトＹ
+703,Blazikenite,火焰鸡进化石,火焰雞進化石,バシャーモナイト
+704,Medichamite,恰雷姆进化石,恰雷姆進化石,チャーレムナイト
+705,Houndoominite,黑鲁加进化石,黑魯加進化石,ヘルガナイト
+706,Aggronite,波士可多拉进化石,波士可多拉進化石,ボスゴドラナイト
+707,Banettite,诅咒娃娃进化石,詛咒娃娃進化石,ジュペッタナイト
+708,Tyranitarite,班基拉斯进化石,班基拉斯進化石,バンギラスナイト
+709,Scizorite,巨钳螳螂进化石,巨鉗螳螂進化石,ハッサムナイト
+710,Pinsirite,凯罗斯进化石,凱羅斯進化石,カイロスナイト
+711,Aerodactylite,化石翼龙进化石,化石翼龍進化石,プテラナイト
+712,Lucarionite,路卡利欧进化石,路卡利歐進化石,ルカリオナイト
+713,Abomasite,暴雪王进化石,暴雪王進化石,ユキノオナイト
+714,Kangaskhanite,袋兽进化石,袋獸進化石,ガルーラナイト
+715,Gyaradosite,暴鲤龙进化石,暴鯉龍進化石,ギャラドスナイト
+716,Absolite,阿勃梭鲁进化石,阿勃梭魯進化石,アブソルナイト
+717,Charizardite Y,喷火龙进化石Ｙ,噴火龍進化石Ｙ,リザードナイトＹ
+718,Alakazite,胡地进化石,胡地進化石,フーディナイト
+719,Heracronite,赫拉克罗斯进化石,赫拉克羅斯進化石,ヘラクロスナイト
+720,Mawilite,大嘴娃进化石,大嘴娃進化石,クチートナイト
+721,Manectite,雷电兽进化石,雷電獸進化石,ライボルトナイト
+722,Garchompite,烈咬陆鲨进化石,烈咬陸鯊進化石,ガブリアスナイト
+723,Roseli Berry,洛玫果,洛玫果,ロゼルのみ
+724,Kee Berry,亚开果,亞開果,アッキのみ
+725,Maranga Berry,香罗果,香羅果,タラプのみ
+726,Discount Coupon,折价券,折價券,バーゲンチケット
+727,Strange Souvenir,神秘摆设,神秘擺設,ふしぎなおきもの
+728,Lumiose Galette,密阿雷格雷派饼,密阿雷格雷派餅,ミアレガレット
+729,Jaw Fossil,颚之化石,顎之化石,アゴのカセキ
+730,Sail Fossil,鳍之化石,鰭之化石,ヒレのカセキ
+731,Fairy Gem,妖精宝石,妖精寶石,ようせいジュエル
+732,Adventure Guide,探险心得,探險心得,たんけんこころえ
+733,Elevator Key,电梯钥匙,電梯鑰匙,エレベータのキー
+734,Holo Caster,全息影像通讯器,全像投影通訊器,ホロキャスター
+735,Honor of Kalos,卡洛斯勋章,卡洛斯勳章,カロスエンブレム
+736,Intriguing Stone,似珍石,似珍石,すごそうないし
+737,Lens Case,隐形眼镜盒,隱形眼鏡盒,レンズケース
+738,Looker Ticket,帅哥券,帥哥券,ハンサムチケット
+739,Mega Ring,超级环,超級環,メガリング
+740,Power Plant Pass,发电厂通行证,發電廠通行證,はつでんしょパス
+741,Prof’s Letter,博士的信,博士的信,はかせのてがみ
+742,Roller Skates,轮滑鞋,溜冰鞋,ローラースケート
+743,Sprinklotad,莲叶童子喷壶,蓮葉童子噴壺,ハスボーじょうろ
+760,Latiasite,拉帝亚斯进化石,拉帝亞斯進化石,ラティアスナイト
+761,Latiosite,拉帝欧斯进化石,拉帝歐斯進化石,ラティオスナイト
+762,Common Stone,常见石,常見石,ありふれたいし
+763,Makeup Bag,化妆包,化妝包,コスメポーチ
+764,Travel Trunk,衣物箱,衣物箱,いしょうトランク
+765,Shalour Sable,娑罗沙布蕾,娑羅沙布蕾,シャラサブレ
+768,Mega Charm,超级坠饰,超級墜飾,メガチャーム
+769,Mega Glove,超级手套,超級手套,メガグローブ
+770,Devon Parts,得文的物品,得文的物品,デボンのにもつ
+772,Pokéblock Kit,宝可方块套装,寶可方塊組合,ポロックキット
+779,Devon Scuba Gear,得文潜水装备,得文潛水裝備,デボンボンベ
+780,Contest Costume,演出礼服,演出禮服,ライブスーツ
+782,Magma Suit,熔岩装,熔岩裝,マグマスーツ
+783,Aqua Suit,海洋装,海洋裝,アクアスーツ
+784,Pair of Tickets,双人票,雙人票,ペアチケット
+785,Mega Bracelet,超级手镯,超級手鐲,メガバングル
+786,Mega Pendant,超级吊坠,超級吊墜,メガペンダント
+787,Mega Glasses,超级眼镜,超級眼鏡,メガメガネ
+788,Mega Anchor,超级船锚,超級船錨,メガイカリ
+789,Mega Stickpin,超级领针,超級領針,メガラペルピン
+790,Mega Tiara,超级头冠,超級頭冠,メガティアラ
+791,Mega Anklet,超级脚镯,超級腳鐲,メガアンクレット
+793,Swampertite,巨沼怪进化石,巨沼怪進化石,ラグラージナイト
+794,Sceptilite,蜥蜴王进化石,蜥蜴王進化石,ジュカインナイト
+795,Sablenite,勾魂眼进化石,勾魂眼進化石,ヤミラミナイト
+796,Altarianite,七夕青鸟进化石,七夕青鳥進化石,チルタリスナイト
+797,Galladite,艾路雷朵进化石,艾路雷朵進化石,エルレイドナイト
+798,Audinite,差不多娃娃进化石,差不多娃娃進化石,タブンネナイト
+799,Metagrossite,巨金怪进化石,巨金怪進化石,メタグロスナイト
+800,Sharpedonite,巨牙鲨进化石,巨牙鯊進化石,サメハダナイト
+801,Slowbronite,呆壳兽进化石,呆殼獸進化石,ヤドランナイト
+802,Steelixite,大钢蛇进化石,大鋼蛇進化石,ハガネールナイト
+803,Pidgeotite,大比鸟进化石,大比鳥進化石,ピジョットナイト
+804,Glalitite,冰鬼护进化石,冰鬼護進化石,オニゴーリナイト
+805,Diancite,蒂安希进化石,蒂安希進化石,ディアンシナイト
+806,Prison Bottle,惩戒之壶,懲戒之壺,いましめのツボ
+807,Mega Cuff,超级护腕,超級護腕,メガブレス
+808,Cameruptite,喷火驼进化石,噴火駝進化石,バクーダナイト
+809,Lopunnite,长耳兔进化石,長耳兔進化石,ミミロップナイト
+810,Salamencite,暴飞龙进化石,暴飛龍進化石,ボーマンダナイト
+811,Beedrillite,大针蜂进化石,大針蜂進化石,スピアナイト
+814,Key Stone,钥石,鑰石,キーストーン
+815,Meteorite Shard,陨石碎片,隕石碎片,いんせきのかけら
+816,Eon Flute,无限之笛,無限之笛,むげんのふえ
+817,Normalium Z,一般Ｚ,一般Ｚ,ノーマルＺ
+818,Firium Z,火Ｚ,火Ｚ,ホノオＺ
+819,Waterium Z,水Ｚ,水Ｚ,ミズＺ
+820,Electrium Z,电Ｚ,電Ｚ,デンキＺ
+821,Grassium Z,草Ｚ,草Ｚ,クサＺ
+822,Icium Z,冰Ｚ,冰Ｚ,コオリＺ
+823,Fightinium Z,格斗Ｚ,格鬥Ｚ,カクトウＺ
+824,Poisonium Z,毒Ｚ,毒Ｚ,ドクＺ
+825,Groundium Z,地面Ｚ,地面Ｚ,ジメンＺ
+826,Flyinium Z,飞行Ｚ,飛行Ｚ,ヒコウＺ
+827,Psychium Z,超能力Ｚ,超能力Ｚ,エスパーＺ
+828,Buginium Z,虫Ｚ,蟲Ｚ,ムシＺ
+829,Rockium Z,岩石Ｚ,岩石Ｚ,イワＺ
+830,Ghostium Z,幽灵Ｚ,幽靈Ｚ,ゴーストＺ
+831,Dragonium Z,龙Ｚ,龍Ｚ,ドラゴンＺ
+832,Darkinium Z,恶Ｚ,惡Ｚ,アクＺ
+833,Steelium Z,钢Ｚ,鋼Ｚ,ハガネＺ
+834,Fairium Z,妖精Ｚ,妖精Ｚ,フェアリーＺ
+835,Pikanium Z,皮卡丘Ｚ,皮卡丘Ｚ,ピカチュウＺ
+836,Bottle Cap,银色王冠,銀色王冠,ぎんのおうかん
+837,Gold Bottle Cap,金色王冠,金色王冠,きんのおうかん
+838,Z-Ring,Ｚ手环,Ｚ手環,Ｚリング
+839,Decidium Z,狙射树枭Ｚ,狙射樹梟Ｚ,ジュナイパーＺ
+840,Incinium Z,炽焰咆哮虎Ｚ,熾焰咆哮虎Ｚ,ガオガエンＺ
+841,Primarium Z,西狮海壬Ｚ,西獅海壬Ｚ,アシレーヌＺ
+842,Tapunium Z,卡璞Ｚ,卡璞Ｚ,カプＺ
+843,Marshadium Z,玛夏多Ｚ,瑪夏多Ｚ,マーシャドーＺ
+844,Aloraichium Z,阿罗雷Ｚ,阿羅雷Ｚ,アロライＺ
+845,Snorlium Z,卡比兽Ｚ,卡比獸Ｚ,カビゴンＺ
+846,Eevium Z,伊布Ｚ,伊布Ｚ,イーブイＺ
+847,Mewnium Z,梦幻Ｚ,夢幻Ｚ,ミュウＺ
+877,Pikashunium Z,智皮卡Ｚ,智皮卡Ｚ,サトピカＺ
+878,Forage Bag,材料袋,材料袋,ざいりょうぶくろ
+879,Fishing Rod,钓竿,釣竿,つりざお
+880,Professor’s Mask,博士的面罩,博士的面罩,はかせのふくめん
+881,Festival Ticket,圆庆票,圓慶票,フェスチケット
+882,Sparkling Stone,光辉石,光輝石,かがやくいし
+883,Adrenaline Orb,胆怯球,膽怯球,ビビリだま
+884,Zygarde Cube,基格尔德多面体,基格爾德多面體,ジガルデキューブ
+885,Ice Stone,冰之石,冰之石,こおりのいし
+886,Ride Pager,骑行装置,騎行裝置,ライドギア
+887,Beast Ball,究极球,究極球,ウルトラボール
+888,Big Malasada,大马拉萨达,大馬拉薩達,おおきいマラサダ
+889,Red Nectar,朱红色花蜜,朱紅色花蜜,くれないのミツ
+890,Yellow Nectar,金黄色花蜜,金黃色花蜜,やまぶきのミツ
+891,Pink Nectar,桃粉色花蜜,桃粉色花蜜,うすもものミツ
+892,Purple Nectar,兰紫色花蜜,蘭紫色花蜜,むらさきのミツ
+893,Sun Flute,太阳之笛,太陽之笛,たいようのふえ
+894,Moon Flute,月亮之笛,月亮之笛,つきのふえ
+895,Enigmatic Card,奇异卡片,奇異卡片,あやしいカード
+896,Terrain Extender,大地膜,大地膜,グランドコート
+897,Protective Pads,部位护具,部位護具,ぼうごパット
+898,Electric Seed,电气种子,電氣種子,エレキシード
+899,Psychic Seed,精神种子,精神種子,サイコシード
+900,Misty Seed,薄雾种子,薄霧種子,ミストシード
+901,Grassy Seed,青草种子,青草種子,グラスシード
+902,Fighting Memory,战斗存储碟,戰鬥記憶碟,ファイトメモリ
+903,Flying Memory,飞翔存储碟,飛翔記憶碟,フライングメモリ
+904,Poison Memory,毒存储碟,毒記憶碟,ポイズンメモリ
+905,Ground Memory,大地存储碟,大地記憶碟,グラウンドメモリ
+906,Rock Memory,岩石存储碟,岩石記憶碟,ロックメモリ
+907,Bug Memory,虫子存储碟,蟲子記憶碟,バグメモリ
+908,Ghost Memory,幽灵存储碟,幽靈記憶碟,ゴーストメモリ
+909,Steel Memory,钢铁存储碟,鋼鐵記憶碟,スチールメモリ
+910,Fire Memory,火焰存储碟,火焰記憶碟,ファイヤーメモリ
+911,Water Memory,清水存储碟,清水記憶碟,ウオーターメモリ
+912,Grass Memory,青草存储碟,青草記憶碟,グラスメモリ
+913,Electric Memory,电子存储碟,電子記憶碟,エレクトロメモリ
+914,Psychic Memory,精神存储碟,精神記憶碟,サイキックメモリ
+915,Ice Memory,冰雪存储碟,冰雪記憶碟,アイスメモリ
+916,Dragon Memory,龙存储碟,龍記憶碟,ドラゴンメモリ
+917,Dark Memory,黑暗存储碟,黑暗記憶碟,ダークメモリ
+918,Fairy Memory,妖精存储碟,妖精記憶碟,フェアリーメモリ
+919,Bike,自行车,自行車,じてんしゃ
+920,Storage Key,仓库钥匙,倉庫鑰匙,そうこのカギ
+921,Basement Key,地下钥匙,地下鑰匙,ちかのかぎ
+922,Xtransceiver,即时通讯器,即時通訊器,ライブキャスター
+923,Xtransceiver,即时通讯器,即時通訊器,ライブキャスター
+924,DNA Splicers,基因之楔,基因之楔,いでんしのくさび
+925,DNA Splicers,基因之楔,基因之楔,いでんしのくさび
+926,Dropped Item,遗忘物,遺忘物,わすれもの
+927,Dropped Item,遗忘物,遺忘物,わすれもの
+928,Holo Caster,全息影像通讯器,全像投影通訊器,ホロキャスター
+929,Bike,自行车,自行車,じてんしゃ
+930,Holo Caster,全息影像通讯器,全像投影通訊器,ホロキャスター
+931,Basement Key,地下钥匙,地下鑰匙,ちかのカギ
+932,Storage Key,仓库钥匙,倉庫鑰匙,そうこのカギ
+933,S.S. Ticket,船票,船票,ふねのチケット
+934,Contest Costume,演出礼裙,演出禮裙,ライブドレス
+935,Meteorite,陨石,隕石,いんせき
+936,Meteorite,陨石,隕石,いんせき
+937,Meteorite,陨石,隕石,いんせき
+938,Normalium Z,一般Ｚ,一般Ｚ,ノーマルＺ
+939,Firium Z,火Ｚ,火Ｚ,ホノオＺ
+940,Waterium Z,水Ｚ,水Ｚ,ミズＺ
+941,Electrium Z,电Ｚ,電Ｚ,デンキＺ
+942,Grassium Z,草Ｚ,草Ｚ,クサＺ
+943,Icium Z,冰Ｚ,冰Ｚ,コオリＺ
+944,Fightinium Z,格斗Ｚ,格鬥Ｚ,カクトウＺ
+945,Poisonium Z,毒Ｚ,毒Ｚ,ドクＺ
+946,Groundium Z,地面Ｚ,地面Ｚ,ジメンＺ
+947,Flyinium Z,飞行Ｚ,飛行Ｚ,ヒコウＺ
+948,Psychium Z,超能力Ｚ,超能力Ｚ,エスパーＺ
+949,Buginium Z,虫Ｚ,蟲Ｚ,ムシＺ
+950,Rockium Z,岩石Ｚ,岩石Ｚ,イワＺ
+951,Ghostium Z,幽灵Ｚ,幽靈Ｚ,ゴーストＺ
+952,Dragonium Z,龙Ｚ,龍Ｚ,ドラゴンＺ
+953,Darkinium Z,恶Ｚ,惡Ｚ,アクＺ
+954,Steelium Z,钢Ｚ,鋼Ｚ,ハガネＺ
+955,Fairium Z,妖精Ｚ,妖精Ｚ,フェアリーＺ
+956,Pikanium Z,皮卡丘Ｚ,皮卡丘Ｚ,ピカチュウＺ
+957,Decidium Z,狙射树枭Ｚ,狙射樹梟Ｚ,ジュナイパーＺ
+958,Incinium Z,炽焰咆哮虎Ｚ,熾焰咆哮虎Ｚ,ガオガエンＺ
+959,Primarium Z,西狮海壬Ｚ,西獅海壬Ｚ,アシレーヌＺ
+960,Tapunium Z,卡璞Ｚ,卡璞Ｚ,カプＺ
+961,Marshadium Z,玛夏多Ｚ,瑪夏多Ｚ,マーシャドーＺ
+962,Aloraichium Z,阿罗雷Ｚ,阿羅雷Ｚ,アロライＺ
+963,Snorlium Z,卡比兽Ｚ,卡比獸Ｚ,カビゴンＺ
+964,Eevium Z,伊布Ｚ,伊布Ｚ,イーブイＺ
+965,Mewnium Z,梦幻Ｚ,夢幻Ｚ,ミュウＺ
+966,Pikashunium Z,智皮卡Ｚ,智皮卡Ｚ,サトピカＺ
+967,Solganium Z,索尔迦雷欧Ｚ,索爾迦雷歐Ｚ,ソルガレオＺ
+968,Lunalium Z,露奈雅拉Ｚ,露奈雅拉Ｚ,ルナアーラＺ
+969,Ultranecrozium Z,究极奈克洛Ｚ,究極奈克洛Ｚ,ウルトラネクロＺ
+970,Mimikium Z,谜拟ＱＺ,謎擬ＱＺ,ミミッキュＺ
+971,Lycanium Z,鬃岩狼人Ｚ,鬃岩狼人Ｚ,ルガルガンＺ
+972,Kommonium Z,杖尾鳞甲龙Ｚ,杖尾鱗甲龍Ｚ,ジャラランガＺ
+973,Solganium Z,索尔迦雷欧Ｚ,索爾迦雷歐Ｚ,ソルガレオＺ
+974,Lunalium Z,露奈雅拉Ｚ,露奈雅拉Ｚ,ルナアーラＺ
+975,Ultranecrozium Z,究极奈克洛Ｚ,究極奈克洛Ｚ,ウルトラネクロＺ
+976,Mimikium Z,谜拟ＱＺ,謎擬ＱＺ,ミミッキュＺ
+977,Lycanium Z,鬃岩狼人Ｚ,鬃岩狼人Ｚ,ルガルガンＺ
+978,Kommonium Z,杖尾鳞甲龙Ｚ,杖尾鱗甲龍Ｚ,ジャラランガＺ
+979,Z-Power Ring,Ｚ强力手环,Ｚ強力手環,Ｚパワーリング
+980,Pink Petal,粉红花瓣,粉紅花瓣,ももいろはなびら
+981,Orange Petal,橙色花瓣,橙色花瓣,だいだいはなびら
+982,Blue Petal,蓝色花瓣,藍色花瓣,あおのはなびら
+983,Red Petal,红色花瓣,紅色花瓣,あかのはなびら
+984,Green Petal,绿色花瓣,綠色花瓣,みどりのはなびら
+985,Yellow Petal,黄色花瓣,黃色花瓣,きいろのはなびら
+986,Purple Petal,紫色花瓣,紫色花瓣,むらさきはなびら
+987,Rainbow Flower,虹色之花,虹色之花,にじいろのはな
+988,Surge Badge,桔色徽章,橘色徽章,だいだいバッジ
+989,N-Solarizer,奈克洛索尔合体器,奈克洛索爾合體器,ネクロプラスソル
+990,N-Lunarizer,奈克洛露奈合体器,奈克洛露奈合體器,ネクロプラスルナ
+991,N-Solarizer,奈克洛索尔合体器,奈克洛索爾合體器,ネクロプラスソル
+992,N-Lunarizer,奈克洛露奈合体器,奈克洛露奈合體器,ネクロプラスルナ
+993,Ilima Normalium Z,伊利马一般Ｚ,伊利馬一般Ｚ,イリマノーマルＺ
+994,Left Poké Ball,留下的精灵球,留下的精靈球,のこされたボール
+995,Roto Hatch,孵蛋碰碰,孵蛋碰碰,タマゴふかポン
+996,Roto Bargain,优惠碰碰,優惠碰碰,やすうりポン
+997,Roto Prize Money,零花钱碰碰,零用錢碰碰,おこづかいポン
+998,Roto Exp. Points,经验碰碰,經驗碰碰,けいけんポン
+999,Roto Friendship,亲密碰碰,親密碰碰,なつきポン
+1000,Roto Encounter,相遇碰碰,相遇碰碰,みっけポン
+1001,Roto Stealth,隐身碰碰,隱身碰碰,かくれポン
+1002,Roto HP Restore,ＨＰ回复碰碰,ＨＰ回復碰碰,ＨＰかいふくポン
+1003,Roto PP Restore,ＰＰ回复碰碰,ＰＰ回復碰碰,ＰＰかいふくポン
+1004,Roto Boost,加油碰碰,加油碰碰,おうえんポン
+1005,Roto Catch,捕捉碰碰,捕捉碰碰,つかまえポン
+1006,Autograph,马志士的签名,馬志士的簽名,マチスのサイン
+1007,Pokémon Box Link,宝可梦盒,寶可夢盒,ポケモンボックス
+1008,Medicine Pocket,回复口袋,回復口袋,かいふくポケット
+1009,Candy Jar,糖果罐,糖果罐,アメボトル
+1010,Power-Up Pocket,强化口袋,強化口袋,きょうかポケット
+1011,Clothing Trunk,换装箱,換裝箱,おきがえトランク
+1012,Catching Pocket,捕捉口袋,捕捉口袋,ほかくポケット
+1013,Battle Pocket,对战口袋,對戰口袋,バトルポケット
+1014,Silver Razz Berry,银色蔓莓果,銀色蔓莓果,ぎんのズリのみ
+1015,Golden Razz Berry,金色蔓莓果,金色蔓莓果,きんのズリのみ
+1016,Silver Nanab Berry,银色蕉香果,銀色蕉香果,ぎんのナナのみ
+1017,Golden Nanab Berry,金色蕉香果,金色蕉香果,きんのナナのみ
+1018,Silver Pinap Berry,银色凰梨果,銀色凰梨果,ぎんのパイルのみ
+1019,Golden Pinap Berry,金色凰梨果,金色凰梨果,きんのパイルのみ
+1020,Secret Key,秘密钥匙,秘密鑰匙,ひみつのカギ
+1021,S.S. Ticket,船票,船票,ふねのチケット
+1022,Parcel,包裹,包裹,おとどけもの
+1023,Card Key,钥匙卡,鑰匙卡,カードキー
+1024,Stretchy Spring,松掉的弹簧,鬆掉的彈簧,のびたバネ
+1025,Chalky Stone,粉笔石,粉筆石,チョークいし
+1026,Marble,弹珠,彈珠,ビーだま
+1027,Lone Earring,一边的耳环,一邊的耳環,かたっぽピアス
+1028,Beach Glass,海边的玻璃,海邊的玻璃,うみべのガラス
+1029,Gold Leaf,金色叶子,金色葉子,きんのはっぱ
+1030,Silver Leaf,银色叶子,銀色葉子,ぎんのはっぱ
+1031,Polished Mud Ball,光滑泥球,光滑泥球,ピカピカだんご
+1032,Tropical Shell,南国贝壳,南國貝殼,なんごくかいがら
+1033,Leaf Letter,树叶信,樹葉信,このはのおてがみ
+1034,Leaf Letter,树叶信,樹葉信,このはのおてがみ
+1035,Small Bouquet,小小花束,小小花束,ちいさなはなたば
+1036,Lure,引虫香水,引蟲香水,むしよせコロン
+1037,Super Lure,白银香水,白銀香水,シルバーコロン
+1038,Max Lure,黄金香水,黃金香水,ゴールドコロン
+1039,Pewter Crunchies,深灰米果,深灰米果,ニビあられ
+1040,Health Candy,元气糖果,元氣糖果,げんきのアメ
+1041,Mighty Candy,力量糖果,力量糖果,ちからのアメ
+1042,Tough Candy,守护糖果,守護糖果,まもりのアメ
+1043,Smart Candy,知识糖果,知識糖果,ちしきのアメ
+1044,Courage Candy,心灵糖果,心靈糖果,こころのアメ
+1045,Quick Candy,敏捷糖果,敏捷糖果,はやさのアメ
+1046,Health Candy L,元气糖果Ｌ,元氣糖果Ｌ,げんきのアメＬ
+1047,Mighty Candy L,力量糖果Ｌ,力量糖果Ｌ,ちからのアメＬ
+1048,Tough Candy L,守护糖果Ｌ,守護糖果Ｌ,まもりのアメＬ
+1049,Smart Candy L,知识糖果Ｌ,知識糖果Ｌ,ちしきのアメＬ
+1050,Courage Candy L,心灵糖果Ｌ,心靈糖果Ｌ,こころのアメＬ
+1051,Quick Candy L,敏捷糖果Ｌ,敏捷糖果Ｌ,はやさのアメＬ
+1052,Health Candy XL,元气糖果ＸＬ,元氣糖果ＸＬ,げんきのアメＸＬ
+1053,Mighty Candy XL,力量糖果ＸＬ,力量糖果ＸＬ,ちからのアメＸＬ
+1054,Tough Candy XL,守护糖果ＸＬ,守護糖果ＸＬ,まもりのアメＸＬ
+1055,Smart Candy XL,知识糖果ＸＬ,知識糖果ＸＬ,ちしきのアメＸＬ
+1056,Courage Candy XL,心灵糖果ＸＬ,心靈糖果ＸＬ,こころのアメＸＬ
+1057,Quick Candy XL,敏捷糖果ＸＬ,敏捷糖果ＸＬ,はやさのアメＸＬ
+1058,Bulbasaur Candy,妙蛙种子的糖果,妙蛙種子的糖果,フシギダネのアメ
+1059,Charmander Candy,小火龙的糖果,小火龍的糖果,ヒトカゲのアメ
+1060,Squirtle Candy,杰尼龟的糖果,傑尼龜的糖果,ゼニガメのアメ
+1061,Caterpie Candy,绿毛虫的糖果,綠毛蟲的糖果,キャタピーのアメ
+1062,Weedle Candy,独角虫的糖果,獨角蟲的糖果,ビードルのアメ
+1063,Pidgey Candy,波波的糖果,波波的糖果,ポッポのアメ
+1064,Rattata Candy,小拉达的糖果,小拉達的糖果,コラッタのアメ
+1065,Spearow Candy,烈雀的糖果,烈雀的糖果,オニスズメのアメ
+1066,Ekans Candy,阿柏蛇的糖果,阿柏蛇的糖果,アーボのアメ
+1067,Pikachu Candy,皮卡丘的糖果,皮卡丘的糖果,ピカチュウのアメ
+1068,Sandshrew Candy,穿山鼠的糖果,穿山鼠的糖果,サンドのアメ
+1069,Nidoran♀ Candy,尼多兰的糖果,尼多蘭的糖果,ニドラン♀のアメ
+1070,Nidoran♂ Candy,尼多朗的糖果,尼多朗的糖果,ニドラン♂のアメ
+1071,Clefairy Candy,皮皮的糖果,皮皮的糖果,ピッピのアメ
+1072,Vulpix Candy,六尾的糖果,六尾的糖果,ロコンのアメ
+1073,Jigglypuff Candy,胖丁的糖果,胖丁的糖果,プリンのアメ
+1074,Zubat Candy,超音蝠的糖果,超音蝠的糖果,ズバットのアメ
+1075,Oddish Candy,走路草的糖果,走路草的糖果,ナゾノクサのアメ
+1076,Paras Candy,派拉斯的糖果,派拉斯的糖果,パラスのアメ
+1077,Venonat Candy,毛球的糖果,毛球的糖果,コンパンのアメ
+1078,Diglett Candy,地鼠的糖果,地鼠的糖果,ディグダのアメ
+1079,Meowth Candy,喵喵的糖果,喵喵的糖果,ニャースのアメ
+1080,Psyduck Candy,可达鸭的糖果,可達鴨的糖果,コダックのアメ
+1081,Mankey Candy,猴怪的糖果,猴怪的糖果,マンキーのアメ
+1082,Growlithe Candy,卡蒂狗的糖果,卡蒂狗的糖果,ガーディのアメ
+1083,Poliwag Candy,蚊香蝌蚪的糖果,蚊香蝌蚪的糖果,ニョロモのアメ
+1084,Abra Candy,凯西的糖果,凱西的糖果,ケーシィのアメ
+1085,Machop Candy,腕力的糖果,腕力的糖果,ワンリキーのアメ
+1086,Bellsprout Candy,喇叭芽的糖果,喇叭芽的糖果,マダツボミのアメ
+1087,Tentacool Candy,玛瑙水母的糖果,瑪瑙水母的糖果,メノクラゲのアメ
+1088,Geodude Candy,小拳石的糖果,小拳石的糖果,イシツブテのアメ
+1089,Ponyta Candy,小火马的糖果,小火馬的糖果,ポニータのアメ
+1090,Slowpoke Candy,呆呆兽的糖果,呆呆獸的糖果,ヤドンのアメ
+1091,Magnemite Candy,小磁怪的糖果,小磁怪的糖果,コイルのアメ
+1092,Farfetch’d Candy,大葱鸭的糖果,大蔥鴨的糖果,カモネギのアメ
+1093,Doduo Candy,嘟嘟的糖果,嘟嘟的糖果,ドードーのアメ
+1094,Seel Candy,小海狮的糖果,小海獅的糖果,パウワウのアメ
+1095,Grimer Candy,臭泥的糖果,臭泥的糖果,ベトベターのアメ
+1096,Shellder Candy,大舌贝的糖果,大舌貝的糖果,シェルダーのアメ
+1097,Gastly Candy,鬼斯的糖果,鬼斯的糖果,ゴースのアメ
+1098,Onix Candy,大岩蛇的糖果,大岩蛇的糖果,イワークのアメ
+1099,Drowzee Candy,催眠貘的糖果,催眠貘的糖果,スリープのアメ
+1100,Krabby Candy,大钳蟹的糖果,大鉗蟹的糖果,クラブのアメ
+1101,Voltorb Candy,霹雳电球的糖果,霹靂電球的糖果,ビリリダマのアメ
+1102,Exeggcute Candy,蛋蛋的糖果,蛋蛋的糖果,タマタマのアメ
+1103,Cubone Candy,卡拉卡拉的糖果,卡拉卡拉的糖果,カラカラのアメ
+1104,Hitmonlee Candy,飞腿郎的糖果,飛腿郎的糖果,サワムラーのアメ
+1105,Hitmonchan Candy,快拳郎的糖果,快拳郎的糖果,エビワラーのアメ
+1106,Lickitung Candy,大舌头的糖果,大舌頭的糖果,ベロリンガのアメ
+1107,Koffing Candy,瓦斯弹的糖果,瓦斯彈的糖果,ドガースのアメ
+1108,Rhyhorn Candy,独角犀牛的糖果,獨角犀牛的糖果,サイホーンのアメ
+1109,Chansey Candy,吉利蛋的糖果,吉利蛋的糖果,ラッキーのアメ
+1110,Tangela Candy,蔓藤怪的糖果,蔓藤怪的糖果,モンジャラのアメ
+1111,Kangaskhan Candy,袋兽的糖果,袋獸的糖果,ガルーラのアメ
+1112,Horsea Candy,墨海马的糖果,墨海馬的糖果,タッツーのアメ
+1113,Goldeen Candy,角金鱼的糖果,角金魚的糖果,トサキントのアメ
+1114,Staryu Candy,海星星的糖果,海星星的糖果,ヒトデマンのアメ
+1115,Mr. Mime Candy,魔墙人偶的糖果,魔牆人偶的糖果,バリヤードのアメ
+1116,Scyther Candy,飞天螳螂的糖果,飛天螳螂的糖果,ストライクのアメ
+1117,Jynx Candy,迷唇姐的糖果,迷唇姐的糖果,ルージュラのアメ
+1118,Electabuzz Candy,电击兽的糖果,電擊獸的糖果,エレブーのアメ
+1119,Pinsir Candy,凯罗斯的糖果,凱羅斯的糖果,カイロスのアメ
+1120,Tauros Candy,肯泰罗的糖果,肯泰羅的糖果,ケンタロスのアメ
+1121,Magikarp Candy,鲤鱼王的糖果,鯉魚王的糖果,コイキングのアメ
+1122,Lapras Candy,拉普拉斯的糖果,拉普拉斯的糖果,ラプラスのアメ
+1123,Ditto Candy,百变怪的糖果,百變怪的糖果,メタモンのアメ
+1124,Eevee Candy,伊布的糖果,伊布的糖果,イーブイのアメ
+1125,Porygon Candy,多边兽的糖果,多邊獸的糖果,ポリゴンのアメ
+1126,Omanyte Candy,菊石兽的糖果,菊石獸的糖果,オムナイトのアメ
+1127,Kabuto Candy,化石盔的糖果,化石盔的糖果,カブトのアメ
+1128,Aerodactyl Candy,化石翼龙的糖果,化石翼龍的糖果,プテラのアメ
+1129,Snorlax Candy,卡比兽的糖果,卡比獸的糖果,カビゴンのアメ
+1130,Articuno Candy,急冻鸟的糖果,急凍鳥的糖果,フリーザーのアメ
+1131,Zapdos Candy,闪电鸟的糖果,閃電鳥的糖果,サンダーのアメ
+1132,Moltres Candy,火焰鸟的糖果,火焰鳥的糖果,ファイヤーのアメ
+1133,Dratini Candy,迷你龙的糖果,迷你龍的糖果,ミニリュウのアメ
+1134,Mewtwo Candy,超梦的糖果,超夢的糖果,ミュウツーのアメ
+1135,Mew Candy,梦幻的糖果,夢幻的糖果,ミュウのアメ
+1136,Meltan Candy,美录坦的糖果,美錄坦的糖果,メルタンのアメ
+1137,Magmar Candy,鸭嘴火兽的糖果,鴨嘴火獸的糖果,ブーバーのアメ
+1138,Endorsement,推荐函,推薦函,すいせんじょう
+1139,Pokémon Box Link,宝可梦盒,寶可夢盒,ポケモンボックス
+1140,Wishing Star,许愿星,許願星,ねがいぼし
+1141,Dynamax Band,极巨腕带,極巨腕帶,ダイマックスＢ
+1142,Fishing Rod,钓竿,釣竿,つりざお
+1143,Rotom Bike,洛托姆自行车,洛托姆自行車,ロトムじてんしゃ
+1144,Sausages,粗绞肉香肠,粗絞肉香腸,あらびきヴルスト
+1145,Bob’s Food Tin,饱伯罐头,飽伯罐頭,ボブのかんづめ
+1146,Bach’s Food Tin,巴哈罐头,巴哈罐頭,バックのかんづめ
+1147,Tin of Beans,豆子罐头,豆子罐頭,マメかん
+1148,Bread,吐司面包,吐司麵包,しょくパン
+1149,Pasta,通心粉,通心麵,パスタ
+1150,Mixed Mushrooms,袋装蕈菇,袋裝蕈菇,キノコパック
+1151,Smoke-Poke Tail,烟熏尾巴,煙燻尾巴,しっぽのくんせい
+1152,Large Leek,粗枝大葱,粗枝大蔥,ふといながねぎ
+1153,Fancy Apple,特选苹果,特選蘋果,とくせんリンゴ
+1154,Brittle Bones,细骨,細骨,かぼそいホネ
+1155,Pack of Potatoes,袋装土豆,袋裝洋芋,ポテトパック
+1156,Pungent Root,水边香草,水邊香草,みずべのハーブ
+1157,Salad Mix,袋装蔬菜,袋裝蔬菜,やさいパック
+1158,Fried Food,炸物拼盘,炸物拼盤,フライもりあわせ
+1159,Boiled Egg,水煮蛋,水煮蛋,ゆでタマゴ
+1160,Camping Gear,露营组合,露營組合,キャンプセット
+1161,Rusted Sword,腐朽的剑,腐朽的劍,くちたけん
+1162,Rusted Shield,腐朽的盾,腐朽的盾,くちたたて
+1163,Fossilized Bird,化石鸟,化石鳥,カセキのトリ
+1164,Fossilized Fish,化石鱼,化石魚,カセキのサカナ
+1165,Fossilized Drake,化石龙,化石龍,カセキのリュウ
+1166,Fossilized Dino,化石海兽,化石海獸,カセキのクビナガ
+1167,Strawberry Sweet,草莓糖饰,草莓糖飾,いちごアメざいく
+1168,Love Sweet,爱心糖饰,愛心糖飾,ハートアメざいく
+1169,Berry Sweet,野莓糖饰,野莓糖飾,ベリーアメざいく
+1170,Clover Sweet,幸运草糖饰,幸運草糖飾,よつばアメざいく
+1171,Flower Sweet,花朵糖饰,花朵糖飾,おはなアメざいく
+1172,Star Sweet,星星糖饰,星星糖飾,スターアメざいく
+1173,Ribbon Sweet,蝴蝶结糖饰,蝴蝶結糖飾,リボンアメざいく
+1174,Sweet Apple,甜甜苹果,甜甜蘋果,あまーいりんご
+1175,Tart Apple,酸酸苹果,酸酸蘋果,すっぱいりんご
+1176,Throat Spray,爽喉喷雾,爽喉噴霧,のどスプレー
+1177,Eject Pack,避难背包,避難背包,だっしゅつパック
+1178,Heavy-Duty Boots,厚底靴,厚底靴,あつぞこブーツ
+1179,Blunder Policy,打空保险,打空保險,からぶりほけん
+1180,Room Service,客房服务,客房服務,ルームサービス
+1181,Utility Umbrella,万能伞,萬能傘,ばんのうがさ
+1182,Exp. Candy XS,经验糖果ＸＳ,經驗糖果ＸＳ,けいけんアメＸＳ
+1183,Exp. Candy S,经验糖果Ｓ,經驗糖果Ｓ,けいけんアメＳ
+1184,Exp. Candy M,经验糖果Ｍ,經驗糖果Ｍ,けいけんアメＭ
+1185,Exp. Candy L,经验糖果Ｌ,經驗糖果Ｌ,けいけんアメＬ
+1186,Exp. Candy XL,经验糖果ＸＬ,經驗糖果ＸＬ,けいけんアメＸＬ
+1187,Dynamax Candy,极巨糖果,極巨糖果,ダイマックスアメ
+1289,Lonely Mint,怕寂寞薄荷,怕寂寞薄荷,さみしがりミント
+1290,Adamant Mint,固执薄荷,固執薄荷,いじっぱりミント
+1291,Naughty Mint,顽皮薄荷,頑皮薄荷,やんちゃミント
+1292,Brave Mint,勇敢薄荷,勇敢薄荷,ゆうかんミント
+1293,Bold Mint,大胆薄荷,大膽薄荷,ずぶといミント
+1294,Impish Mint,淘气薄荷,淘氣薄荷,わんぱくミント
+1295,Lax Mint,乐天薄荷,樂天薄荷,のうてんきミント
+1296,Relaxed Mint,悠闲薄荷,悠閒薄荷,のんきミント
+1297,Modest Mint,内敛薄荷,內斂薄荷,ひかえめミント
+1298,Mild Mint,慢吞吞薄荷,慢吞吞薄荷,おっとりミント
+1299,Rash Mint,马虎薄荷,馬虎薄荷,うっかりやミント
+1300,Quiet Mint,冷静薄荷,冷靜薄荷,れいせいミント
+1301,Calm Mint,温和薄荷,溫和薄荷,おだやかミント
+1302,Gentle Mint,温顺薄荷,溫順薄荷,おとなしいミント
+1303,Careful Mint,慎重薄荷,慎重薄荷,しんちょうミント
+1304,Sassy Mint,自大薄荷,自大薄荷,なまいきミント
+1305,Timid Mint,胆小薄荷,膽小薄荷,おくびょうミント
+1306,Hasty Mint,急躁薄荷,急躁薄荷,せっかちミント
+1307,Jolly Mint,爽朗薄荷,爽朗薄荷,ようきミント
+1308,Naive Mint,天真薄荷,天真薄荷,むじゃきミント
+1309,Serious Mint,认真薄荷,認真薄荷,まじめミント
+1310,Wishing Piece,许愿星块,許願星塊,ねがいのかたまり
+1311,Cracked Pot,破裂的茶壶,破裂的茶壺,われたポット
+1312,Chipped Pot,缺损的茶壶,缺損的茶壺,かけたポット
+1313,Hi-tech Earbuds,厉害耳塞,厲害耳塞,すごいみみせん
+1314,Fruit Bunch,袋装果实,袋裝果實,フサパック
+1315,Moomoo Cheese,哞哞乳酪,哞哞乳酪,モーモーチーズ
+1316,Spice Mix,香料组合,香料組合,スパイスセット
+1317,Fresh Cream,鲜鲜奶油,鮮鮮奶油,しんせんクリーム
+1318,Packaged Curry,即食咖喱,即食咖哩,レトルトカレー
+1319,Coconut Milk,椰奶,椰奶,ヤシのミルク
+1320,Instant Noodles,即食面,即食麵,レトルトめん
+1321,Precooked Burger,即食肉排,即食肉排,レトルトバーグ
+1322,Gigantamix,超极粉,超極粉,キョダイパウダー
+1323,Wishing Chip,许愿星碎片,許願星碎片,ねがいのかけら
+1324,Rotom Bike,洛托姆自行车,洛托姆自行車,ロトムじてんしゃ
+1325,Catching Charm,防晃护符,防晃護符,ゆれないおまもり
+1326,Old Letter,陈旧的信,陳舊的信,ふるびたてがみ
+1327,Band Autograph,乐队的签名,樂團的簽名,バンドのサイン
+1328,Sonia’s Book,索妮亚的书,索妮亞的書,ソニアのほん
+1329,Rotom Catalog,洛托姆型录,洛托姆型錄,ロトムのカタログ
+1630,Max Honey,极巨甜蜜,極巨甜蜜,ダイミツ
+1631,Max Mushrooms,极巨菇菇,極巨菇菇,ダイキノコ
+1632,Galarica Twig,伽勒豆蔻枝,伽勒荳蔻枝,ガラナツのえだ
+1633,Galarica Cuff,伽勒豆蔻手环,伽勒荳蔻手環,ガラナツブレス
+1634,Style Card,时尚名人卡,時尚名人卡,おしゃれカード
+1635,Armor Pass,铠甲车票,鎧甲車票,ヨロイパス
+1636,Rotom Bike,洛托姆自行车,洛托姆自行車,ロトムじてんしゃ
+1637,Rotom Bike,洛托姆自行车,洛托姆自行車,ロトムじてんしゃ
+1638,Exp. Charm,经验护符,經驗護符,けいけんおまもり
+1639,Armorite Ore,铠甲矿石,鎧甲礦石,ヨロイこうせき
+1640,Mark Charm,证章护符,證章護符,あかしのおまもり
+1641,Reins of Unity,牵绊缰绳,牽絆韁繩,キズナのタヅナ
+1642,Reins of Unity,牵绊缰绳,牽絆韁繩,キズナのタヅナ
+1643,Galarica Wreath,伽勒豆蔻花圈,伽勒荳蔻花圈,ガラナツリース
+1644,Legendary Clue 1,传说笔记１,傳說筆記１,でんせつのメモ１
+1645,Legendary Clue 2,传说笔记２,傳說筆記２,でんせつのメモ２
+1646,Legendary Clue 3,传说笔记３,傳說筆記３,でんせつのメモ３
+1647,Legendary Clue?,传说笔记？,傳說筆記？,でんせつのメモ？
+1648,Crown Pass,王冠车票,王冠車票,カンムリパス
+1649,Wooden Crown,木雕王冠,木雕王冠,きぼりのかんむり
+1650,Radiant Petal,光辉花瓣,光輝花瓣,かがやくはなびら
+1651,White Mane Hair,白色鬃毛,白色鬃毛,しろいたてがみ
+1652,Black Mane Hair,黑色鬃毛,黑色鬃毛,くろいたてがみ
+1653,Iceroot Carrot,冰萝卜,冰蘿蔔,つめたいにんじん
+1654,Shaderoot Carrot,黑萝卜,黑蘿蔔,くろいにんじん
+1655,Dynite Ore,极矿石,極礦石,マックスこうせき
+1656,Carrot Seeds,萝卜种子,蘿蔔種子,にんじんのタネ
+1657,Ability Patch,特性膏药,特性膏藥,とくせいパッチ
+1658,Reins of Unity,牵绊缰绳,牽絆韁繩,キズナのタヅナ
+1659,Adamant Crystal,,大金刚宝玉,だいこんごうだま
+1660,Lustrous Globe,,大白宝玉,だいしらたま
+1661,Griseous Core,,大白金宝玉,だいはっきんだま
+1662,Blank Plate,,净空石板,まっさらプレート
+1663,Strange Ball,,奇异球,ストレンジボール
+1664,Legend Plate,,传说石板,レジェンドプレート
+1665,Rotom Phone,,手机洛托姆,スマホロトム
+1666,Sandwich,,三明治,サンドウィッチ
+1667,Koraidon’s Poké Ball,,故勒顿的球,コライドンのボール
+1668,Miraidon’s Poké Ball,,密勒顿的球,ミライドンのボール
+1669,Tera Orb,,太晶珠,テラスタルオーブ
+1670,Scarlet Book,,朱之书,スカーレットブック
+1671,Violet Book,,紫之书,バイオレットブック
+1672,Kofu’s Wallet,,海岱的钱包,ハイダイのサイフ
+1673,Tiny Bamboo Shoot,,小竹笋,ちいさなタケノコ
+1674,Big Bamboo Shoot,,大竹笋,おおきなタケノコ
+1675,Scroll of Darkness,,恶之挂轴,あくのかけじく
+1676,Scroll of Waters,,水之挂轴,みずのかけじく
+1677,Malicious Armor,,咒术之铠,ノロイノヨロイ
+1678,Normal Tera Shard,,一般太晶碎块,テラピースノーマル
+1679,Fire Tera Shard,,火太晶碎块,テラピースほのお
+1680,Water Tera Shard,,水太晶碎块,テラピースみず
+1681,Electric Tera Shard,,电太晶碎块,テラピースでんき
+1682,Grass Tera Shard,,草太晶碎块,テラピースくさ
+1683,Ice Tera Shard,,冰太晶碎块,テラピースこおり
+1684,Fighting Tera Shard,,格斗太晶碎块,テラピースかくとう
+1685,Poison Tera Shard,,毒太晶碎块,テラピースどく
+1686,Ground Tera Shard,,地面太晶碎块,テラピースじめん
+1687,Flying Tera Shard,,飞行太晶碎块,テラピースひこう
+1688,Psychic Tera Shard,,超能力太晶碎块,テラピースエスパー
+1689,Bug Tera Shard,,虫太晶碎块,テラピースむし
+1690,Rock Tera Shard,,岩石太晶碎块,テラピースいわ
+1691,Ghost Tera Shard,,幽灵太晶碎块,テラピースゴースト
+1692,Dragon Tera Shard,,龙太晶碎块,テラピースドラゴン
+1693,Dark Tera Shard,,恶太晶碎块,テラピースあく
+1694,Steel Tera Shard,,钢太晶碎块,テラピースはがね
+1695,Fairy Tera Shard,,妖精太晶碎块,テラピースフェアリー
+1696,Booster Energy,,驱劲能量,ブーストエナジー
+1697,Ability Shield,,特性护具,とくせいガード
+1698,Clear Amulet,,清净坠饰,クリアチャーム
+1699,Mirror Herb,,模仿香草,ものまねハーブ
+1700,Punching Glove,,拳击手套,パンチグローブ
+1701,Covert Cloak,,密探斗篷,おんみつマント
+1702,Loaded Dice,,机变骰子,いかさまダイス
+1703,Baguette,,长棍面包,バケット
+1704,Mayonnaise,,蛋黄酱,マヨネーズ
+1705,Ketchup,,番茄酱,ケチャップ
+1706,Mustard,,黄芥末酱,マスタード
+1707,Butter,,黄油,バター
+1708,Peanut Butter,,花生酱,ピーナッツバター
+1709,Chili Sauce,,辣酱,チリソース
+1710,Salt,,盐,ソルト
+1711,Pepper,,胡椒,ペッパー
+1712,Yogurt,,酸奶,ヨーグルト
+1713,Whipped Cream,,鲜奶油,ホイップクリーム
+1714,Cream Cheese,,奶油芝士,クリームチーズ
+1715,Jam,,莓果酱,ベリージャム
+1716,Marmalade,,橘子酱,マーマレード
+1717,Olive Oil,,橄榄油,オリーブオイル
+1718,Vinegar,,醋,ビネガー
+1719,Sweet Herba Mystica,,秘传：甜味料,ひでん：あまスパイス
+1720,Salty Herba Mystica,,秘传：咸味料,ひでん：しおスパイス
+1721,Sour Herba Mystica,,秘传：酸味料,ひでん：すぱスパイス
+1722,Bitter Herba Mystica,,秘传：苦味料,ひでん：にがスパイス
+1723,Spicy Herba Mystica,,秘传：辣味料,ひでん：からスパイス
+1724,Lettuce,,生菜,レタス
+1725,Tomato,,西红柿片,トマトスライス
+1726,Cherry Tomatoes,,小西红柿块,カットミニトマト
+1727,Cucumber,,小黄瓜片,キュウリスライス
+1728,Pickle,,酸黄瓜片,ピクルススライス
+1729,Onion,,洋葱片,たまねぎスライス
+1730,Red Onion,,红洋葱,アーリーレッド
+1731,Green Bell Pepper,,青椒片,ピーマンスライス
+1732,Red Bell Pepper,,红椒片,あかパプリカスライス
+1733,Yellow Bell Pepper,,黄椒片,きパプリカスライス
+1734,Avocado,,牛油果,アボカド
+1735,Bacon,,煎培根,やきベーコン
+1736,Ham,,火腿片,ハムスライス
+1737,Prosciutto,,生火腿,なまハム
+1738,Chorizo,,煎辣香肠,やきチョリソー
+1739,Herbed Sausage,,香草香肠,ハーブソーセージ
+1740,Hamburger,,汉堡排,ハンバーグ
+1741,Klawf Stick,,毛崖蟹棒,ガケガニスティック
+1742,Smoked Fillet,,烟熏鱼片,スモークきりみ
+1743,Fried Fillet,,炸鱼片,きりみフライ
+1744,Egg,,水煮蛋片,スライスエッグ
+1745,Potato Tortilla,,烘蛋,トルティージャ
+1746,Tofu,,豆腐,トーフ
+1747,Rice,,米饭,ライス
+1748,Noodles,,面条,ヌードル
+1749,Potato Salad,,土豆色拉,ポテトサラダ
+1750,Cheese,,芝士片,スライスチーズ
+1751,Banana,,香蕉片,バナナスライス
+1752,Strawberry,,草莓片,いちごスライス
+1753,Apple,,苹果片,わぎりリンゴ
+1754,Kiwi,,奇异果片,わぎりキウイ
+1755,Pineapple,,凤梨片,カットパイン
+1756,Jalapeño,,小辣椒,バラペーニョ
+1757,Horseradish,,辣根,ホースラディッシュ
+1758,Curry Powder,,咖喱粉,カレーパウダー
+1759,Wasabi,,芥末酱,ワサビソース
+1760,Watercress,,豆瓣菜,クレソン
+1761,Basil,,罗勒,バジル
+1762,Venonat Fang,,毛球的牙,コンパンのキバ
+1763,Diglett Dirt,,地鼠的土,ディグダのつち
+1764,Meowth Fur,,喵喵的毛,ニャースのけ
+1765,Psyduck Down,,可达鸭的羽绒,コダックのうもう
+1766,Mankey Fur,,猴怪的毛,マンキーのけ
+1767,Growlithe Fur,,卡蒂狗的毛,ガーディのけ
+1768,Slowpoke Claw,,呆呆兽的爪子,ヤドンのツメ
+1769,Magnemite Screw,,小磁怪的螺丝,コイルのねじ
+1770,Grimer Toxin,,臭泥的毒素,ベトベターのどくそ
+1771,Shellder Pearl,,大舌贝的珍珠,シェルダーのしんじゅ
+1772,Gastly Gas,,鬼斯的气体,ゴースのガス
+1773,Drowzee Fur,,催眠貘的毛,スリープのけ
+1774,Voltorb Sparks,,霹雳电球的电力,ビリリダマのでんき
+1775,Scyther Claw,,飞天螳螂的爪子,ストライクのツメ
+1776,Tauros Hair,,肯泰罗的毛,ケンタロスのけ
+1777,Magikarp Scales,,鲤鱼王的鳞片,コイキングのウロコ
+1778,Ditto Goo,,百变怪的黏糊,メタモンのべたべた
+1779,Eevee Fur,,伊布的毛,イーブイのけ
+1780,Dratini Scales,,迷你龙的鳞片,ミニリュウのウロコ
+1781,Pichu Fur,,皮丘的毛,ピチューのけ
+1782,Igglybuff Fluff,,宝宝丁的毛,ププリンのけ
+1783,Mareep Wool,,咩利羊的毛球,メリープのけだま
+1784,Hoppip Leaf,,毽子草的叶片,ハネッコのはっぱ
+1785,Sunkern Leaf,,向日种子的叶片,ヒマナッツのはっぱ
+1786,Murkrow Bauble,,黑暗鸦的宝物,ヤミカラスのおたから
+1787,Misdreavus Tears,,梦妖的眼泪,ムウマのなみだ
+1788,Girafarig Fur,,麒麟奇的毛,キリンリキのけ
+1789,Pineco Husk,,榛果球的壳,クヌギダマのから
+1790,Dunsparce Scales,,土龙弟弟的鳞片,ノコッチのウロコ
+1791,Qwilfish Spines,,千针鱼的刺,ハリーセンのトゲ
+1792,Heracross Claw,,赫拉克罗斯的爪子,ヘラクロスのツメ
+1793,Sneasel Claw,,狃拉的爪子,ニューラのツメ
+1794,Teddiursa Claw,,熊宝宝的爪子,ヒメグマのツメ
+1795,Delibird Parcel,,信使鸟的行李,デリバードのにもつ
+1796,Houndour Fang,,戴鲁比的牙,デルビルのキバ
+1797,Phanpy Nail,,小小象的爪子,ゴマゾウのツメ
+1798,Stantler Hair,,惊角鹿的毛,オドシシのけ
+1799,Larvitar Claw,,幼基拉斯的爪子,ヨーギラスのツメ
+1800,Wingull Feather,,长翅鸥的羽毛,キャモメのはね
+1801,Ralts Dust,,拉鲁拉丝的掉落物,ラルトスのおとしもの
+1802,Surskit Syrup,,溜溜糖球的蜜,アメタマのミツ
+1803,Shroomish Spores,,蘑蘑菇的孢子,キノココのほうし
+1804,Slakoth Fur,,懒人獭的毛,ナマケロのけ
+1805,Makuhita Sweat,,幕下力士的汗,マクノシタのあせ
+1806,Azurill Fur,,露力丽的毛,ルリリのけ
+1807,Sableye Gem,,勾魂眼的宝石,ヤミラミのほうせき
+1808,Meditite Sweat,,玛沙那的汗,アサナンのあせ
+1809,Gulpin Mucus,,溶食兽的黏液,ゴクリンのねんえき
+1810,Numel Lava,,呆火驼的熔岩,ドンメルのようがん
+1811,Torkoal Coal,,煤炭龟的煤炭,コータスのせきたん
+1812,Spoink Pearl,,跳跳猪的珍珠,バネブーのしんじゅ
+1813,Cacnea Needle,,刺球仙人掌的刺,サボネアのトゲ
+1814,Swablu Fluff,,青绵鸟的羽毛,チルットのはね
+1815,Zangoose Claw,,猫鼬斩的爪子,ザングースのツメ
+1816,Seviper Fang,,饭匙蛇的牙,ハブネークのキバ
+1817,Barboach Slime,,泥泥鳅的黏液,ドジョッチのねんえき
+1818,Shuppet Scrap,,怨影娃娃的残片,カゲボウズのきれはし
+1819,Tropius Leaf,,热带龙的叶片,トロピウスのはっぱ
+1820,Snorunt Fur,,雪童子的毛,ユキワラシのけ
+1821,Luvdisc Scales,,爱心鱼的鳞片,ラブカスのウロコ
+1822,Bagon Scales,,宝贝龙的鳞片,タツベイのウロコ
+1823,Starly Feather,,姆克儿的羽毛,ムックルのはね
+1824,Kricketot Shell,,圆法师的蜕壳,コロボーシのぬけがら
+1825,Shinx Fang,,小猫怪的牙,コリンクのキバ
+1826,Combee Honey,,三蜜蜂的蜜,ミツハニーのミツ
+1827,Pachirisu Fur,,帕奇利兹的毛,パチリスのけ
+1828,Buizel Fur,,泳圈鼬的毛,ブイゼルのけ
+1829,Shellos Mucus,,无壳海兔的黏液,カラナクシのねんえき
+1830,Drifloon Gas,,飘飘球的气体,フワンテのガス
+1831,Stunky Fur,,臭鼬噗的毛,スカンプーのけ
+1832,Bronzor Fragment,,铜镜怪的碎片,ドーミラーのかけら
+1833,Bonsly Tears,,盆才怪的眼泪,ウソハチのなみだ
+1834,Happiny Dust,,小福蛋的掉落物,ピンプクのおとしもの
+1835,Spiritomb Fragment,,花岩怪的碎片,ミカルゲのかけら
+1836,Gible Scales,,圆陆鲨的鳞片,フカマルのウロコ
+1837,Riolu Fur,,利欧路的毛,リオルのけ
+1838,Hippopotas Sand,,沙河马的沙,ヒポポタスのすな
+1839,Croagunk Poison,,不良蛙的毒素,グレッグルのどくそ
+1840,Finneon Scales,,荧光鱼的鳞片,ケイコウオのウロコ
+1841,Snover Berries,,雪笠怪的果实,ユキカブリのみ
+1842,Rotom Sparks,,洛托姆的电力,ロトムのでんき
+1843,Petilil Leaf,,百合根娃娃的叶片,チュリネのはっぱ
+1844,Basculin Fang,,野蛮鲈鱼的牙,バスラオのキバ
+1845,Sandile Claw,,黑眼鳄的爪子,メグロコのツメ
+1846,Zorua Fur,,索罗亚的毛,ゾロアのけ
+1847,Gothita Eyelash,,哥德宝宝的睫毛,ゴチムのまつげ
+1848,Deerling Hair,,四季鹿的毛,シキジカのけ
+1849,Foongus Spores,,哎呀球菇的孢子,タマゲタケのほうし
+1850,Alomomola Mucus,,保姆曼波的黏液,ママンボウのねんえき
+1851,Tynamo Slime,,麻麻小鱼的黏液,シビシラスのねんえき
+1852,Axew Scales,,牙牙的鳞片,キバゴのウロコ
+1853,Cubchoo Fur,,喷嚏熊的毛,クマシュンのけ
+1854,Cryogonal Ice,,几何雪花的冰,フリージオのこおり
+1855,Pawniard Blade,,驹刀小兵的刀,コマタナのやいば
+1856,Rufflet Feather,,毛头小鹰的羽毛,ワシボンのはね
+1857,Deino Scales,,单首龙的鳞片,モノズのウロコ
+1858,Larvesta Fuzz,,燃烧虫的毛,メラルバのけ
+1859,Fletchling Feather,,小箭雀的羽毛,ヤヤコマのはね
+1860,Scatterbug Powder,,粉蝶虫的粉,コフキムシのこな
+1861,Litleo Tuft,,小狮狮的鬃毛,シシコのたてがみ
+1862,Flabébé Pollen,,花蓓蓓的花粉,フラベベのかふん
+1863,Skiddo Leaf,,坐骑小羊的叶片,メェークルのはっぱ
+1864,Skrelp Kelp,,垃垃藻的碎藻,クズモーのもくず
+1865,Clauncher Claw,,铁臂枪虾的钳子,ウデッポウのハサミ
+1866,Hawlucha Down,,摔角鹰人的羽绒,ルチャブルのうもう
+1867,Dedenne Fur,,咚咚鼠的毛,デデンネのけ
+1868,Goomy Goo,,黏黏宝的黏液,ヌメラのねんえき
+1869,Klefki Key,,钥圈儿的钥匙,クレッフィのかぎ
+1870,Bergmite Ice,,冰宝的冰,カチコールのこおり
+1871,Noibat Fur,,嗡蝠的毛,オンバットのけ
+1872,Yungoos Fur,,猫鼬少的毛,ヤングースのけ
+1873,Crabrawler Shell,,好胜蟹的壳,マケンカニのから
+1874,Oricorio Feather,,花舞鸟的羽毛,オドリドリのはね
+1875,Rockruff Rock,,岩狗狗的岩石,イワンコのいわ
+1876,Mareanie Spike,,好坏星的刺,ヒドイデのトゲ
+1877,Mudbray Mud,,泥驴仔的泥巴,ドロバンコのどろ
+1878,Fomantis Leaf,,伪螳草的叶片,カリキリのはっぱ
+1879,Salandit Gas,,夜盗火蜥的气体,ヤトウモリのガス
+1880,Bounsweet Sweat,,甜竹竹的汗,アマカジのあせ
+1881,Oranguru Fur,,智挥猩的毛,ヤレユータンのけ
+1882,Passimian Fur,,投掷猴的毛,ナゲツケサルのけ
+1883,Sandygast Sand,,沙丘娃的沙,スナバァのすな
+1884,Komala Claw,,树枕尾熊的爪子,ネッコアラのツメ
+1885,Mimikyu Scrap,,谜拟丘的残片,ミミッキュのきれはし
+1886,Bruxish Tooth,,磨牙彩皮鱼的牙齿,ハギギシリのは
+1887,Chewtle Claw,,咬咬龟的爪子,カムカメのツメ
+1888,Skwovet Fur,,贪心栗鼠的毛,ホシガリスのけ
+1889,Arrokuda Scales,,刺梭鱼的鳞片,サシカマスのウロコ
+1890,Rookidee Feather,,稚山雀的羽毛,ココガラのはね
+1891,Toxel Sparks,,电音婴的电力,エレズンのでんき
+1892,Falinks Sweat,,列阵兵的汗,タイレーツのあせ
+1893,Cufant Tarnish,,铜象的锈,ゾウドウのさび
+1894,Rolycoly Coal,,小炭仔的煤炭,タンドンのせきたん
+1895,Silicobra Sand,,沙包蛇的沙,スナヘビのすな
+1896,Indeedee Fur,,爱管侍的毛,イエッサンのけ
+1897,Pincurchin Spines,,啪嚓海胆的针,バチンウニのはり
+1898,Snom Thread,,雪吞虫的丝,ユキハミのいと
+1899,Impidimp Hair,,捣蛋小妖的毛,ベロバーのけ
+1900,Applin Juice,,啃果虫的果汁,カジッチュのかじゅう
+1901,Sinistea Chip,,来悲茶的碎片,ヤバチャのかけら
+1902,Hatenna Dust,,迷布莉姆的掉落物,ミブリムのおとしもの
+1903,Stonjourner Stone,,巨石丁的岩石,イシヘンジンのいわ
+1904,Eiscue Down,,冰砌鹅的羽绒,コオリッポのうもう
+1905,Dreepy Powder,,多龙梅西亚的粉,ドラメシヤのこな
+1906,Lechonk Hair,,爱吃豚的毛,グルトンのけ
+1907,Tarountula Thread,,团珠蛛的丝,タマンチュラのいと
+1908,Nymble Claw,,豆蟋蟀的爪子,マメバッタのツメ
+1909,Rellor Mud,,虫滚泥的泥巴,シガロコのどろ
+1910,Greavard Wax,,墓仔狗的蜡,ボチのろう
+1911,Flittle Down,,飘飘雏的羽绒,ヒラヒナのうもう
+1912,Wiglett Sand,,海地鼠的沙,ウミディグダのすな
+1913,Dondozo Whisker,,吃吼霸的胡须,ヘイラッシャのヒゲ
+1914,Veluza Fillet,,轻身鳕的鱼片,ミガルーサのきりみ
+1915,Finizen Mucus,,波普海豚的黏液,ナミイルカのねんえき
+1916,Smoliv Oil,,迷你芙的油,ミニーブのオイル
+1917,Capsakid Seed,,热辣娃的种子,カプサイジのたね
+1918,Tadbulb Mucus,,光蚪仔的黏液,ズピカのねんえき
+1919,Varoom Fume,,噗隆隆的气体,ブロロンのガス
+1920,Orthworm Tarnish,,拖拖蚓的锈,ミミズズのさび
+1921,Tandemaus Fur,,一对鼠的毛,ワッカネズミのけ
+1922,Cetoddle Grease,,走鲸的油脂,アルクジラのあぶら
+1923,Frigibax Scales,,凉脊龙的鳞片,セビエのウロコ
+1924,Tatsugiri Scales,,米立龙的鳞片,シャリタツのウロコ
+1925,Cyclizar Scales,,摩托蜥的鳞片,モトトカゲのウロコ
+1926,Pawmi Fur,,布拨的毛,パモのけ
+1927,Wattrel Feather,,电海燕的羽毛,カイデンのはね
+1928,Bombirdier Feather,,下石鸟的羽毛,オトシドリのはね
+1929,Squawkabilly Feather,,怒鹦哥的羽毛,イキリンコのはね
+1930,Flamigo Down,,缠红鹤的羽绒,カラミンゴのうもう
+1931,Klawf Claw,,毛崖蟹的钳子,ガケガニのハサミ
+1932,Nacli Salt,,盐石宝的盐,コジオのしお
+1933,Glimmet Crystal,,晶光芽的结晶,キラーメのけっしょう
+1934,Shroodle Ink,,滋汁鼹的墨汁,シルシュルーのインク
+1935,Fidough Fur,,狗仔包的毛,パピモッチのけ
+1936,Maschiff Fang,,偶叫獒的牙,オラチフのキバ
+1937,Bramblin Twig,,纳噬草的枝条,アノクサのえだ
+1938,Gimmighoul Coin,,索财灵的硬币,コレクレーのコイン
+1939,Tinkatink Hair,,小锻匠的毛,カヌチャンのけ
+1940,Charcadet Soot,,炭小侍的煤灰,カルボウのすす
+1941,Toedscool Flaps,,原野水母的薄片,ノノクラゲのヒラヒラ
+1942,Wooper Slime,,乌波的黏液,ウパーのねんえき
+2015,Picnic Set,,野餐组合,ピクニックセット
+2016,Academy Bottle,,校园水壶,スクールボトル
+2017,Academy Bottle,,校园水壶,スクールボトル
+2018,Polka-Dot Bottle,,圆点水壶,みずたまボトル
+2019,Striped Bottle,,条纹水壶,ストライプボトル
+2020,Diamond Bottle,,菱纹水壶,ダイヤボトル
+2021,Academy Cup,,校园水杯,スクールカップ
+2022,Academy Cup,,校园水杯,スクールカップ
+2023,Striped Cup,,直条纹水杯,たてストライプカップ
+2024,Polka-Dot Cup,,圆点水杯,みずたまカップ
+2025,Flower Pattern Cup,,花朵水杯,フラワーカップ
+2026,Academy Tablecloth,,校园桌巾,スクールクロス
+2027,Academy Tablecloth,,校园桌巾,スクールクロス
+2028,Whimsical Tablecloth,,幻彩桌巾,ファンシークロス
+2029,Leafy Tablecloth,,大自然桌巾,ネイチャークロス
+2030,Spooky Tablecloth,,鬼祟桌巾,うらめしクロス
+2031,Academy Ball,,校园球,スクールボール
+2032,Academy Ball,,校园球,スクールボール
+2033,Marill Ball,,玛力露球,マリルボール
+2034,Yarn Ball,,毛线球,けいとボール
+2035,Cyber Ball,,电竞球,ゲーミングボール
+2036,Gold Pick,,金色三明治签,ゴールドピック
+2037,Silver Pick,,银色三明治签,シルバーピック
+2038,Red-Flag Pick,,红旗子三明治签,あかいはたピック
+2039,Blue-Flag Pick,,蓝旗子三明治签,あおいはたピック
+2040,Pika-Pika Pick,,皮卡丘三明治签,ピカピカピック
+2041,Winking Pika Pick,,眨眼皮卡丘三明治签,パチピカピック
+2042,Vee-Vee Pick,,伊布三明治签,ブイブイピック
+2043,Smiling Vee Pick,,笑脸伊布三明治签,ニコブイピック
+2044,Blue Poké Ball Pick,,蓝珠珠三明治签,あおボールピック
+2045,Auspicious Armor,,庆祝之铠,イワイノヨロイ
+2046,Leader’s Crest,,头领凭证,かしらのしるし
+2047,Pink Bottle,,粉红水壶,ピンクボトル
+2048,Blue Bottle,,蓝色水壶,ブルーボトル
+2049,Yellow Bottle,,黄色水壶,イエローボトル
+2050,Steel Bottle (R),,红纹不锈钢水壶,Rステンレスボトル
+2051,Steel Bottle (Y),,黄纹不锈钢水壶,Yステンレスボトル
+2052,Steel Bottle (B),,蓝纹不锈钢水壶,Bステンレスボトル
+2053,Silver Bottle,,银钛水壶,シルバーチタンボトル
+2054,Barred Cup,,横条纹水杯,よこストライプカップ
+2055,Diamond Pattern Cup,,菱纹水杯,ダイヤカップ
+2056,Fire Pattern Cup,,火焰水杯,ファイヤーカップ
+2057,Pink Cup,,粉红水杯,ピンクカップ
+2058,Blue Cup,,蓝色水杯,ブルーカップ
+2059,Yellow Cup,,黄色水杯,イエローカップ
+2060,Pikachu Cup,,皮卡丘水杯,ピカチュウカップ
+2061,Eevee Cup,,伊布水杯,イーブイカップ
+2062,Slowpoke Cup,,呆呆兽水杯,ヤドンカップ
+2063,Silver Cup,,银钛水杯,シルバーチタンカップ
+2064,Exercise Ball,,瑜珈球,バランスボール
+2065,Plaid Tablecloth (Y),,黄色格子桌巾,きいろチェッククロス
+2066,Plaid Tablecloth (B),,蓝色格子桌巾,あおチェッククロス
+2067,Plaid Tablecloth (R),,红色格子桌巾,あかチェッククロス
+2068,B&W Grass Tablecloth,,黑白草丛桌巾,くさむらモノクロス
+2069,Battle Tablecloth,,对决桌巾,しょうぶクロス
+2070,Monstrous Tablecloth,,怪兽桌巾,かいじゅうクロス
+2071,Striped Tablecloth,,条纹桌巾,ストライプクロス
+2072,Diamond Tablecloth,,菱纹桌巾,ダイヤクロス
+2073,Polka-Dot Tablecloth,,圆点桌巾,みずたまクロス
+2074,Lilac Tablecloth,,紫色桌巾,パープルクロス
+2075,Mint Tablecloth,,浅绿桌巾,ミントクロス
+2076,Peach Tablecloth,,米色桌巾,ベージュクロス
+2077,Yellow Tablecloth,,黄色桌巾,イエロークロス
+2078,Blue Tablecloth,,蓝色桌巾,ブルークロス
+2079,Pink Tablecloth,,粉红桌巾,ピンククロス
+2080,Gold Bottle,,金钛水壶,ゴールドチタンボトル
+2081,Bronze Bottle,,铜钛水壶,ブロンズチタンボトル
+2082,Gold Cup,,金钛水杯,ゴールドチタンカップ
+2083,Bronze Cup,,铜钛水杯,ブロンズチタンカップ
+2084,Green Poké Ball Pick,,绿珠珠三明治签,みどりボールピック
+2085,Red Poké Ball Pick,,红珠珠三明治签,あかボールピック
+2086,Party Sparkler Pick,,烟花祝庆三明治签,おいわいはなびピック
+2087,Heroic Sword Pick,,勇者之剑三明治签,ゆうしゃのけんピック
+2088,Magical Star Pick,,魔法星星三明治签,マジカルスターピック
+2089,Magical Heart Pick,,魔法甜心三明治签,マジカルハートピック
+2090,Parasol Pick,,阳伞三明治签,パラソルピック
+2091,Blue-Sky Flower Pick,,晴空花三明治签,あおぞらおはなピック
+2092,Sunset Flower Pick,,夕阳花三明治签,ゆうやけおはなピック
+2093,Sunrise Flower Pick,,朝霞花三明治签,あさやけおはなピック
+2094,Blue Dish,,蓝色盘子,ブループレート
+2095,Green Dish,,绿色盘子,グリーンプレート
+2096,Orange Dish,,橘色盘子,オレンジプレート
+2097,Red Dish,,红色盘子,レッドプレート
+2098,White Dish,,白色盘子,ホワイトプレート
+2099,Yellow Dish,,黄色盘子,イエロープレート
