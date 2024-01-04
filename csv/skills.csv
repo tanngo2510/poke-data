@@ -873,8 +873,6 @@ skill_id,name_en,name_hans,name_hant,name_jp
 872,Aqua Step,,流水旋舞,アクアステップ
 873,Raging Bull,,怒牛,レイジングブル
 874,Make It Rain,,淘金潮,ゴールドラッシュ
-875,Psyblade,,,
-876,Hydro Steam,,,
 877,Ruination,,大灾难,カタストロフィ
 878,Collision Course,,全开猛撞,アクセルブレイク
 879,Electro Drift,,闪电猛冲,イナズマドライブ
@@ -899,10 +897,6 @@ skill_id,name_en,name_hans,name_hant,name_jp
 898,Noxious Torque,,剧毒暴冲,ポイズンアクセル
 899,Combat Torque,,格斗暴冲,ファイトアクセル
 900,Magical Torque,,魔法暴冲,マジカルアクセル
-901,Blood Moon,,,ブラッドムーン
-902,Matcha Gotcha,,,シャカシャカほう
-903,Syrup Bomb,,,みずあめボム
-904,Ivy Cudgel,,,ツタこんぼう
 905,Electro Shot,电光束,電光束,エレクトロビーム
 906,Tera Starstorm,晶光星群,晶光星群,テラクラスター
 907,Fickle Beam,随机光,隨機光,きまぐレーザー
@@ -918,21 +912,3 @@ skill_id,name_en,name_hans,name_hant,name_jp
 917,Psychic Noise,精神噪音,精神噪音,サイコノイズ
 918,Upper Hand,快手还击,快手還擊,はやてがえし
 919,Malignant Chain,邪毒锁链,邪毒鎖鏈,じゃどくのくさり
-10001,Shadow Rush,,,ダークラッシュ
-10002,Shadow Blast,,,ダークブラスト
-10003,Shadow Blitz,,,ダークアタック
-10004,Shadow Bolt,,,ダークサンダー
-10005,Shadow Break,,,ダークブレイク
-10006,Shadow Chill,,,ダークフリーズ
-10007,Shadow End,,,ダークエンド
-10008,Shadow Fire,,,ダークファイア
-10009,Shadow Rave,,,ダークレイブ
-10010,Shadow Storm,,,ダークストーム
-10011,Shadow Wave,,,ダークウェーブ
-10012,Shadow Down,,,ダークダウン
-10013,Shadow Half,,,ダークハーフ
-10014,Shadow Hold,,,ダークホールド
-10015,Shadow Mist,,,ダークミスト
-10016,Shadow Panic,,,ダークパニック
-10017,Shadow Shed,,,ダークリムーブ
-10018,Shadow Sky,,,ダークウェザー

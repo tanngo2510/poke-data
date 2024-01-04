@@ -149,7 +149,7 @@ def menu():
         print(
             f"│  7 - Xuất tên các vật phẩm - {f"{COLOR["GREEN"]}Active  " if HAVE_ITEMS_NAME else f"{COLOR["RED"]}Deactive"}{COLOR["RESET"]}       │")
         print(
-            f"│  8 - Xuất tên các nhân vật - {COLOR["YELLOW"]}WIP{COLOR["RESET"]}            │")
+            f"│  8 - Xuất tên các địa điểm - {f"{COLOR["GREEN"]}Active  " if HAVE_LOCATIONS_NAME else f"{COLOR["RED"]}Deactive"}{COLOR["RESET"]}       │")
         print(
             f"│  9 - Xuất tên các nhóm phản diện - {f"{COLOR["GREEN"]}Active  " if HAVE_VILLAIN_TEAM else f"{COLOR["RED"]}Deactive"}{COLOR["RESET"]} │")
         print("│  10 - Xuất danh sách tên ra file            │")
@@ -178,14 +178,10 @@ def menu():
             else:
                 HAVE_PKM_NAME = True
         elif choice == "5":
-            # if HAVE_REGIONS_NAME:
-            #     HAVE_REGIONS_NAME = False
-            # else:
-            #     HAVE_REGIONS_NAME = True
-            if HAVE_LOCATIONS_NAME:
-                HAVE_LOCATIONS_NAME = False
+            if HAVE_REGIONS_NAME:
+                HAVE_REGIONS_NAME = False
             else:
-                HAVE_LOCATIONS_NAME = True
+                HAVE_REGIONS_NAME = True
         elif choice == "6":
             if HAVE_SKILLS_NAME:
                 HAVE_SKILLS_NAME = False
@@ -197,10 +193,14 @@ def menu():
             else:
                 HAVE_ITEMS_NAME = True
         elif choice == "8":
-            if HAVE_CHARACTERS_NAME:
-                HAVE_CHARACTERS_NAME = False
+            if HAVE_LOCATIONS_NAME:
+                HAVE_LOCATIONS_NAME = False
             else:
-                HAVE_CHARACTERS_NAME = True
+                HAVE_LOCATIONS_NAME = True
+            # if HAVE_CHARACTERS_NAME:
+            #     HAVE_CHARACTERS_NAME = False
+            # else:
+            #     HAVE_CHARACTERS_NAME = True
         elif choice == "9":
             if HAVE_VILLAIN_TEAM:
                 HAVE_VILLAIN_TEAM = False
